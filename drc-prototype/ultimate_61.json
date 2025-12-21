@@ -1,0 +1,905 @@
+[
+  {
+    "info": {
+      "id": 1387833,
+      "date": "2025-12-12T19:45:00+00:00",
+      "home": "Angers",
+      "away": "Nantes"
+    },
+    "score": {
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "halftime": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": null,
+      "OU25": null,
+      "HSH": null
+    }
+  },
+  {
+    "info": {
+      "id": 1387840,
+      "date": "2025-12-13T16:00:00+00:00",
+      "home": "Rennes",
+      "away": "Stade Brestois 29"
+    },
+    "score": {
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "halftime": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.62"
+        },
+        {
+          "value": "No",
+          "odd": "2.15"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.22"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.00"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.70"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.10"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.70"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.44"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.05"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "9.50"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "5.00"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.17"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "31.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "8.50"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "5.50"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.85"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "21.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "7.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387838,
+      "date": "2025-12-13T18:00:00+00:00",
+      "home": "Metz",
+      "away": "Paris Saint Germain"
+    },
+    "score": {
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "halftime": {
+        "home": 1,
+        "away": 2
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.62"
+        },
+        {
+          "value": "No",
+          "odd": "2.15"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.10"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "6.50"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.35"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "3.10"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "1.85"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.93"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "2.90"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.40"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "5.00"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.17"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "19.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "17.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "4.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "9.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "15.00"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "46.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "1.75"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387839,
+      "date": "2025-12-13T20:05:00+00:00",
+      "home": "Paris FC",
+      "away": "Toulouse"
+    },
+    "score": {
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "halftime": {
+        "home": 0,
+        "away": 2
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.77"
+        },
+        {
+          "value": "No",
+          "odd": "1.93"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.38"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.00"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "2.10"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "1.70"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "3.80"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.07"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "8.00"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "29.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "6.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "4.50"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "4.75"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "6.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "31.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "4.20"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387836,
+      "date": "2025-12-14T14:00:00+00:00",
+      "home": "Lyon",
+      "away": "Le Havre"
+    },
+    "score": {
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "halftime": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.85"
+        },
+        {
+          "value": "No",
+          "odd": "1.85"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.30"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.45"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.93"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "1.85"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "3.35"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.30"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.05"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "9.50"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "6.50"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.10"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "41.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "10.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "5.50"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.50"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.33"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "23.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "8.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387841,
+      "date": "2025-12-14T16:15:00+00:00",
+      "home": "Strasbourg",
+      "away": "Lorient"
+    },
+    "score": {
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "halftime": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.73"
+        },
+        {
+          "value": "No",
+          "odd": "2.00"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.28"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.55"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.85"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "1.93"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "3.10"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.35"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.05"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "9.50"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "5.75"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.12"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "34.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "9.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "5.50"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.70"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "23.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "7.50"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387834,
+      "date": "2025-12-14T16:15:00+00:00",
+      "home": "Auxerre",
+      "away": "Lille"
+    },
+    "score": {
+      "fulltime": {
+        "home": 3,
+        "away": 4
+      },
+      "halftime": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.85"
+        },
+        {
+          "value": "No",
+          "odd": "1.85"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.38"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.00"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "2.10"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "1.73"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "3.75"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.07"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "8.00"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "26.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "4.75"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "4.75"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "6.50"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "8.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "34.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "3.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387835,
+      "date": "2025-12-14T16:15:00+00:00",
+      "home": "Lens",
+      "away": "Nice"
+    },
+    "score": {
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "halftime": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.60"
+        },
+        {
+          "value": "No",
+          "odd": "2.20"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.53"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.45"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.30"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.60"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.95"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "34.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "11.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "6.50"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.20"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.33"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "17.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "10.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1387837,
+      "date": "2025-12-14T19:45:00+00:00",
+      "home": "Marseille",
+      "away": "Monaco"
+    },
+    "score": {
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "halftime": {
+        "home": 0,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.45"
+        },
+        {
+          "value": "No",
+          "odd": "2.55"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.53"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.45"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.25"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.62"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.85"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "7.00"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.09"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "26.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "8.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "6.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.95"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "5.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "6.00"
+        }
+      ]
+    }
+  }
+]

@@ -1,0 +1,1008 @@
+[
+  {
+    "info": {
+      "id": 1381008,
+      "date": "2025-12-13T15:30:00+00:00",
+      "home": "Telstar",
+      "away": "NEC Nijmegen"
+    },
+    "score": {
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "halftime": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.42"
+        },
+        {
+          "value": "No",
+          "odd": "2.65"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.17"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "5.00"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.50"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.55"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.20"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.65"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.70"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "6.50"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.10"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "19.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "5.50"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "6.25"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "5.00"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "7.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "23.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "3.25"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381004,
+      "date": "2025-12-13T17:45:00+00:00",
+      "home": "Groningen",
+      "away": "FC Volendam"
+    },
+    "score": {
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "halftime": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.70"
+        },
+        {
+          "value": "No",
+          "odd": "2.05"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.53"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.45"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.30"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.60"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.03"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "11.00"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.95"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "17.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "41.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "15.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "7.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.00"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "17.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "12.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381006,
+      "date": "2025-12-13T19:00:00+00:00",
+      "home": "PSV Eindhoven",
+      "away": "Heracles"
+    },
+    "score": {
+      "fulltime": {
+        "home": 4,
+        "away": 3
+      },
+      "halftime": {
+        "home": 2,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.65"
+        },
+        {
+          "value": "No",
+          "odd": "2.10"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 2.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "1.48"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "2.65"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "2.05"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.75"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "3.20"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.33"
+        },
+        {
+          "value": "Over 6.5",
+          "odd": "5.50"
+        },
+        {
+          "value": "Under 6.5",
+          "odd": "1.14"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "23.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "56.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "29.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "1.42"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "15.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "26.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "23.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381010,
+      "date": "2025-12-13T20:00:00+00:00",
+      "home": "PEC Zwolle",
+      "away": "Fortuna Sittard"
+    },
+    "score": {
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "halftime": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.55"
+        },
+        {
+          "value": "No",
+          "odd": "2.30"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.90"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.73"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.10"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.80"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.42"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.05"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "9.50"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "5.00"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.17"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "26.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "6.25"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "5.25"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "4.00"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "6.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "23.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "4.20"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381007,
+      "date": "2025-12-14T11:15:00+00:00",
+      "home": "Sparta Rotterdam",
+      "away": "Heerenveen"
+    },
+    "score": {
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "halftime": {
+        "home": 0,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.44"
+        },
+        {
+          "value": "No",
+          "odd": "2.60"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.53"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.45"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.30"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.60"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.04"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "10.00"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.95"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.25"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "19.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "5.50"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "6.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "4.50"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "6.50"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "23.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "3.75"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381002,
+      "date": "2025-12-14T13:30:00+00:00",
+      "home": "Ajax",
+      "away": "Feyenoord"
+    },
+    "score": {
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "halftime": {
+        "home": 1,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.48"
+        },
+        {
+          "value": "No",
+          "odd": "2.50"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.55"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.40"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.38"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.57"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "4.20"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.22"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "8.00"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.07"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "21.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "5.50"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "6.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "4.75"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "7.00"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "26.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "3.35"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381009,
+      "date": "2025-12-14T13:30:00+00:00",
+      "home": "Twente",
+      "away": "GO Ahead Eagles"
+    },
+    "score": {
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "halftime": {
+        "home": 2,
+        "away": 0
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.70"
+        },
+        {
+          "value": "No",
+          "odd": "2.05"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.18"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "4.75"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.55"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "2.40"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "2.35"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.57"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "4.20"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.22"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "7.50"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.08"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "15.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "41.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "13.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "7.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "2.05"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.20"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "17.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "11.00"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381005,
+      "date": "2025-12-14T15:45:00+00:00",
+      "home": "NAC Breda",
+      "away": "Utrecht"
+    },
+    "score": {
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "halftime": {
+        "home": 1,
+        "away": 1
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.65"
+        },
+        {
+          "value": "No",
+          "odd": "2.10"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.28"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "3.50"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.85"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "1.91"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "3.10"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.35"
+        },
+        {
+          "value": "Over 0.5",
+          "odd": "1.05"
+        },
+        {
+          "value": "Under 0.5",
+          "odd": "9.00"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "6.00"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.12"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "26.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "6.25"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "5.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "4.00"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "5.75"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "26.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "13.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "4.50"
+        }
+      ]
+    }
+  },
+  {
+    "info": {
+      "id": 1381003,
+      "date": "2025-12-14T15:45:00+00:00",
+      "home": "AZ Alkmaar",
+      "away": "Excelsior"
+    },
+    "score": {
+      "fulltime": {
+        "home": null,
+        "away": null
+      },
+      "halftime": {
+        "home": null,
+        "away": null
+      }
+    },
+    "odds": {
+      "BTTS": [
+        {
+          "value": "Yes",
+          "odd": "1.60"
+        },
+        {
+          "value": "No",
+          "odd": "2.20"
+        }
+      ],
+      "OU25": [
+        {
+          "value": "Over 1.5",
+          "odd": "1.10"
+        },
+        {
+          "value": "Under 1.5",
+          "odd": "6.50"
+        },
+        {
+          "value": "Over 2.5",
+          "odd": "1.35"
+        },
+        {
+          "value": "Under 2.5",
+          "odd": "3.10"
+        },
+        {
+          "value": "Over 3.5",
+          "odd": "1.85"
+        },
+        {
+          "value": "Under 3.5",
+          "odd": "1.90"
+        },
+        {
+          "value": "Over 4.5",
+          "odd": "3.00"
+        },
+        {
+          "value": "Under 4.5",
+          "odd": "1.38"
+        },
+        {
+          "value": "Over 5.5",
+          "odd": "5.25"
+        },
+        {
+          "value": "Under 5.5",
+          "odd": "1.15"
+        }
+      ],
+      "HSH": [
+        {
+          "value": "Home/Draw",
+          "odd": "17.00"
+        },
+        {
+          "value": "Home/Away",
+          "odd": "41.00"
+        },
+        {
+          "value": "Draw/Away",
+          "odd": "15.00"
+        },
+        {
+          "value": "Draw/Draw",
+          "odd": "9.00"
+        },
+        {
+          "value": "Home/Home",
+          "odd": "1.80"
+        },
+        {
+          "value": "Draw/Home",
+          "odd": "4.20"
+        },
+        {
+          "value": "Away/Home",
+          "odd": "17.00"
+        },
+        {
+          "value": "Away/Draw",
+          "odd": "19.00"
+        },
+        {
+          "value": "Away/Away",
+          "odd": "13.00"
+        }
+      ]
+    }
+  }
+]

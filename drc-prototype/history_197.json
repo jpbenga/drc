@@ -1,0 +1,6792 @@
+[
+  {
+    "fixture": {
+      "id": 1400742,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-23T17:00:00+00:00",
+      "timestamp": 1755968400,
+      "periods": {
+        "first": 1755968400,
+        "second": 1755972000
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400743,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-23T17:00:00+00:00",
+      "timestamp": 1755968400,
+      "periods": {
+        "first": 1755968400,
+        "second": 1755972000
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400744,
+      "referee": "Meletios Gioumatzidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-23T19:00:00+00:00",
+      "timestamp": 1755975600,
+      "periods": {
+        "first": 1755975600,
+        "second": 1755979200
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400740,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-24T17:15:00+00:00",
+      "timestamp": 1756055700,
+      "periods": {
+        "first": 1756055700,
+        "second": 1756059300
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400741,
+      "referee": "Vassilis Fotias, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-24T18:00:00+00:00",
+      "timestamp": 1756058400,
+      "periods": {
+        "first": 1756058400,
+        "second": 1756062000
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400746,
+      "referee": "Dimitrios Moschou, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-25T16:30:00+00:00",
+      "timestamp": 1756139400,
+      "periods": {
+        "first": 1756139400,
+        "second": 1756143000
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400751,
+      "referee": "Alexandros Katsikogiannis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-30T16:00:00+00:00",
+      "timestamp": 1756569600,
+      "periods": {
+        "first": 1756569600,
+        "second": 1756573200
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400753,
+      "referee": "Michail Matsoukas, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-30T16:30:00+00:00",
+      "timestamp": 1756571400,
+      "periods": {
+        "first": 1756571400,
+        "second": 1756575000
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400749,
+      "referee": "Christos Vergetis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-30T18:00:00+00:00",
+      "timestamp": 1756576800,
+      "periods": {
+        "first": 1756576800,
+        "second": 1756580400
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": false
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400748,
+      "referee": "Panagiotis Koukoulas, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-30T18:30:00+00:00",
+      "timestamp": 1756578600,
+      "periods": {
+        "first": 1756578600,
+        "second": 1756582200
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400750,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-31T17:00:00+00:00",
+      "timestamp": 1756659600,
+      "periods": {
+        "first": 1756659600,
+        "second": 1756663200
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400752,
+      "referee": "Alexandros Katsikogiannis, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-31T18:00:00+00:00",
+      "timestamp": 1756663200,
+      "periods": {
+        "first": 1756663200,
+        "second": 1756666800
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400747,
+      "referee": "Ioannis Papadopoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-08-31T19:00:00+00:00",
+      "timestamp": 1756666800,
+      "periods": {
+        "first": 1756666800,
+        "second": 1756670400
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": null
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400754,
+      "referee": "Spyridon Zampalas, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-13T15:00:00+00:00",
+      "timestamp": 1757775600,
+      "periods": {
+        "first": 1757775600,
+        "second": 1757779200
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400757,
+      "referee": "Athanasios Tzilos, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-13T17:00:00+00:00",
+      "timestamp": 1757782800,
+      "periods": {
+        "first": 1757782800,
+        "second": 1757786400
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400759,
+      "referee": "Vassilis Fotias, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-13T17:00:00+00:00",
+      "timestamp": 1757782800,
+      "periods": {
+        "first": 1757782800,
+        "second": 1757786400
+      },
+      "venue": {
+        "id": null,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400760,
+      "referee": "Georgios Kokkinos, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-14T15:00:00+00:00",
+      "timestamp": 1757862000,
+      "periods": {
+        "first": 1757862000,
+        "second": 1757865600
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400756,
+      "referee": "Konstantinos Katikos, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-14T15:00:00+00:00",
+      "timestamp": 1757862000,
+      "periods": {
+        "first": 1757862000,
+        "second": 1757865600
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": true
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400758,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-14T17:00:00+00:00",
+      "timestamp": 1757869200,
+      "periods": {
+        "first": 1757869200,
+        "second": 1757872800
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": false
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400755,
+      "referee": "Angelos Evangelou, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-14T18:30:00+00:00",
+      "timestamp": 1757874600,
+      "periods": {
+        "first": 1757874600,
+        "second": 1757878200
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400761,
+      "referee": "Stavros Tsimenteridis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-20T15:00:00+00:00",
+      "timestamp": 1758380400,
+      "periods": {
+        "first": 1758380400,
+        "second": 1758384000
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": null
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400764,
+      "referee": "Meletios Gioumatzidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-20T15:00:00+00:00",
+      "timestamp": 1758380400,
+      "periods": {
+        "first": 1758380400,
+        "second": 1758384000
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400762,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-20T17:00:00+00:00",
+      "timestamp": 1758387600,
+      "periods": {
+        "first": 1758387600,
+        "second": 1758391200
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400763,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-20T17:30:00+00:00",
+      "timestamp": 1758389400,
+      "periods": {
+        "first": 1758389400,
+        "second": 1758393000
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": null
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400767,
+      "referee": "Dimitrios Moschou, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-21T14:30:00+00:00",
+      "timestamp": 1758465000,
+      "periods": {
+        "first": 1758465000,
+        "second": 1758468600
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": null
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400766,
+      "referee": "Christos Vergetis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-21T15:00:00+00:00",
+      "timestamp": 1758466800,
+      "periods": {
+        "first": 1758466800,
+        "second": 1758470400
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400765,
+      "referee": "Deniz Aytekin, Germany",
+      "timezone": "UTC",
+      "date": "2025-09-21T18:00:00+00:00",
+      "timestamp": 1758477600,
+      "periods": {
+        "first": 1758477600,
+        "second": 1758481200
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": null
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400769,
+      "referee": "Alexandros Katsikogiannis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-27T15:00:00+00:00",
+      "timestamp": 1758985200,
+      "periods": {
+        "first": 1758985200,
+        "second": 1758988800
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400772,
+      "referee": "Angelos Evangelou, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-27T17:30:00+00:00",
+      "timestamp": 1758994200,
+      "periods": {
+        "first": 1758994200,
+        "second": 1758997800
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400773,
+      "referee": "Vassilis Fotias, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-28T14:00:00+00:00",
+      "timestamp": 1759068000,
+      "periods": {
+        "first": 1759068000,
+        "second": 1759071600
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400774,
+      "referee": "Ioannis Papadopoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-28T16:00:00+00:00",
+      "timestamp": 1759075200,
+      "periods": {
+        "first": 1759075200,
+        "second": 1759078800
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Pankritio Stadium",
+        "city": "Heraklion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400768,
+      "referee": "Stavros Tsimenteridis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-28T17:30:00+00:00",
+      "timestamp": 1759080600,
+      "periods": {
+        "first": 1759080600,
+        "second": 1759084200
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400770,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-28T18:00:00+00:00",
+      "timestamp": 1759082400,
+      "periods": {
+        "first": 1759082400,
+        "second": 1759086000
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400771,
+      "referee": "Michail Matsoukas, Greece",
+      "timezone": "UTC",
+      "date": "2025-09-29T15:00:00+00:00",
+      "timestamp": 1759158000,
+      "periods": {
+        "first": 1759158000,
+        "second": 1759161600
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": null
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400778,
+      "referee": "Athanasios Tzilos, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-04T15:00:00+00:00",
+      "timestamp": 1759590000,
+      "periods": {
+        "first": 1759590000,
+        "second": 1759593600
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400781,
+      "referee": "Panagiotis Koukoulas, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-04T15:00:00+00:00",
+      "timestamp": 1759590000,
+      "periods": {
+        "first": 1759590000,
+        "second": 1759593600
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": true
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400779,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-04T17:30:00+00:00",
+      "timestamp": 1759599000,
+      "periods": {
+        "first": 1759599000,
+        "second": 1759602600
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400777,
+      "referee": "Georgios Kokkinos, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-05T15:00:00+00:00",
+      "timestamp": 1759676400,
+      "periods": {
+        "first": 1759676400,
+        "second": 1759680000
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400780,
+      "referee": "Christos Vergetis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-05T15:00:00+00:00",
+      "timestamp": 1759676400,
+      "periods": {
+        "first": 1759676400,
+        "second": 1759680000
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": false
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400776,
+      "referee": "Harm Osmers, Germany",
+      "timezone": "UTC",
+      "date": "2025-10-05T17:30:00+00:00",
+      "timestamp": 1759685400,
+      "periods": {
+        "first": 1759685400,
+        "second": 1759689000
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400775,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-05T18:30:00+00:00",
+      "timestamp": 1759689000,
+      "periods": {
+        "first": 1759689000,
+        "second": 1759692600
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400787,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-18T14:00:00+00:00",
+      "timestamp": 1760796000,
+      "periods": {
+        "first": 1760796000,
+        "second": 1760799600
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400788,
+      "referee": "Dimitrios Moschou, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-18T16:30:00+00:00",
+      "timestamp": 1760805000,
+      "periods": {
+        "first": 1760805000,
+        "second": 1760808600
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": null
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400782,
+      "referee": "Konstantinos Katikos, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-18T17:00:00+00:00",
+      "timestamp": 1760806800,
+      "periods": {
+        "first": 1760806800,
+        "second": 1760810400
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400785,
+      "referee": "Michail Matsoukas, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-19T13:00:00+00:00",
+      "timestamp": 1760878800,
+      "periods": {
+        "first": 1760878800,
+        "second": 1760882400
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400784,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-19T14:30:00+00:00",
+      "timestamp": 1760884200,
+      "periods": {
+        "first": 1760884200,
+        "second": 1760887800
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400783,
+      "referee": "Felix Zwayer, Germany",
+      "timezone": "UTC",
+      "date": "2025-10-19T16:30:00+00:00",
+      "timestamp": 1760891400,
+      "periods": {
+        "first": 1760891400,
+        "second": 1760895000
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400786,
+      "referee": "Sascha Stegemann, Germany",
+      "timezone": "UTC",
+      "date": "2025-10-19T18:00:00+00:00",
+      "timestamp": 1760896800,
+      "periods": {
+        "first": 1760896800,
+        "second": 1760900400
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": false
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400793,
+      "referee": "Alexandros Katsikogiannis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-25T14:00:00+00:00",
+      "timestamp": 1761400800,
+      "periods": {
+        "first": 1761400800,
+        "second": 1761404400
+      },
+      "venue": {
+        "id": 761,
+        "name": "Dimotiko Gipedo Neapolis",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": null
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400795,
+      "referee": "Meletios Gioumatzidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-25T16:30:00+00:00",
+      "timestamp": 1761409800,
+      "periods": {
+        "first": 1761409800,
+        "second": 1761413400
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400794,
+      "referee": "Spyridon Zampalas, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-25T17:00:00+00:00",
+      "timestamp": 1761411600,
+      "periods": {
+        "first": 1761411600,
+        "second": 1761415200
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Pankritio Stadium",
+        "city": "Heraklion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400791,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-26T15:00:00+00:00",
+      "timestamp": 1761490800,
+      "periods": {
+        "first": 1761490800,
+        "second": 1761494400
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400792,
+      "referee": "Athanasios Tzilos, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-26T15:30:00+00:00",
+      "timestamp": 1761492600,
+      "periods": {
+        "first": 1761492600,
+        "second": 1761496200
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400789,
+      "referee": "Christos Vergetis, Greece",
+      "timezone": "UTC",
+      "date": "2025-10-26T17:30:00+00:00",
+      "timestamp": 1761499800,
+      "periods": {
+        "first": 1761499800,
+        "second": 1761503400
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400790,
+      "referee": "Tobias Stieler, Germany",
+      "timezone": "UTC",
+      "date": "2025-10-26T19:00:00+00:00",
+      "timestamp": 1761505200,
+      "periods": {
+        "first": 1761505200,
+        "second": 1761508800
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400798,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-01T16:00:00+00:00",
+      "timestamp": 1762012800,
+      "periods": {
+        "first": 1762012800,
+        "second": 1762016400
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400801,
+      "referee": "Angelos Evangelou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-01T17:30:00+00:00",
+      "timestamp": 1762018200,
+      "periods": {
+        "first": 1762018200,
+        "second": 1762021800
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400796,
+      "referee": "Daniel Siebert, Germany",
+      "timezone": "UTC",
+      "date": "2025-11-01T18:00:00+00:00",
+      "timestamp": 1762020000,
+      "periods": {
+        "first": 1762020000,
+        "second": 1762023600
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400802,
+      "referee": "Konstantinos Katikos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-02T15:30:00+00:00",
+      "timestamp": 1762097400,
+      "periods": {
+        "first": 1762097400,
+        "second": 1762101000
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400799,
+      "referee": "Athanasios Tzilos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-02T17:30:00+00:00",
+      "timestamp": 1762104600,
+      "periods": {
+        "first": 1762104600,
+        "second": 1762108200
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400800,
+      "referee": "Ioannis Papadopoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-02T19:00:00+00:00",
+      "timestamp": 1762110000,
+      "periods": {
+        "first": 1762110000,
+        "second": 1762113600
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400797,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-03T15:00:00+00:00",
+      "timestamp": 1762182000,
+      "periods": {
+        "first": 1762182000,
+        "second": 1762185600
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400804,
+      "referee": "Dimitrios Moschou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-08T15:00:00+00:00",
+      "timestamp": 1762614000,
+      "periods": {
+        "first": 1762614000,
+        "second": 1762617600
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": true
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400805,
+      "referee": "Spyridon Zampalas, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-09T13:00:00+00:00",
+      "timestamp": 1762693200,
+      "periods": {
+        "first": 1762693200,
+        "second": 1762696800
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400807,
+      "referee": "Christos Vergetis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-09T13:00:00+00:00",
+      "timestamp": 1762693200,
+      "periods": {
+        "first": 1762693200,
+        "second": 1762696800
+      },
+      "venue": {
+        "id": null,
+        "name": "Dimotiko Gipedo Neapolis",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": false
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400806,
+      "referee": "Michail Matsoukas, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-09T15:00:00+00:00",
+      "timestamp": 1762700400,
+      "periods": {
+        "first": 1762700400,
+        "second": 1762704000
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400809,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-09T15:30:00+00:00",
+      "timestamp": 1762702200,
+      "periods": {
+        "first": 1762702200,
+        "second": 1762705800
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Pankritio Stadium",
+        "city": "Heraklion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400803,
+      "referee": "Stavros Tsimenteridis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-09T17:00:00+00:00",
+      "timestamp": 1762707600,
+      "periods": {
+        "first": 1762707600,
+        "second": 1762711200
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400808,
+      "referee": "Daniel Schlager, Germany",
+      "timezone": "UTC",
+      "date": "2025-11-09T19:00:00+00:00",
+      "timestamp": 1762714800,
+      "periods": {
+        "first": 1762714800,
+        "second": 1762718400
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400813,
+      "referee": "Panagiotis Koukoulas, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-22T17:30:00+00:00",
+      "timestamp": 1763832600,
+      "periods": {
+        "first": 1763832600,
+        "second": 1763836200
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400812,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-22T18:00:00+00:00",
+      "timestamp": 1763834400,
+      "periods": {
+        "first": 1763834400,
+        "second": 1763838000
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400814,
+      "referee": "Angelos Evangelou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-23T15:00:00+00:00",
+      "timestamp": 1763910000,
+      "periods": {
+        "first": 1763910000,
+        "second": 1763913600
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400811,
+      "referee": "Georgios Kokkinos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-23T17:00:00+00:00",
+      "timestamp": 1763917200,
+      "periods": {
+        "first": 1763917200,
+        "second": 1763920800
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400810,
+      "referee": "Harm Osmers, Germany",
+      "timezone": "UTC",
+      "date": "2025-11-23T19:00:00+00:00",
+      "timestamp": 1763924400,
+      "periods": {
+        "first": 1763924400,
+        "second": 1763928000
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400815,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-24T16:00:00+00:00",
+      "timestamp": 1764000000,
+      "periods": {
+        "first": 1764000000,
+        "second": 1764003600
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400816,
+      "referee": "Meletios Gioumatzidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-24T18:00:00+00:00",
+      "timestamp": 1764007200,
+      "periods": {
+        "first": 1764007200,
+        "second": 1764010800
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400818,
+      "referee": "Spyridon Zampalas, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-29T15:30:00+00:00",
+      "timestamp": 1764430200,
+      "periods": {
+        "first": 1764430200,
+        "second": 1764433800
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Pankritio Stadium",
+        "city": "Heraklion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400820,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-29T17:30:00+00:00",
+      "timestamp": 1764437400,
+      "periods": {
+        "first": 1764437400,
+        "second": 1764441000
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 12
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": true
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400821,
+      "referee": "Stavros Tsimenteridis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-29T17:30:00+00:00",
+      "timestamp": 1764437400,
+      "periods": {
+        "first": 1764437400,
+        "second": 1764441000
+      },
+      "venue": {
+        "id": 761,
+        "name": "Dimotiko Gipedo Neapolis",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400817,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-30T15:00:00+00:00",
+      "timestamp": 1764514800,
+      "periods": {
+        "first": 1764514800,
+        "second": 1764518400
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400819,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-30T15:00:00+00:00",
+      "timestamp": 1764514800,
+      "periods": {
+        "first": 1764514800,
+        "second": 1764518400
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400823,
+      "referee": "Anastasios Sidiropoulos, Greece",
+      "timezone": "UTC",
+      "date": "2025-11-30T17:00:00+00:00",
+      "timestamp": 1764522000,
+      "periods": {
+        "first": 1764522000,
+        "second": 1764525600
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": false
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400822,
+      "referee": "Robert Schröder, Germany",
+      "timezone": "UTC",
+      "date": "2025-11-30T19:00:00+00:00",
+      "timestamp": 1764529200,
+      "periods": {
+        "first": 1764529200,
+        "second": 1764532800
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": false
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400828,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-06T15:00:00+00:00",
+      "timestamp": 1765033200,
+      "periods": {
+        "first": 1765033200,
+        "second": 1765036800
+      },
+      "venue": {
+        "id": 775,
+        "name": "Georgios Karaiskakis Stadium",
+        "city": "Piraeus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400829,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-06T18:30:00+00:00",
+      "timestamp": 1765045800,
+      "periods": {
+        "first": 1765045800,
+        "second": 1765049400
+      },
+      "venue": {
+        "id": 1918,
+        "name": "Panthessaliko Stadium",
+        "city": "Volos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": null
+      },
+      "away": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400824,
+      "referee": "Vassilis Fotias, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-07T15:00:00+00:00",
+      "timestamp": 1765119600,
+      "periods": {
+        "first": 1765119600,
+        "second": 1765123200
+      },
+      "venue": {
+        "id": 766,
+        "name": "Theodoros Kolokotronis Stadium",
+        "city": "Tripoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      },
+      "away": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400825,
+      "referee": "Angelos Evangelou, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-07T15:30:00+00:00",
+      "timestamp": 1765121400,
+      "periods": {
+        "first": 1765121400,
+        "second": 1765125000
+      },
+      "venue": {
+        "id": 772,
+        "name": "AEL FC Arena",
+        "city": "Larissa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 13
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": null
+      },
+      "away": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400827,
+      "referee": "Srdan Jovanovic, Serbia",
+      "timezone": "UTC",
+      "date": "2025-12-07T17:30:00+00:00",
+      "timestamp": 1765128600,
+      "periods": {
+        "first": 1765128600,
+        "second": 1765132200
+      },
+      "venue": {
+        "id": 780,
+        "name": "Toumba Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400830,
+      "referee": "Spyridon Zampalas, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-07T19:00:00+00:00",
+      "timestamp": 1765134000,
+      "periods": {
+        "first": 1765134000,
+        "second": 1765137600
+      },
+      "venue": {
+        "id": 19785,
+        "name": "OPAP Arena",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      },
+      "away": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400826,
+      "referee": "Athanasios Tzilos, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-08T16:00:00+00:00",
+      "timestamp": 1765209600,
+      "periods": {
+        "first": 1765209600,
+        "second": 1765213200
+      },
+      "venue": {
+        "id": 2734,
+        "name": "Dimotiko Stadio Serron",
+        "city": "Serres"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      },
+      "away": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400834,
+      "referee": "Michail Matsoukas, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-13T15:00:00+00:00",
+      "timestamp": 1765638000,
+      "periods": {
+        "first": 1765638000,
+        "second": 1765641600
+      },
+      "venue": {
+        "id": 773,
+        "name": "Levadia Stadium",
+        "city": "Levadia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 957,
+        "name": "Levadiakos",
+        "logo": "https://media.api-sports.io/football/teams/957.png",
+        "winner": true
+      },
+      "away": {
+        "id": 953,
+        "name": "Larisa",
+        "logo": "https://media.api-sports.io/football/teams/953.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400831,
+      "referee": "Konstantinos Katikos, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-13T16:00:00+00:00",
+      "timestamp": 1765641600,
+      "periods": {
+        "first": 1765641600,
+        "second": 1765645200
+      },
+      "venue": {
+        "id": 22447,
+        "name": "Pankritio Stadium",
+        "city": "Heraklion"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1124,
+        "name": "OFI",
+        "logo": "https://media.api-sports.io/football/teams/1124.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2099,
+        "name": "Panserraikos",
+        "logo": "https://media.api-sports.io/football/teams/2099.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400835,
+      "referee": "Fotios Polychronis, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-13T18:00:00+00:00",
+      "timestamp": 1765648800,
+      "periods": {
+        "first": 1765648800,
+        "second": 1765652400
+      },
+      "venue": {
+        "id": 761,
+        "name": "Dimotiko Gipedo Neapolis",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 5050,
+        "name": "Kifisia",
+        "logo": "https://media.api-sports.io/football/teams/5050.png",
+        "winner": null
+      },
+      "away": {
+        "id": 955,
+        "name": "Asteras Tripolis",
+        "logo": "https://media.api-sports.io/football/teams/955.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400833,
+      "referee": "Anastasios Papapetrou, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-14T15:30:00+00:00",
+      "timestamp": 1765726200,
+      "periods": {
+        "first": 1765726200,
+        "second": 1765729800
+      },
+      "venue": {
+        "id": 778,
+        "name": "Panetolikos Stadium",
+        "city": "Agrinio"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 949,
+        "name": "Panetolikos",
+        "logo": "https://media.api-sports.io/football/teams/949.png",
+        "winner": false
+      },
+      "away": {
+        "id": 575,
+        "name": "AEK Athens FC",
+        "logo": "https://media.api-sports.io/football/teams/575.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400836,
+      "referee": "Alexandros Tsakalidis, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-14T16:00:00+00:00",
+      "timestamp": 1765728000,
+      "periods": {
+        "first": 1765728000,
+        "second": 1765731600
+      },
+      "venue": {
+        "id": 7804,
+        "name": "Peristeri Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 12260,
+        "name": "Atromitos",
+        "logo": "https://media.api-sports.io/football/teams/12260.png",
+        "winner": true
+      },
+      "away": {
+        "id": 619,
+        "name": "PAOK",
+        "logo": "https://media.api-sports.io/football/teams/619.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400837,
+      "referee": "Sven Jablonski, Germany",
+      "timezone": "UTC",
+      "date": "2025-12-14T18:00:00+00:00",
+      "timestamp": 1765735200,
+      "periods": {
+        "first": 1765735200,
+        "second": 1765738800
+      },
+      "venue": {
+        "id": 765,
+        "name": "Kleanthis Vikelidis Stadium",
+        "city": "Thessaloniki"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1123,
+        "name": "Aris Thessalonikis",
+        "logo": "https://media.api-sports.io/football/teams/1123.png",
+        "winner": null
+      },
+      "away": {
+        "id": 553,
+        "name": "Olympiakos Piraeus",
+        "logo": "https://media.api-sports.io/football/teams/553.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1400832,
+      "referee": "Vassilis Fotias, Greece",
+      "timezone": "UTC",
+      "date": "2025-12-14T19:00:00+00:00",
+      "timestamp": 1765738800,
+      "periods": {
+        "first": 1765738800,
+        "second": 1765742400
+      },
+      "venue": {
+        "id": 19929,
+        "name": "Apostolos Nikolaidis Stadium",
+        "city": "Athens"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 197,
+      "name": "Super League 1",
+      "country": "Greece",
+      "logo": "https://media.api-sports.io/football/leagues/197.png",
+      "flag": "https://media.api-sports.io/flags/gr.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 617,
+        "name": "Panathinaikos",
+        "logo": "https://media.api-sports.io/football/teams/617.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2110,
+        "name": "Volos NFC",
+        "logo": "https://media.api-sports.io/football/teams/2110.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

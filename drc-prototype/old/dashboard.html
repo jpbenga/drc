@@ -1,0 +1,1168 @@
+
+    <!DOCTYPE html>
+    <html lang="fr">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>DRC Football Intelligence</title>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+        <style>
+            :root { --bg: #0f172a; --card: #1e293b; --text: #f1f5f9; --border: #334155; }
+            body { font-family: 'Inter', sans-serif; background: var(--bg); color: var(--text); padding: 20px; margin: 0; }
+            .container { max-width: 1000px; margin: 0 auto; }
+            h1 { text-align: center; color: #38bdf8; font-size: 2rem; margin-bottom: 10px; }
+            .subtitle { text-align: center; color: #94a3b8; margin-bottom: 40px; font-size: 0.9rem; }
+            
+            .league-card { background: var(--card); border-radius: 12px; margin-bottom: 30px; overflow: hidden; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.3); border: 1px solid var(--border); }
+            .league-header { background: #0f172a; padding: 15px 20px; display: flex; justify-content: space-between; align-items: center; border-bottom: 1px solid var(--border); }
+            .league-name { font-weight: 700; color: white; font-size: 1.1rem; }
+            .league-round { background: #334155; padding: 4px 10px; border-radius: 20px; font-size: 0.75rem; color: #cbd5e1; }
+
+            table { width: 100%; border-collapse: collapse; }
+            th { text-align: left; color: #64748b; font-size: 0.75rem; padding: 12px 15px; text-transform: uppercase; font-weight: 600; background: rgba(0,0,0,0.2); }
+            td { padding: 12px 15px; border-bottom: 1px solid var(--border); vertical-align: middle; font-size: 0.9rem; }
+            tr:last-child td { border-bottom: none; }
+            tr:hover { background: rgba(255,255,255,0.02); }
+
+            .match-info { display: flex; align-items: center; gap: 10px; }
+            .teams { display: flex; flex-direction: column; gap: 4px; font-weight: 600; }
+            .logo { width: 20px; height: 20px; object-fit: contain; vertical-align: middle; margin-right: 6px; }
+            
+            .badge { padding: 4px 8px; border-radius: 6px; font-size: 0.7rem; font-weight: 800; text-transform: uppercase; display: inline-block; width: 60px; text-align: center; }
+            .b-supreme { background: rgba(255, 215, 0, 0.15); color: #FFD700; border: 1px solid rgba(255, 215, 0, 0.3); }
+            .b-solid { background: rgba(226, 232, 240, 0.15); color: #e2e8f0; border: 1px solid rgba(226, 232, 240, 0.3); }
+            .b-value { background: rgba(249, 115, 22, 0.15); color: #fbbf24; border: 1px solid rgba(249, 115, 22, 0.3); }
+            .b-neutre { color: #475569; border: 1px solid #334155; }
+
+            .pred { font-weight: 700; }
+            .p-home { color: #60a5fa; }
+            .p-away { color: #f472b6; }
+
+            .val-tag { font-weight: bold; font-family: monospace; }
+            .val-good { color: #34d399; background: rgba(52, 211, 153, 0.1); padding: 2px 6px; border-radius: 4px; }
+            .val-bad { color: #64748b; }
+
+            .date { color: #64748b; font-size: 0.8rem; white-space: nowrap; }
+        </style>
+    </head>
+    <body>
+        <div class="container">
+            <h1>📊 DRC Intelligence</h1>
+            <div class="subtitle">Analyse des cotes et probabilités par journée</div>
+    
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Ligue 1</span>
+                    <span class="league-round">Regular Season - 17</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">dim. 4 16:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/111.png" class="logo">Le Havre</div>
+                                <div><img src="https://media.api-sports.io/football/teams/77.png" class="logo">Angers</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">3.25</td>
+                    <td><span class="val-tag val-good">+62.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 3 16:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/91.png" class="logo">Monaco</div>
+                                <div><img src="https://media.api-sports.io/football/teams/80.png" class="logo">Lyon</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.9</td>
+                    <td><span class="val-tag val-good">+45.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">ven. 2 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/96.png" class="logo">Toulouse</div>
+                                <div><img src="https://media.api-sports.io/football/teams/116.png" class="logo">Lens</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.45</td>
+                    <td><span class="val-tag val-good">+22.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 3 18:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/84.png" class="logo">Nice</div>
+                                <div><img src="https://media.api-sports.io/football/teams/95.png" class="logo">Strasbourg</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.4</td>
+                    <td><span class="val-tag val-good">+20.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 4 16:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/106.png" class="logo">Stade Brestois 29</div>
+                                <div><img src="https://media.api-sports.io/football/teams/108.png" class="logo">Auxerre</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.85</td>
+                    <td><span class="val-tag val-bad">-7.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 4 16:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/97.png" class="logo">Lorient</div>
+                                <div><img src="https://media.api-sports.io/football/teams/112.png" class="logo">Metz</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.8</td>
+                    <td><span class="val-tag val-bad">-10.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 4 14:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/81.png" class="logo">Marseille</div>
+                                <div><img src="https://media.api-sports.io/football/teams/83.png" class="logo">Nantes</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.25</td>
+                    <td><span class="val-tag val-bad">-25.1%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 4 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/85.png" class="logo">Paris Saint Germain</div>
+                                <div><img src="https://media.api-sports.io/football/teams/114.png" class="logo">Paris FC</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.25</td>
+                    <td><span class="val-tag val-bad">-25.1%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 3 20:05</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/79.png" class="logo">Lille</div>
+                                <div><img src="https://media.api-sports.io/football/teams/94.png" class="logo">Rennes</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Premier League</span>
+                    <span class="league-round">Regular Season - 17</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">sam. 20 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/63.png" class="logo">Leeds</div>
+                                <div><img src="https://media.api-sports.io/football/teams/52.png" class="logo">Crystal Palace</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.66</td>
+                    <td><span class="val-tag val-good">+59.3%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 12:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/34.png" class="logo">Newcastle</div>
+                                <div><img src="https://media.api-sports.io/football/teams/49.png" class="logo">Chelsea</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.48</td>
+                    <td><span class="val-tag val-good">+24.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 15:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/50.png" class="logo">Manchester City</div>
+                                <div><img src="https://media.api-sports.io/football/teams/48.png" class="logo">West Ham</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-supreme">SUPRÊME</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.19</td>
+                    <td><span class="val-tag val-bad">-16.8%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/45.png" class="logo">Everton</div>
+                                <div><img src="https://media.api-sports.io/football/teams/42.png" class="logo">Arsenal</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.59</td>
+                    <td><span class="val-tag val-bad">-20.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 15:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/35.png" class="logo">Bournemouth</div>
+                                <div><img src="https://media.api-sports.io/football/teams/44.png" class="logo">Burnley</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.44</td>
+                    <td><span class="val-tag val-bad">-28.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 15:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/39.png" class="logo">Wolves</div>
+                                <div><img src="https://media.api-sports.io/football/teams/55.png" class="logo">Brentford</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 15:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/51.png" class="logo">Brighton</div>
+                                <div><img src="https://media.api-sports.io/football/teams/746.png" class="logo">Sunderland</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/47.png" class="logo">Tottenham</div>
+                                <div><img src="https://media.api-sports.io/football/teams/40.png" class="logo">Liverpool</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 16:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/66.png" class="logo">Aston Villa</div>
+                                <div><img src="https://media.api-sports.io/football/teams/33.png" class="logo">Manchester United</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">lun. 22 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/36.png" class="logo">Fulham</div>
+                                <div><img src="https://media.api-sports.io/football/teams/65.png" class="logo">Nottingham Forest</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">La Liga</span>
+                    <span class="league-round">Regular Season - 17</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">sam. 20 15:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/539.png" class="logo">Levante</div>
+                                <div><img src="https://media.api-sports.io/football/teams/548.png" class="logo">Real Sociedad</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.18</td>
+                    <td><span class="val-tag val-good">+9.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 13:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/718.png" class="logo">Oviedo</div>
+                                <div><img src="https://media.api-sports.io/football/teams/538.png" class="logo">Celta Vigo</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.08</td>
+                    <td><span class="val-tag val-good">+4.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 13:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/547.png" class="logo">Girona</div>
+                                <div><img src="https://media.api-sports.io/football/teams/530.png" class="logo">Atletico Madrid</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.68</td>
+                    <td><span class="val-tag val-good">+0.6%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/541.png" class="logo">Real Madrid</div>
+                                <div><img src="https://media.api-sports.io/football/teams/536.png" class="logo">Sevilla</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.2</td>
+                    <td><span class="val-tag val-bad">-28.1%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">ven. 19 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/532.png" class="logo">Valencia</div>
+                                <div><img src="https://media.api-sports.io/football/teams/798.png" class="logo">Mallorca</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/727.png" class="logo">Osasuna</div>
+                                <div><img src="https://media.api-sports.io/football/teams/542.png" class="logo">Alaves</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 15:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/533.png" class="logo">Villarreal</div>
+                                <div><img src="https://media.api-sports.io/football/teams/529.png" class="logo">Barcelona</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/797.png" class="logo">Elche</div>
+                                <div><img src="https://media.api-sports.io/football/teams/728.png" class="logo">Rayo Vallecano</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/543.png" class="logo">Real Betis</div>
+                                <div><img src="https://media.api-sports.io/football/teams/546.png" class="logo">Getafe</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">lun. 22 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/531.png" class="logo">Athletic Club</div>
+                                <div><img src="https://media.api-sports.io/football/teams/540.png" class="logo">Espanyol</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Bundesliga</span>
+                    <span class="league-round">Regular Season - 15</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">sam. 20 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/175.png" class="logo">Hamburger SV</div>
+                                <div><img src="https://media.api-sports.io/football/teams/169.png" class="logo">Eintracht Frankfurt</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.56</td>
+                    <td><span class="val-tag val-good">+28.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 16:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/180.png" class="logo">1. FC Heidenheim</div>
+                                <div><img src="https://media.api-sports.io/football/teams/157.png" class="logo">Bayern München</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-supreme">SUPRÊME</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.13</td>
+                    <td><span class="val-tag val-bad">-21.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">ven. 19 19:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/165.png" class="logo">Borussia Dortmund</div>
+                                <div><img src="https://media.api-sports.io/football/teams/163.png" class="logo">Borussia Mönchengladbach</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">1.47</td>
+                    <td><span class="val-tag val-bad">-26.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/161.png" class="logo">VfL Wolfsburg</div>
+                                <div><img src="https://media.api-sports.io/football/teams/160.png" class="logo">SC Freiburg</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/170.png" class="logo">FC Augsburg</div>
+                                <div><img src="https://media.api-sports.io/football/teams/162.png" class="logo">Werder Bremen</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/172.png" class="logo">VfB Stuttgart</div>
+                                <div><img src="https://media.api-sports.io/football/teams/167.png" class="logo">1899 Hoffenheim</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/192.png" class="logo">1. FC Köln</div>
+                                <div><img src="https://media.api-sports.io/football/teams/182.png" class="logo">Union Berlin</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/173.png" class="logo">RB Leipzig</div>
+                                <div><img src="https://media.api-sports.io/football/teams/168.png" class="logo">Bayer Leverkusen</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 14:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/164.png" class="logo">FSV Mainz 05</div>
+                                <div><img src="https://media.api-sports.io/football/teams/186.png" class="logo">FC St. Pauli</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Serie A</span>
+                    <span class="league-round">Regular Season - 16</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">dim. 21 17:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/502.png" class="logo">Fiorentina</div>
+                                <div><img src="https://media.api-sports.io/football/teams/494.png" class="logo">Udinese</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">3.4</td>
+                    <td><span class="val-tag val-good">+103.6%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 17:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/487.png" class="logo">Lazio</div>
+                                <div><img src="https://media.api-sports.io/football/teams/520.png" class="logo">Cremonese</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/496.png" class="logo">Juventus</div>
+                                <div><img src="https://media.api-sports.io/football/teams/497.png" class="logo">AS Roma</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 11:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/490.png" class="logo">Cagliari</div>
+                                <div><img src="https://media.api-sports.io/football/teams/801.png" class="logo">Pisa</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 14:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/488.png" class="logo">Sassuolo</div>
+                                <div><img src="https://media.api-sports.io/football/teams/503.png" class="logo">Torino</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/495.png" class="logo">Genoa</div>
+                                <div><img src="https://media.api-sports.io/football/teams/499.png" class="logo">Atalanta</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">mer. 14 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/492.png" class="logo">Napoli</div>
+                                <div><img src="https://media.api-sports.io/football/teams/523.png" class="logo">Parma</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">mer. 14 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/505.png" class="logo">Inter</div>
+                                <div><img src="https://media.api-sports.io/football/teams/867.png" class="logo">Lecce</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">jeu. 15 17:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/504.png" class="logo">Verona</div>
+                                <div><img src="https://media.api-sports.io/football/teams/500.png" class="logo">Bologna</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">jeu. 15 19:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/895.png" class="logo">Como</div>
+                                <div><img src="https://media.api-sports.io/football/teams/489.png" class="logo">AC Milan</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Liga Portugal</span>
+                    <span class="league-round">Regular Season - 15</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">sam. 20 20:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/15130.png" class="logo">Estrela</div>
+                                <div><img src="https://media.api-sports.io/football/teams/215.png" class="logo">Moreirense</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">3.15</td>
+                    <td><span class="val-tag val-good">+57.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 15:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/21595.png" class="logo">AVS</div>
+                                <div><img src="https://media.api-sports.io/football/teams/225.png" class="logo">Nacional</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.22</td>
+                    <td><span class="val-tag val-good">+11.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">ven. 19 20:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/230.png" class="logo">Estoril</div>
+                                <div><img src="https://media.api-sports.io/football/teams/217.png" class="logo">SC Braga</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-solid">SOLIDE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.71</td>
+                    <td><span class="val-tag val-good">+2.4%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">lun. 22 18:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/4724.png" class="logo">Alverca</div>
+                                <div><img src="https://media.api-sports.io/football/teams/212.png" class="logo">FC Porto</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.35</td>
+                    <td><span class="val-tag val-bad">-32.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 18:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/762.png" class="logo">GIL Vicente</div>
+                                <div><img src="https://media.api-sports.io/football/teams/226.png" class="logo">Rio Ave</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 18:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/218.png" class="logo">Tondela</div>
+                                <div><img src="https://media.api-sports.io/football/teams/4716.png" class="logo">Casa Pia</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 20:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/227.png" class="logo">Santa Clara</div>
+                                <div><img src="https://media.api-sports.io/football/teams/240.png" class="logo">Arouca</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">lun. 22 20:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/211.png" class="logo">Benfica</div>
+                                <div><img src="https://media.api-sports.io/football/teams/242.png" class="logo">Famalicao</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">mar. 23 20:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/224.png" class="logo">Guimaraes</div>
+                                <div><img src="https://media.api-sports.io/football/teams/228.png" class="logo">Sporting CP</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div>
+            <div class="league-card">
+                <div class="league-header">
+                    <span class="league-name">Eredivisie</span>
+                    <span class="league-round">Regular Season - 17</span>
+                </div>
+                <table>
+                    <thead>
+                        <tr>
+                            <th width="15%">Horaire</th>
+                            <th width="40%">Rencontre</th>
+                            <th width="15%">Confiance</th>
+                            <th width="10%">Pari</th>
+                            <th width="10%">Cote</th>
+                            <th width="10%">Value</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+        
+                <tr>
+                    <td class="date">dim. 21 15:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/416.png" class="logo">FC Volendam</div>
+                                <div><img src="https://media.api-sports.io/football/teams/426.png" class="logo">Sparta Rotterdam</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.42</td>
+                    <td><span class="val-tag val-good">+21.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 13:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/410.png" class="logo">GO Ahead Eagles</div>
+                                <div><img src="https://media.api-sports.io/football/teams/202.png" class="logo">Groningen</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2.32</td>
+                    <td><span class="val-tag val-good">+16.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 15:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/206.png" class="logo">Heracles</div>
+                                <div><img src="https://media.api-sports.io/football/teams/210.png" class="logo">Heerenveen</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">2</td>
+                    <td><span class="val-tag val-bad">0.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 15:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/205.png" class="logo">Fortuna Sittard</div>
+                                <div><img src="https://media.api-sports.io/football/teams/201.png" class="logo">AZ Alkmaar</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.78</td>
+                    <td><span class="val-tag val-bad">-11.0%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 11:15</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/207.png" class="logo">Utrecht</div>
+                                <div><img src="https://media.api-sports.io/football/teams/197.png" class="logo">PSV Eindhoven</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-value">VALUE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">1.67</td>
+                    <td><span class="val-tag val-bad">-16.5%</span></td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 17:45</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/196.png" class="logo">Excelsior</div>
+                                <div><img src="https://media.api-sports.io/football/teams/193.png" class="logo">PEC Zwolle</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 19:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/413.png" class="logo">NEC Nijmegen</div>
+                                <div><img src="https://media.api-sports.io/football/teams/194.png" class="logo">Ajax</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-away">2</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">sam. 20 20:00</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/203.png" class="logo">NAC Breda</div>
+                                <div><img src="https://media.api-sports.io/football/teams/427.png" class="logo">Telstar</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr>
+                <tr>
+                    <td class="date">dim. 21 13:30</td>
+                    <td>
+                        <div class="match-info">
+                            <div class="teams">
+                                <div><img src="https://media.api-sports.io/football/teams/209.png" class="logo">Feyenoord</div>
+                                <div><img src="https://media.api-sports.io/football/teams/415.png" class="logo">Twente</div>
+                            </div>
+                        </div>
+                    </td>
+                    <td><span class="badge b-neutre">NEUTRE</span></td>
+                    <td><span class="pred p-home">1</span></td>
+                    <td style="font-weight:bold">-</td>
+                    <td>-</td>
+                </tr></tbody></table></div></div></body></html>
