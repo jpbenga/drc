@@ -1,0 +1,83 @@
+{
+  "bankroll": 151.85000000000002,
+  "history": [
+    {
+      "id": 469851,
+      "date": "2025-12-20T00:00:00+00:00",
+      "match": "Boston Celtics vs Miami Heat",
+      "sdm": "6.9",
+      "tier": "VALUE",
+      "odd": "1.41",
+      "instruction": "Boston Celtics (-1)",
+      "status": "SETTLED",
+      "res": "WON",
+      "score": "129-116",
+      "profit": 2.05
+    },
+    {
+      "id": 469853,
+      "date": "2025-12-20T00:30:00+00:00",
+      "match": "Atlanta Hawks vs San Antonio Spurs",
+      "sdm": "5.6",
+      "tier": "VALUE",
+      "odd": "2.40",
+      "instruction": "San Antonio Spurs (+1)",
+      "status": "SETTLED",
+      "res": "WON",
+      "score": "98-126",
+      "profit": 7
+    },
+    {
+      "id": 469854,
+      "date": "2025-12-20T00:30:00+00:00",
+      "match": "Cleveland Cavaliers vs Chicago Bulls",
+      "sdm": "9.6",
+      "tier": "VALUE",
+      "odd": "1.53",
+      "instruction": "Cleveland Cavaliers (-1)",
+      "status": "SETTLED",
+      "res": "LOST",
+      "score": "125-136",
+      "profit": -5
+    },
+    {
+      "id": 469863,
+      "date": "2025-12-21T02:30:00+00:00",
+      "match": "Utah Jazz vs Orlando Magic",
+      "sdm": "8.6",
+      "tier": "VALUE",
+      "odd": "2.30",
+      "instruction": "Orlando Magic (-4)",
+      "status": "SETTLED",
+      "res": "LOST",
+      "score": "127-128",
+      "profit": -5
+    },
+    {
+      "id": 469864,
+      "date": "2025-12-21T03:00:00+00:00",
+      "match": "Sacramento Kings vs Portland Trail Blazers",
+      "sdm": "6.0",
+      "tier": "VALUE",
+      "odd": "2.56",
+      "instruction": "Portland Trail Blazers (+1)",
+      "status": "SETTLED",
+      "res": "WON",
+      "score": "93-98",
+      "profit": 7.8
+    },
+    {
+      "id": 469865,
+      "date": "2025-12-21T03:30:00+00:00",
+      "match": "Los Angeles Clippers vs Los Angeles Lakers",
+      "sdm": "9.5",
+      "tier": "VALUE",
+      "odd": "2.07",
+      "instruction": "Los Angeles Lakers (+1)",
+      "status": "SETTLED",
+      "res": "LOST",
+      "score": "103-88",
+      "profit": -5
+    }
+  ]
+}

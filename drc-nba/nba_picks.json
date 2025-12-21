@@ -1,0 +1,82 @@
+[
+  {
+    "id": 469851,
+    "date": "2025-12-20T00:00:00+00:00",
+    "match": "Boston Celtics vs Miami Heat",
+    "sdm": "6.9",
+    "tier": "VALUE",
+    "odd": "1.41",
+    "instruction": "Boston Celtics (-1)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469853,
+    "date": "2025-12-20T00:30:00+00:00",
+    "match": "Atlanta Hawks vs San Antonio Spurs",
+    "sdm": "5.6",
+    "tier": "VALUE",
+    "odd": "2.40",
+    "instruction": "San Antonio Spurs (+1)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469854,
+    "date": "2025-12-20T00:30:00+00:00",
+    "match": "Cleveland Cavaliers vs Chicago Bulls",
+    "sdm": "9.6",
+    "tier": "VALUE",
+    "odd": "1.53",
+    "instruction": "Cleveland Cavaliers (-1)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469863,
+    "date": "2025-12-21T02:30:00+00:00",
+    "match": "Utah Jazz vs Orlando Magic",
+    "sdm": "8.6",
+    "tier": "VALUE",
+    "odd": "2.30",
+    "instruction": "Orlando Magic (-4)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469864,
+    "date": "2025-12-21T03:00:00+00:00",
+    "match": "Sacramento Kings vs Portland Trail Blazers",
+    "sdm": "6.0",
+    "tier": "VALUE",
+    "odd": "2.56",
+    "instruction": "Portland Trail Blazers (+1)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469865,
+    "date": "2025-12-21T03:30:00+00:00",
+    "match": "Los Angeles Clippers vs Los Angeles Lakers",
+    "sdm": "9.5",
+    "tier": "VALUE",
+    "odd": "2.07",
+    "instruction": "Los Angeles Lakers (+1)",
+    "status": "SETTLED"
+  },
+  {
+    "id": 469866,
+    "date": "2025-12-21T20:30:00+00:00",
+    "match": "Atlanta Hawks vs Chicago Bulls",
+    "sdm": "7.3",
+    "tier": "VALUE",
+    "odd": "1.68",
+    "instruction": "Atlanta Hawks (-1.5)",
+    "status": "PENDING"
+  },
+  {
+    "id": 469867,
+    "date": "2025-12-21T23:00:00+00:00",
+    "match": "Brooklyn Nets vs Toronto Raptors",
+    "sdm": "8.1",
+    "tier": "VALUE",
+    "odd": "1.90",
+    "instruction": "Toronto Raptors (-5.5)",
+    "status": "PENDING"
+  }
+]
