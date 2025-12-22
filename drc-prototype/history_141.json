@@ -13858,5 +13858,705 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1391965,
+      "referee": "Carlos Muniz Munoz, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-19T19:30:00+00:00",
+      "timestamp": 1766172600,
+      "periods": {
+        "first": 1766172600,
+        "second": 1766176200
+      },
+      "venue": {
+        "id": 1472,
+        "name": "Estadio Municipal de Ipurua",
+        "city": "Eibar"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 545,
+        "name": "Eibar",
+        "logo": "https://media.api-sports.io/football/teams/545.png",
+        "winner": true
+      },
+      "away": {
+        "id": 720,
+        "name": "Valladolid",
+        "logo": "https://media.api-sports.io/football/teams/720.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1396967,
+      "referee": "Eder Mallo Fernandez, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-20T13:00:00+00:00",
+      "timestamp": 1766235600,
+      "periods": {
+        "first": 1766235600,
+        "second": 1766239200
+      },
+      "venue": {
+        "id": 2618,
+        "name": "Estadi de la FAF",
+        "city": "Encamp"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 8157,
+        "name": "FC Andorra",
+        "logo": "https://media.api-sports.io/football/teams/8157.png",
+        "winner": true
+      },
+      "away": {
+        "id": 544,
+        "name": "Deportivo La Coruna",
+        "logo": "https://media.api-sports.io/football/teams/544.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391968,
+      "referee": "Rafael Sanchez Lopez, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-20T15:15:00+00:00",
+      "timestamp": 1766243700,
+      "periods": {
+        "first": 1766243700,
+        "second": 1766247300
+      },
+      "venue": {
+        "id": 1480,
+        "name": "Estadio El Alcoraz",
+        "city": "Huesca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 726,
+        "name": "Huesca",
+        "logo": "https://media.api-sports.io/football/teams/726.png",
+        "winner": null
+      },
+      "away": {
+        "id": 4665,
+        "name": "Racing Santander",
+        "logo": "https://media.api-sports.io/football/teams/4665.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391973,
+      "referee": "Saul Ais Reig, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-20T17:30:00+00:00",
+      "timestamp": 1766251800,
+      "periods": {
+        "first": 1766251800,
+        "second": 1766255400
+      },
+      "venue": {
+        "id": 1464,
+        "name": "Estadio Municipal de Butarque",
+        "city": "Leganes"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 537,
+        "name": "Leganes",
+        "logo": "https://media.api-sports.io/football/teams/537.png",
+        "winner": false
+      },
+      "away": {
+        "id": 731,
+        "name": "Sporting Gijon",
+        "logo": "https://media.api-sports.io/football/teams/731.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391966,
+      "referee": "Manuel Jesus Orellana Cid, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-20T20:00:00+00:00",
+      "timestamp": 1766260800,
+      "periods": {
+        "first": 1766260800,
+        "second": 1766264400
+      },
+      "venue": {
+        "id": 1481,
+        "name": "Estadio de Gran Canaria",
+        "city": "Las Palmas"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 534,
+        "name": "Las Palmas",
+        "logo": "https://media.api-sports.io/football/teams/534.png",
+        "winner": true
+      },
+      "away": {
+        "id": 725,
+        "name": "Cultural Leonesa",
+        "logo": "https://media.api-sports.io/football/teams/725.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391964,
+      "referee": "Manuel Angel Perez Hernandez, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T13:00:00+00:00",
+      "timestamp": 1766322000,
+      "periods": {
+        "first": 1766322000,
+        "second": 1766325600
+      },
+      "venue": {
+        "id": 1483,
+        "name": "Estadio La Rosaleda",
+        "city": "Málaga"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 535,
+        "name": "Malaga",
+        "logo": "https://media.api-sports.io/football/teams/535.png",
+        "winner": true
+      },
+      "away": {
+        "id": 723,
+        "name": "Almeria",
+        "logo": "https://media.api-sports.io/football/teams/723.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391963,
+      "referee": "Luis Bestard Servera, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T15:15:00+00:00",
+      "timestamp": 1766330100,
+      "periods": {
+        "first": 1766330100,
+        "second": 1766333700
+      },
+      "venue": {
+        "id": 1470,
+        "name": "Estadio Mendizorrotza",
+        "city": "Vitoria-Gasteiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 799,
+        "name": "Mirandes",
+        "logo": "https://media.api-sports.io/football/teams/799.png",
+        "winner": false
+      },
+      "away": {
+        "id": 713,
+        "name": "Cordoba",
+        "logo": "https://media.api-sports.io/football/teams/713.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391971,
+      "referee": "Andres Fuentes Molina, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T15:15:00+00:00",
+      "timestamp": 1766330100,
+      "periods": {
+        "first": 1766330100,
+        "second": 1766333700
+      },
+      "venue": {
+        "id": 22052,
+        "name": "Zubieta Real Sociedad",
+        "city": "Donostia-San Sebastián"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9585,
+        "name": "Real Sociedad II",
+        "logo": "https://media.api-sports.io/football/teams/9585.png",
+        "winner": false
+      },
+      "away": {
+        "id": 10139,
+        "name": "AD Ceuta FC",
+        "logo": "https://media.api-sports.io/football/teams/10139.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391967,
+      "referee": "German Cid Camacho, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T17:30:00+00:00",
+      "timestamp": 1766338200,
+      "periods": {
+        "first": 1766338200,
+        "second": 1766341800
+      },
+      "venue": {
+        "id": 1479,
+        "name": "Estadio Nuevo Los Cármenes",
+        "city": "Granada"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 715,
+        "name": "Granada CF",
+        "logo": "https://media.api-sports.io/football/teams/715.png",
+        "winner": null
+      },
+      "away": {
+        "id": 722,
+        "name": "Albacete",
+        "logo": "https://media.api-sports.io/football/teams/722.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391970,
+      "referee": "Daniel Palencia Caballero, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T17:30:00+00:00",
+      "timestamp": 1766338200,
+      "periods": {
+        "first": 1766338200,
+        "second": 1766341800
+      },
+      "venue": {
+        "id": 6674,
+        "name": "Estadio Municipal de El Plantío",
+        "city": "Burgos"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 9580,
+        "name": "Burgos",
+        "logo": "https://media.api-sports.io/football/teams/9580.png",
+        "winner": null
+      },
+      "away": {
+        "id": 732,
+        "name": "Zaragoza",
+        "logo": "https://media.api-sports.io/football/teams/732.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

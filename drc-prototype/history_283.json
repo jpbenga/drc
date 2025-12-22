@@ -11198,5 +11198,495 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1385921,
+      "referee": "Sebastian Coltescu, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-19T18:00:00+00:00",
+      "timestamp": 1766167200,
+      "periods": {
+        "first": 1766167200,
+        "second": 1766170800
+      },
+      "venue": {
+        "id": 1309,
+        "name": "Stadionul Municipal",
+        "city": "Botoşani"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2581,
+        "name": "FC Botosani",
+        "logo": "https://media.api-sports.io/football/teams/2581.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2246,
+        "name": "CFR 1907 Cluj",
+        "logo": "https://media.api-sports.io/football/teams/2246.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385917,
+      "referee": "George Catalin Gaman, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-20T12:30:00+00:00",
+      "timestamp": 1766233800,
+      "periods": {
+        "first": 1766233800,
+        "second": 1766237400
+      },
+      "venue": {
+        "id": 20116,
+        "name": "Metaloglobus Stadium",
+        "city": "Bucharest"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2604,
+        "name": "Metaloglobus",
+        "logo": "https://media.api-sports.io/football/teams/2604.png",
+        "winner": false
+      },
+      "away": {
+        "id": 6916,
+        "name": "Unirea Slobozia",
+        "logo": "https://media.api-sports.io/football/teams/6916.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385919,
+      "referee": "Horatiu Fesnic, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-20T15:00:00+00:00",
+      "timestamp": 1766242800,
+      "periods": {
+        "first": 1766242800,
+        "second": 1766246400
+      },
+      "venue": {
+        "id": 5026,
+        "name": "Stadionul Otelul",
+        "city": "Galati"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6886,
+        "name": "Oţelul",
+        "logo": "https://media.api-sports.io/football/teams/6886.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2592,
+        "name": "Arges Pitesti",
+        "logo": "https://media.api-sports.io/football/teams/2592.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385916,
+      "referee": "Szabolcs Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-20T18:00:00+00:00",
+      "timestamp": 1766253600,
+      "periods": {
+        "first": 1766253600,
+        "second": 1766257200
+      },
+      "venue": {
+        "id": 11931,
+        "name": "Arena Francisc Neuman",
+        "city": "Arad"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2589,
+        "name": "Uta Arad",
+        "logo": "https://media.api-sports.io/football/teams/2589.png",
+        "winner": true
+      },
+      "away": {
+        "id": 635,
+        "name": "Dinamo Bucuresti",
+        "logo": "https://media.api-sports.io/football/teams/635.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385922,
+      "referee": "Rares George Vidican, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-21T12:00:00+00:00",
+      "timestamp": 1766318400,
+      "periods": {
+        "first": 1766318400,
+        "second": 1766322000
+      },
+      "venue": {
+        "id": 1894,
+        "name": "Stadionul Municipal",
+        "city": "Sibiu"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2579,
+        "name": "AFC Hermannstadt",
+        "logo": "https://media.api-sports.io/football/teams/2579.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2598,
+        "name": "Petrolul Ploiesti",
+        "logo": "https://media.api-sports.io/football/teams/2598.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385920,
+      "referee": "Marcel Birsan, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-21T14:30:00+00:00",
+      "timestamp": 1766327400,
+      "periods": {
+        "first": 1766327400,
+        "second": 1766331000
+      },
+      "venue": {
+        "id": 1913,
+        "name": "Cluj Arena",
+        "city": "Cluj-Napoca"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2599,
+        "name": "Universitatea Cluj",
+        "logo": "https://media.api-sports.io/football/teams/2599.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2596,
+        "name": "Farul Constanta",
+        "logo": "https://media.api-sports.io/football/teams/2596.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1385918,
+      "referee": "Istvan Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-21T18:00:00+00:00",
+      "timestamp": 1766340000,
+      "periods": {
+        "first": 1766340000,
+        "second": 1766343600
+      },
+      "venue": {
+        "id": 1326,
+        "name": "Arena Nationala",
+        "city": "Bucharest"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 559,
+        "name": "FCSB",
+        "logo": "https://media.api-sports.io/football/teams/559.png",
+        "winner": true
+      },
+      "away": {
+        "id": 6231,
+        "name": "Rapid",
+        "logo": "https://media.api-sports.io/football/teams/6231.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

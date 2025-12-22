@@ -10078,5 +10078,565 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1382577,
+      "referee": "Simon Bourdeaud'hui, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-19T19:45:00+00:00",
+      "timestamp": 1766173500,
+      "periods": {
+        "first": 1766173500,
+        "second": 1766177100
+      },
+      "venue": {
+        "id": 177,
+        "name": "Stade du Pays de Charleroi",
+        "city": "Charleroi"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 736,
+        "name": "Charleroi",
+        "logo": "https://media.api-sports.io/football/teams/736.png",
+        "winner": null
+      },
+      "away": {
+        "id": 742,
+        "name": "Genk",
+        "logo": "https://media.api-sports.io/football/teams/742.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382575,
+      "referee": "Nicolas Laforge, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-20T15:00:00+00:00",
+      "timestamp": 1766242800,
+      "periods": {
+        "first": 1766242800,
+        "second": 1766246400
+      },
+      "venue": {
+        "id": 19052,
+        "name": "DENDER Football Complex",
+        "city": "Denderleeuw"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 6215,
+        "name": "Dender",
+        "logo": "https://media.api-sports.io/football/teams/6215.png",
+        "winner": false
+      },
+      "away": {
+        "id": 733,
+        "name": "Standard Liege",
+        "logo": "https://media.api-sports.io/football/teams/733.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382576,
+      "referee": "Anthony Letellier, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-20T17:15:00+00:00",
+      "timestamp": 1766250900,
+      "periods": {
+        "first": 1766250900,
+        "second": 1766254500
+      },
+      "venue": {
+        "id": 195,
+        "name": "Het Kuipje",
+        "city": "Westerlo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 261,
+        "name": "KVC Westerlo",
+        "logo": "https://media.api-sports.io/football/teams/261.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5902,
+        "name": "RAAL La Louvière",
+        "logo": "https://media.api-sports.io/football/teams/5902.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382573,
+      "referee": "Nathan Verboomen, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-20T19:45:00+00:00",
+      "timestamp": 1766259900,
+      "periods": {
+        "first": 1766259900,
+        "second": 1766263500
+      },
+      "venue": {
+        "id": 0,
+        "name": "Stade Joseph Mariën",
+        "city": "Bruxelles (Brussels)"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1393,
+        "name": "Union St. Gilloise",
+        "logo": "https://media.api-sports.io/football/teams/1393.png",
+        "winner": true
+      },
+      "away": {
+        "id": 600,
+        "name": "Zulte Waregem",
+        "logo": "https://media.api-sports.io/football/teams/600.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382572,
+      "referee": "Jasper Vergoote, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-21T12:30:00+00:00",
+      "timestamp": 1766320200,
+      "periods": {
+        "first": 1766320200,
+        "second": 1766323800
+      },
+      "venue": {
+        "id": 176,
+        "name": "Jan Breydelstadion",
+        "city": "Brugge"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 569,
+        "name": "Club Brugge KV",
+        "logo": "https://media.api-sports.io/football/teams/569.png",
+        "winner": true
+      },
+      "away": {
+        "id": 631,
+        "name": "Gent",
+        "logo": "https://media.api-sports.io/football/teams/631.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382574,
+      "referee": "Jan Boterberg, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-21T15:00:00+00:00",
+      "timestamp": 1766329200,
+      "periods": {
+        "first": 1766329200,
+        "second": 1766332800
+      },
+      "venue": {
+        "id": 0,
+        "name": "Daio Wasabi Stayen Stadium",
+        "city": "Sint-Truiden (St.-Trond)"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 735,
+        "name": "St. Truiden",
+        "logo": "https://media.api-sports.io/football/teams/735.png",
+        "winner": true
+      },
+      "away": {
+        "id": 266,
+        "name": "KV Mechelen",
+        "logo": "https://media.api-sports.io/football/teams/266.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382571,
+      "referee": "Eric Lambrechts, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-21T17:30:00+00:00",
+      "timestamp": 1766338200,
+      "periods": {
+        "first": 1766338200,
+        "second": 1766341800
+      },
+      "venue": {
+        "id": 175,
+        "name": "Bosuilstadion",
+        "city": "Deurne"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 740,
+        "name": "Antwerp",
+        "logo": "https://media.api-sports.io/football/teams/740.png",
+        "winner": null
+      },
+      "away": {
+        "id": 554,
+        "name": "Anderlecht",
+        "logo": "https://media.api-sports.io/football/teams/554.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382570,
+      "referee": "Michiel Allaerts, Belgium",
+      "timezone": "UTC",
+      "date": "2025-12-21T18:15:00+00:00",
+      "timestamp": 1766340900,
+      "periods": {
+        "first": 1766340900,
+        "second": 1766344500
+      },
+      "venue": {
+        "id": 186,
+        "name": "King Power at Den Dreef Stadion",
+        "city": "Heverlee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 13
+      }
+    },
+    "league": {
+      "id": 144,
+      "name": "Jupiler Pro League",
+      "country": "Belgium",
+      "logo": "https://media.api-sports.io/football/leagues/144.png",
+      "flag": "https://media.api-sports.io/flags/be.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 260,
+        "name": "OH Leuven",
+        "logo": "https://media.api-sports.io/football/teams/260.png",
+        "winner": false
+      },
+      "away": {
+        "id": 741,
+        "name": "Cercle Brugge",
+        "logo": "https://media.api-sports.io/football/teams/741.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

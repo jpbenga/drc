@@ -7488,5 +7488,355 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1382407,
+      "referee": "Anojen Kanagasingam, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-12-20T17:00:00+00:00",
+      "timestamp": 1766250000,
+      "periods": {
+        "first": 1766250000,
+        "second": 1766253600
+      },
+      "venue": {
+        "id": 1544,
+        "name": "Stockhorn Arena",
+        "city": "Thun"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 207,
+      "name": "Super League",
+      "country": "Switzerland",
+      "logo": "https://media.api-sports.io/football/leagues/207.png",
+      "flag": "https://media.api-sports.io/flags/ch.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1012,
+        "name": "FC Thun",
+        "logo": "https://media.api-sports.io/football/teams/1012.png",
+        "winner": true
+      },
+      "away": {
+        "id": 783,
+        "name": "FC Zurich",
+        "logo": "https://media.api-sports.io/football/teams/783.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382402,
+      "referee": "Sven Wolfensberger, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-12-20T19:30:00+00:00",
+      "timestamp": 1766259000,
+      "periods": {
+        "first": 1766259000,
+        "second": 1766262600
+      },
+      "venue": {
+        "id": 1530,
+        "name": "St. Jakob-Park",
+        "city": "Basel"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 207,
+      "name": "Super League",
+      "country": "Switzerland",
+      "logo": "https://media.api-sports.io/football/leagues/207.png",
+      "flag": "https://media.api-sports.io/flags/ch.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 551,
+        "name": "FC Basel 1893",
+        "logo": "https://media.api-sports.io/football/teams/551.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2184,
+        "name": "Servette FC",
+        "logo": "https://media.api-sports.io/football/teams/2184.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382404,
+      "referee": "Lukas Fahndrich, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-12-21T13:00:00+00:00",
+      "timestamp": 1766322000,
+      "periods": {
+        "first": 1766322000,
+        "second": 1766325600
+      },
+      "venue": {
+        "id": 11917,
+        "name": "Stade de la Tuiliere",
+        "city": "Lausanne"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 207,
+      "name": "Super League",
+      "country": "Switzerland",
+      "logo": "https://media.api-sports.io/football/leagues/207.png",
+      "flag": "https://media.api-sports.io/flags/ch.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1014,
+        "name": "Lausanne",
+        "logo": "https://media.api-sports.io/football/teams/1014.png",
+        "winner": false
+      },
+      "away": {
+        "id": 644,
+        "name": "FC Luzern",
+        "logo": "https://media.api-sports.io/football/teams/644.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382405,
+      "referee": "Luca Cibelli, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-12-21T15:30:00+00:00",
+      "timestamp": 1766331000,
+      "periods": {
+        "first": 1766331000,
+        "second": 1766334600
+      },
+      "venue": {
+        "id": 1536,
+        "name": "Stadio di Cornaredo",
+        "city": "Lugano"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 207,
+      "name": "Super League",
+      "country": "Switzerland",
+      "logo": "https://media.api-sports.io/football/leagues/207.png",
+      "flag": "https://media.api-sports.io/flags/ch.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 606,
+        "name": "FC Lugano",
+        "logo": "https://media.api-sports.io/football/teams/606.png",
+        "winner": true
+      },
+      "away": {
+        "id": 565,
+        "name": "BSC Young Boys",
+        "logo": "https://media.api-sports.io/football/teams/565.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382403,
+      "referee": "Sandro Schärer, Switzerland",
+      "timezone": "UTC",
+      "date": "2025-12-21T15:30:00+00:00",
+      "timestamp": 1766331000,
+      "periods": {
+        "first": 1766331000,
+        "second": 1766334600
+      },
+      "venue": {
+        "id": 1533,
+        "name": "Letzigrund",
+        "city": "Zurich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 207,
+      "name": "Super League",
+      "country": "Switzerland",
+      "logo": "https://media.api-sports.io/football/leagues/207.png",
+      "flag": "https://media.api-sports.io/flags/ch.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1013,
+        "name": "Grasshoppers",
+        "logo": "https://media.api-sports.io/football/teams/1013.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1011,
+        "name": "FC ST. Gallen",
+        "logo": "https://media.api-sports.io/football/teams/1011.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]
