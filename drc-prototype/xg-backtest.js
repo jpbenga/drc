@@ -2,14 +2,16 @@ const fs = require('fs');
 const http = require('http');
 const PORT = 3000;
 
-// PARAMÈTRES À METTRE À JOUR APRÈS LE RUN DE optimizer.py
+// PARAMÈTRES OPTIMISÉS (INTÉGRATION ELO)
 const PARAMS = {
-    w_xg: 0.6621525665404392,    // Poids des Expected Goals
-    w_rank: 0.49999536469629385, // Poids du classement (très élevé, le modèle s'appuie fort sur les points)
-    rho: 0.019786317561286584,   // Correction Dixon-Coles pour les nuls
-    window: 8,                   // Fenêtre glissante de 8 matchs (plus stable que 6)
-    phi: 0.003174018943057287    // Décroissance temporelle (Time Decay)
+    w_xg: 0.6439,
+    w_elo: 1.9255,
+    rho: -0.0529,
+    hfa: 34.4303,
+    window: 8 // On garde ta fenêtre glissante pour les xG
 };
+
+const ELO_HISTORY = JSON.parse(fs.readFileSync('./elo_history_archive.json', 'utf8'));
 
 const LEAGUES_CONFIG = {
     '39': { name: "Premier League", size: 20 },
@@ -29,24 +31,29 @@ const BUCKET_COLORS = {
 
 function fact(n) { return n <= 1 ? 1 : n * fact(n - 1); }
 
-function calculatePoissonPro(hID, aID, standings, tracker, size) {
+// Fonction ClubElo officielle pour la probabilité de victoire
+function clubEloWinProb(deltaElo) {
+    return 1 / (Math.pow(10, -deltaElo / 400) + 1);
+}
+
+function calculatePoissonPro(hID, aID, hElo, aElo, tracker) {
     const w = PARAMS.window;
     const attH = tracker[hID].xg.slice(-w).reduce((a, b) => a + b, 0) / w;
     const defA = tracker[aID].ga.slice(-w).reduce((a, b) => a + b, 0) / w;
     const attA = tracker[aID].xg.slice(-w).reduce((a, b) => a + b, 0) / w;
     const defH = tracker[hID].ga.slice(-w).reduce((a, b) => a + b, 0) / w;
 
-    // Calcul du Rang
-    const getRank = (id) => {
-        const s = Object.values(standings).sort((a,b) => b.pts - a.pts);
-        const idx = s.findIndex(t => t.id === id);
-        return (idx === -1) ? 10 : idx + 1;
-    };
+    // Calcul de l'avantage Elo
+    const deltaEloAdjusted = (hElo - aElo) + PARAMS.hfa;
+    const pWinH = clubEloWinProb(deltaEloAdjusted);
+    const pWinA = 1 - pWinH;
 
-    const rH = getRank(hID); const rA = getRank(aID);
+    // Calcul des Lambdas avec ta pondération xG + Modulation Elo Optuna
+    let lh = (attH * 0.6 + defA * 0.4) * PARAMS.w_xg * Math.pow((pWinH / 0.5), PARAMS.w_elo);
+    let la = (attA * 0.6 + defH * 0.4) * PARAMS.w_xg * Math.pow((pWinA / 0.5), PARAMS.w_elo);
 
-    const lh = Math.max((attH * 0.6 + defA * 0.4) * PARAMS.w_xg + (1/rH * PARAMS.w_rank), 0.01);
-    const la = Math.max((attA * 0.6 + defH * 0.4) * PARAMS.w_xg + (1/rA * PARAMS.w_rank), 0.01);
+    lh = Math.max(lh, 0.01);
+    la = Math.max(la, 0.01);
 
     let pH = 0, pD = 0, pA = 0;
     for (let i = 0; i < 9; i++) {
@@ -61,7 +68,7 @@ function calculatePoissonPro(hID, aID, standings, tracker, size) {
             if (i > j) pH += p; else if (i === j) pD += p; else pA += p;
         }
     }
-    return { H: pH, D: pD, A: pA };
+    return { H: pH, D: pD, A: pA, lh: lh.toFixed(2), la: la.toFixed(2) };
 }
 
 function runBacktest() {
@@ -75,19 +82,23 @@ function runBacktest() {
         leagueData[id] = { name: config.name, buckets: JSON.parse(JSON.stringify(globalBuckets)), total: 0, wins: 0, rounds: {} };
         const history = JSON.parse(fs.readFileSync(hFile)).sort((a, b) => new Date(a.fixture.date) - new Date(b.fixture.date));
 
-        let standings = {}; let tracker = {};
+        let tracker = {};
 
         for (const m of history) {
-            const r = parseInt(m.league.round.replace(/[^0-9]/g, '') || 0);
+            const roundKey = m.league.round;
+            const rDisplay = parseInt(roundKey.replace(/[^0-9]/g, '') || 0);
             const hID = m.teams.home.id; const aID = m.teams.away.id;
+            const hName = m.teams.home.name; const aName = m.teams.away.name;
 
-            if (!standings[hID]) standings[hID] = { id: hID, pts: 0 };
-            if (!standings[aID]) standings[aID] = { id: aID, pts: 0 };
             if (!tracker[hID]) tracker[hID] = { xg: [], ga: [] };
             if (!tracker[aID]) tracker[aID] = { xg: [], ga: [] };
 
             if (tracker[hID].xg.length >= PARAMS.window && tracker[aID].xg.length >= PARAMS.window) {
-                const outcomes = calculatePoissonPro(hID, aID, standings, tracker, config.size);
+                // Récupération Elo Historique
+                const hElo = ELO_HISTORY[id]?.[roundKey]?.[hName] || 1500;
+                const aElo = ELO_HISTORY[id]?.[roundKey]?.[aName] || 1500;
+
+                const outcomes = calculatePoissonPro(hID, aID, hElo, aElo, tracker);
                 let choice, prob, isCorrect;
 
                 if ((outcomes.H + outcomes.D) >= (outcomes.A + outcomes.D)) {
@@ -98,30 +109,29 @@ function runBacktest() {
 
                 const bKey = getBucketKey(prob);
                 if (bKey) {
-                    if (!leagueData[id].rounds[r]) leagueData[id].rounds[r] = [];
-                    leagueData[id].rounds[r].push({
-                        home: m.teams.home.name, away: m.teams.away.name,
+                    if (!leagueData[id].rounds[rDisplay]) leagueData[id].rounds[rDisplay] = [];
+                    leagueData[id].rounds[rDisplay].push({
+                        home: hName, away: aName,
                         score: `${m.goals.home}-${m.goals.away}`,
                         prob: (prob * 100).toFixed(1) + "%",
                         drawProb: (outcomes.D * 100).toFixed(1) + "%",
                         color: BUCKET_COLORS[bKey],
                         choice: choice,
-                        isCorrect: isCorrect
+                        isCorrect: isCorrect,
+                        hElo: hElo.toFixed(0),
+                        aElo: aElo.toFixed(0)
                     });
                     globalBuckets[bKey].m++; if (isCorrect) globalBuckets[bKey].w++;
                     leagueData[id].buckets[bKey].m++; if (isCorrect) leagueData[id].buckets[bKey].w++;
                     leagueData[id].total++; if (isCorrect) leagueData[id].wins++;
                 }
             }
-            // Update
-            const hG = m.goals.home; const aG = m.goals.away;
-            standings[hID].pts += (hG > aG ? 3 : (hG === aG ? 1 : 0));
-            standings[aID].pts += (aG > hG ? 3 : (aG === hG ? 1 : 0));
-            if (m.stats && m.stats.home) {
+            // Update stats après prédiction
+            if (m.stats && m.stats.home && m.goals.home !== null) {
                 tracker[hID].xg.push(parseFloat(m.stats.home.expected_goals || 0));
-                tracker[hID].ga.push(aG);
+                tracker[hID].ga.push(m.goals.away);
                 tracker[aID].xg.push(parseFloat(m.stats.away.expected_goals || 0));
-                tracker[aID].ga.push(hG);
+                tracker[aID].ga.push(m.goals.home);
             }
         }
     }
@@ -139,7 +149,8 @@ function startServer(global, leagues) {
     <!DOCTYPE html>
     <html>
     <head>
-        <title>SDM Expert Dashboard - PRO Edition</title>
+        <meta charset="utf-8">
+        <title>SDM Expert Dashboard - PRO Elo Edition</title>
         <style>
             body { background: #0f172a; color: white; font-family: 'Inter', sans-serif; padding: 30px; }
             .container { max-width: 1400px; margin: auto; }
@@ -159,11 +170,12 @@ function startServer(global, leagues) {
             .badge { padding: 4px 10px; border-radius: 6px; font-weight: bold; font-size: 0.8em; }
             .win-icon { color: #4ade80; font-weight: bold; }
             .loss-icon { color: #ef4444; font-weight: bold; }
+            .elo-info { font-size: 0.75em; color: #64748b; margin-top: 2px; }
         </style>
     </head>
     <body>
         <div class="container">
-            <h1>🏆 BILAN SDM EXCELLENCE (Optimisé Poisson + Dixon-Coles)</h1>
+            <h1>🏆 BILAN SDM EXCELLENCE (Mode Quantum Elo)</h1>
             <div class="kpi-row">
                 ${Object.entries(global).map(([k, v]) => `
                     <div class="card" style="color: ${BUCKET_COLORS[k]}">
@@ -195,10 +207,13 @@ function startServer(global, leagues) {
                     ${Object.entries(l.rounds).sort((a, b) => a[0] - b[0]).map(([r, matches]) => `
                         <div style="margin-top:25px; font-weight:bold; color:#94a3b8; font-size:0.9em; border-left:3px solid #334155; padding-left:10px;">JOURNÉE ${r}</div>
                         <table>
-                            <tr><th>Match</th><th>Score</th><th>Pari</th><th>Confiance</th><th>Nul Poisson</th><th>Résultat</th></tr>
+                            <tr><th>Match / Elo</th><th>Score</th><th>Pari</th><th>Confiance</th><th>Nul Poisson</th><th>Résultat</th></tr>
                             ${matches.map(m => `
                                 <tr>
-                                    <td>${m.home} vs ${m.away}</td>
+                                    <td>
+                                        <div>${m.home} vs ${m.away}</div>
+                                        <div class="elo-info">Elo: ${m.hElo} - ${m.aElo}</div>
+                                    </td>
                                     <td><span style="background:#0f172a; padding:2px 6px; border-radius:4px;">${m.score}</span></td>
                                     <td><span class="badge" style="background:#334155">${m.choice}</span></td>
                                     <td><span style="padding:3px 8px; border-radius:4px; background:${m.color}; color:#000; font-family:monospace; font-weight:bold;">${m.prob}</span></td>
