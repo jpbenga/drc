@@ -1,0 +1,4961 @@
+{
+  "league_id": "135",
+  "season": 2025,
+  "top_scorers": [
+    {
+      "id": 217,
+      "name": "Lautaro Martínez",
+      "team_id": 505,
+      "goals": 8,
+      "position": "Attacker"
+    },
+    {
+      "id": 17,
+      "name": "C. Pulišić",
+      "team_id": 489,
+      "goals": 7,
+      "position": "Attacker"
+    },
+    {
+      "id": 1640,
+      "name": "H. Çalhanoğlu",
+      "team_id": 505,
+      "goals": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 30488,
+      "name": "R. Orsolini",
+      "team_id": 500,
+      "goals": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 350037,
+      "name": "N. Paz",
+      "team_id": 895,
+      "goals": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 339883,
+      "name": "K. Yıldız",
+      "team_id": 496,
+      "goals": 5,
+      "position": "Attacker"
+    },
+    {
+      "id": 31436,
+      "name": "F. Bonazzoli",
+      "team_id": 520,
+      "goals": 5,
+      "position": "Attacker"
+    },
+    {
+      "id": 30810,
+      "name": "R. Mandragora",
+      "team_id": 502,
+      "goals": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 30544,
+      "name": "G. Scamacca",
+      "team_id": 499,
+      "goals": 5,
+      "position": "Attacker"
+    },
+    {
+      "id": 22236,
+      "name": "Rafael Leão",
+      "team_id": 489,
+      "goals": 5,
+      "position": "Attacker"
+    },
+    {
+      "id": 323936,
+      "name": "M. Soulé",
+      "team_id": 497,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 275651,
+      "name": "A. Bonny",
+      "team_id": 505,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 31094,
+      "name": "A. Pinamonti",
+      "team_id": 488,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 288006,
+      "name": "R. Højlund",
+      "team_id": 492,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 311067,
+      "name": "S. Castro",
+      "team_id": 500,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 3406,
+      "name": "A. Zambo Anguissa",
+      "team_id": 492,
+      "goals": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 21509,
+      "name": "M. Thuram",
+      "team_id": 505,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 786,
+      "name": "N. Zaniolo",
+      "team_id": 494,
+      "goals": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 30414,
+      "name": "G. Simeone",
+      "team_id": 503,
+      "goals": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 18788,
+      "name": "J. Vardy",
+      "team_id": 520,
+      "goals": 4,
+      "position": "Attacker"
+    }
+  ],
+  "top_assists": [
+    {
+      "id": 350037,
+      "name": "N. Paz",
+      "team_id": 895,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 31010,
+      "name": "F. Dimarco",
+      "team_id": 505,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 339883,
+      "name": "K. Yıldız",
+      "team_id": 496,
+      "assists": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 312615,
+      "name": "Giovane",
+      "team_id": 504,
+      "assists": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 30438,
+      "name": "N. Cambiaghi",
+      "team_id": 500,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 30558,
+      "name": "N. Barella",
+      "team_id": 505,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 342035,
+      "name": "C. Volpato",
+      "team_id": 488,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 47985,
+      "name": "E. Holm",
+      "team_id": 500,
+      "assists": 4,
+      "position": "Defender"
+    },
+    {
+      "id": 31211,
+      "name": "J. Vandeputte",
+      "team_id": 520,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 443162,
+      "name": "Jesús Rodríguez",
+      "team_id": 895,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 217,
+      "name": "Lautaro Martínez",
+      "team_id": 505,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 323936,
+      "name": "M. Soulé",
+      "team_id": 497,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 275651,
+      "name": "A. Bonny",
+      "team_id": 505,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 30537,
+      "name": "D. Berardi",
+      "team_id": 488,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 552,
+      "name": "David Neres",
+      "team_id": 492,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 66817,
+      "name": "N. Krstović",
+      "team_id": 499,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 335071,
+      "name": "M. Berisha",
+      "team_id": 867,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "id": 50856,
+      "name": "V. Castellanos",
+      "team_id": 487,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 31009,
+      "name": "A. Bastoni",
+      "team_id": 505,
+      "assists": 3,
+      "position": "Defender"
+    },
+    {
+      "id": 288699,
+      "name": "M. Perrone",
+      "team_id": 895,
+      "assists": 3,
+      "position": "Midfielder"
+    }
+  ],
+  "squads": {
+    "487": {
+      "name": "Lazio",
+      "players": [
+        {
+          "id": 63934,
+          "name": "A. Furlanetto",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 55
+        },
+        {
+          "id": 26644,
+          "name": "C. Mandas",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 35
+        },
+        {
+          "id": 31037,
+          "name": "I. Provedel",
+          "position": "Goalkeeper",
+          "age": 31,
+          "number": 94
+        },
+        {
+          "id": 162952,
+          "name": "Mario Gila",
+          "position": "Defender",
+          "age": 25,
+          "number": 34
+        },
+        {
+          "id": 317,
+          "name": "E. Hysaj",
+          "position": "Defender",
+          "age": 31,
+          "number": 23
+        },
+        {
+          "id": 1844,
+          "name": "A. Marušić",
+          "position": "Defender",
+          "age": 33,
+          "number": 77
+        },
+        {
+          "id": 1841,
+          "name": "Patric",
+          "position": "Defender",
+          "age": 32,
+          "number": 4
+        },
+        {
+          "id": 30554,
+          "name": "L. Pellegrini",
+          "position": "Defender",
+          "age": 26,
+          "number": 3
+        },
+        {
+          "id": 350857,
+          "name": "O. Provstgaard",
+          "position": "Defender",
+          "age": 22,
+          "number": 25
+        },
+        {
+          "id": 1632,
+          "name": "A. Romagnoli",
+          "position": "Defender",
+          "age": 30,
+          "number": 13
+        },
+        {
+          "id": 41577,
+          "name": "Nuno Tavares",
+          "position": "Defender",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 1266,
+          "name": "T. Bašić",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 26
+        },
+        {
+          "id": 333116,
+          "name": "R. Belahyane",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 21
+        },
+        {
+          "id": 1852,
+          "name": "D. Cataldi",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 32
+        },
+        {
+          "id": 144740,
+          "name": "F. Dele-Bashiru",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 7
+        },
+        {
+          "id": 483662,
+          "name": "V. Farcomeni",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 71
+        },
+        {
+          "id": 1454,
+          "name": "M. Guendouzi",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 8
+        },
+        {
+          "id": 30866,
+          "name": "M. Lazzari",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 29
+        },
+        {
+          "id": 470737,
+          "name": "P. Pinelli",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 23
+        },
+        {
+          "id": 30784,
+          "name": "N. Rovella",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 6
+        },
+        {
+          "id": 211,
+          "name": "M. Vecino",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 5
+        },
+        {
+          "id": 30937,
+          "name": "M. Zaccagni",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 10
+        },
+        {
+          "id": 286474,
+          "name": "M. Cancellieri",
+          "position": "Attacker",
+          "age": 23,
+          "number": 22
+        },
+        {
+          "id": 50856,
+          "name": "V. Castellanos",
+          "position": "Attacker",
+          "age": 27,
+          "number": 11
+        },
+        {
+          "id": 22015,
+          "name": "B. Dia",
+          "position": "Attacker",
+          "age": 29,
+          "number": 19
+        },
+        {
+          "id": 436193,
+          "name": "S. Fernandes",
+          "position": "Attacker",
+          "age": 19,
+          "number": 31
+        },
+        {
+          "id": 135519,
+          "name": "G. Isaksen",
+          "position": "Attacker",
+          "age": 24,
+          "number": 18
+        },
+        {
+          "id": 133729,
+          "name": "T. Noslin",
+          "position": "Attacker",
+          "age": 26,
+          "number": 14
+        },
+        {
+          "id": 2299,
+          "name": "Pedro",
+          "position": "Attacker",
+          "age": 38,
+          "number": 9
+        }
+      ]
+    },
+    "488": {
+      "name": "Sassuolo",
+      "players": [
+        {
+          "id": 616,
+          "name": "A. Murić",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 49
+        },
+        {
+          "id": 613213,
+          "name": "L. Nyarko",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 80
+        },
+        {
+          "id": 30518,
+          "name": "G. Satalino",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 12
+        },
+        {
+          "id": 30519,
+          "name": "S. Turati",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 13
+        },
+        {
+          "id": 292519,
+          "name": "G. Zacchi",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 16
+        },
+        {
+          "id": 41371,
+          "name": "Fali Candé",
+          "position": "Defender",
+          "age": 27,
+          "number": 5
+        },
+        {
+          "id": 128338,
+          "name": "W. Coulibaly",
+          "position": "Defender",
+          "age": 26,
+          "number": 25
+        },
+        {
+          "id": 135526,
+          "name": "J. Doig",
+          "position": "Defender",
+          "age": 23,
+          "number": 3
+        },
+        {
+          "id": 37651,
+          "name": "J. Idzes",
+          "position": "Defender",
+          "age": 25,
+          "number": 21
+        },
+        {
+          "id": 271350,
+          "name": "T. Muharemović",
+          "position": "Defender",
+          "age": 22,
+          "number": 80
+        },
+        {
+          "id": 127802,
+          "name": "C. Odenthal",
+          "position": "Defender",
+          "age": 25,
+          "number": 26
+        },
+        {
+          "id": 342055,
+          "name": "E. Pieragnolo",
+          "position": "Defender",
+          "age": 22,
+          "number": 15
+        },
+        {
+          "id": 30556,
+          "name": "F. Romagna",
+          "position": "Defender",
+          "age": 28,
+          "number": 19
+        },
+        {
+          "id": 40582,
+          "name": "S. Walukiewicz",
+          "position": "Defender",
+          "age": 25,
+          "number": 6
+        },
+        {
+          "id": 291780,
+          "name": "D. Boloca",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 11
+        },
+        {
+          "id": 584501,
+          "name": "C. Frangella",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 9
+        },
+        {
+          "id": 281291,
+          "name": "E. Iannoni",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 44
+        },
+        {
+          "id": 328046,
+          "name": "I. Koné",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 90
+        },
+        {
+          "id": 2215,
+          "name": "A. Laurienté",
+          "position": "Attacker",
+          "age": 27,
+          "number": 45
+        },
+        {
+          "id": 343562,
+          "name": "L. Lipani",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 35
+        },
+        {
+          "id": 902,
+          "name": "N. Matić",
+          "position": "Midfielder",
+          "age": 37,
+          "number": 18
+        },
+        {
+          "id": 59513,
+          "name": "Y. Paz",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 17
+        },
+        {
+          "id": 39143,
+          "name": "K. Thorstvedt",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 42
+        },
+        {
+          "id": 342035,
+          "name": "C. Volpato",
+          "position": "Attacker",
+          "age": 22,
+          "number": 7
+        },
+        {
+          "id": 127413,
+          "name": "A. Vranckx",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 40
+        },
+        {
+          "id": 30537,
+          "name": "D. Berardi",
+          "position": "Attacker",
+          "age": 31,
+          "number": 10
+        },
+        {
+          "id": 128478,
+          "name": "W. Cheddira",
+          "position": "Attacker",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 263699,
+          "name": "A. Fadera",
+          "position": "Attacker",
+          "age": 24,
+          "number": 20
+        },
+        {
+          "id": 31440,
+          "name": "L. Moro",
+          "position": "Attacker",
+          "age": 24,
+          "number": 24
+        },
+        {
+          "id": 30849,
+          "name": "N. Pierini",
+          "position": "Attacker",
+          "age": 27,
+          "number": 77
+        },
+        {
+          "id": 31094,
+          "name": "A. Pinamonti",
+          "position": "Attacker",
+          "age": 26,
+          "number": 99
+        },
+        {
+          "id": 264739,
+          "name": "L. Skjellerup",
+          "position": "Attacker",
+          "age": 23,
+          "number": 14
+        }
+      ]
+    },
+    "489": {
+      "name": "AC Milan",
+      "players": [
+        {
+          "id": 22221,
+          "name": "M. Maignan",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 16
+        },
+        {
+          "id": 484293,
+          "name": "M. Pittarella",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 37
+        },
+        {
+          "id": 30394,
+          "name": "P. Terracciano",
+          "position": "Goalkeeper",
+          "age": 35,
+          "number": 1
+        },
+        {
+          "id": 386298,
+          "name": "L. Torriani",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 96
+        },
+        {
+          "id": 396380,
+          "name": "Z. Athekame",
+          "position": "Defender",
+          "age": 21,
+          "number": 24
+        },
+        {
+          "id": 374359,
+          "name": "D. Bartesaghi",
+          "position": "Defender",
+          "age": 20,
+          "number": 33
+        },
+        {
+          "id": 162141,
+          "name": "K. De Winter",
+          "position": "Defender",
+          "age": 23,
+          "number": 5
+        },
+        {
+          "id": 46731,
+          "name": "P. Estupiñán",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 2
+        },
+        {
+          "id": 56473,
+          "name": "M. Gabbia",
+          "position": "Defender",
+          "age": 26,
+          "number": 46
+        },
+        {
+          "id": 394740,
+          "name": "D. Odogu",
+          "position": "Defender",
+          "age": 19,
+          "number": 27
+        },
+        {
+          "id": 45826,
+          "name": "S. Pavlović",
+          "position": "Defender",
+          "age": 24,
+          "number": 31
+        },
+        {
+          "id": 19209,
+          "name": "F. Tomori",
+          "position": "Defender",
+          "age": 28,
+          "number": 23
+        },
+        {
+          "id": 496790,
+          "name": "V. Vladimirov",
+          "position": "Defender",
+          "age": 17,
+          "number": 47
+        },
+        {
+          "id": 22254,
+          "name": "Y. Fofana",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 19
+        },
+        {
+          "id": 264705,
+          "name": "A. Jashari",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 30
+        },
+        {
+          "id": 2292,
+          "name": "R. Loftus-Cheek",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 8
+        },
+        {
+          "id": 754,
+          "name": "L. Modrić",
+          "position": "Midfielder",
+          "age": 40,
+          "number": 14
+        },
+        {
+          "id": 272,
+          "name": "A. Rabiot",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 12
+        },
+        {
+          "id": 31056,
+          "name": "S. Ricci",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 4
+        },
+        {
+          "id": 1417,
+          "name": "A. Saelemaekers",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 56
+        },
+        {
+          "id": 554588,
+          "name": "E. Sala",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 42
+        },
+        {
+          "id": 336928,
+          "name": "M. Valletta",
+          "position": "Attacker",
+          "age": 31,
+          "number": 25
+        },
+        {
+          "id": 582073,
+          "name": "E. Borsani",
+          "position": "Attacker",
+          "age": 17,
+          "number": 44
+        },
+        {
+          "id": 598671,
+          "name": "A. Castiello",
+          "position": "Attacker",
+          "age": 18,
+          "number": 80
+        },
+        {
+          "id": 94562,
+          "name": "S. Giménez",
+          "position": "Attacker",
+          "age": 24,
+          "number": 7
+        },
+        {
+          "id": 22236,
+          "name": "Rafael Leão",
+          "position": "Attacker",
+          "age": 26,
+          "number": 10
+        },
+        {
+          "id": 269,
+          "name": "C. Nkunku",
+          "position": "Attacker",
+          "age": 28,
+          "number": 18
+        },
+        {
+          "id": 17,
+          "name": "C. Pulišić",
+          "position": "Attacker",
+          "age": 27,
+          "number": 11
+        }
+      ]
+    },
+    "490": {
+      "name": "Cagliari",
+      "players": [
+        {
+          "id": 30731,
+          "name": "E. Caprile",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 1
+        },
+        {
+          "id": 135863,
+          "name": "G. Ciocci",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 24
+        },
+        {
+          "id": 31601,
+          "name": "B. Radunović",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 31
+        },
+        {
+          "id": 485289,
+          "name": "V. Sarno",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 34
+        },
+        {
+          "id": 438208,
+          "name": "Andra Cogoni",
+          "position": "Defender",
+          "age": 19,
+          "number": 13
+        },
+        {
+          "id": 56287,
+          "name": "A. Di Pardo",
+          "position": "Defender",
+          "age": 26,
+          "number": 18
+        },
+        {
+          "id": 371955,
+          "name": "Antoni Tymoteusz Franke",
+          "position": "Defender",
+          "age": 19,
+          "number": 27
+        },
+        {
+          "id": 383026,
+          "name": "Riyad Idrissi",
+          "position": "Defender",
+          "age": 20,
+          "number": 3
+        },
+        {
+          "id": 319,
+          "name": "S. Luperto",
+          "position": "Defender",
+          "age": 29,
+          "number": 6
+        },
+        {
+          "id": 2484,
+          "name": "Y. Mina",
+          "position": "Defender",
+          "age": 31,
+          "number": 26
+        },
+        {
+          "id": 321744,
+          "name": "A. Obert",
+          "position": "Defender",
+          "age": 23,
+          "number": 33
+        },
+        {
+          "id": 41964,
+          "name": "Zé Pedro",
+          "position": "Defender",
+          "age": 28,
+          "number": 32
+        },
+        {
+          "id": 384422,
+          "name": "Nicola Pintus",
+          "position": "Defender",
+          "age": 20,
+          "number": 23
+        },
+        {
+          "id": 415155,
+          "name": "J. Rodríguez",
+          "position": "Defender",
+          "age": 20,
+          "number": 15
+        },
+        {
+          "id": 200,
+          "name": "G. Zappa",
+          "position": "Defender",
+          "age": 26,
+          "number": 28
+        },
+        {
+          "id": 30505,
+          "name": "M. Adopo",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 8
+        },
+        {
+          "id": 329550,
+          "name": "N. Cavuoti",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 30561,
+          "name": "A. Deiola",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 14
+        },
+        {
+          "id": 31734,
+          "name": "M. Felici",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 17
+        },
+        {
+          "id": 56851,
+          "name": "M. Folorunsho",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 90
+        },
+        {
+          "id": 325,
+          "name": "G. Gaetano",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 10
+        },
+        {
+          "id": 468711,
+          "name": "N. Grandu",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 16
+        },
+        {
+          "id": 551413,
+          "name": "J. Liteta",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 27
+        },
+        {
+          "id": 30780,
+          "name": "L. Mazzitelli",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 4
+        },
+        {
+          "id": 383018,
+          "name": "M. Palestra",
+          "position": "Defender",
+          "age": 20,
+          "number": 2
+        },
+        {
+          "id": 309388,
+          "name": "M. Prati",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 16
+        },
+        {
+          "id": 2055,
+          "name": "M. Rog",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 20
+        },
+        {
+          "id": 341307,
+          "name": "Ivan Stoyanov Sulev",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 17
+        },
+        {
+          "id": 30509,
+          "name": "A. Belotti",
+          "position": "Attacker",
+          "age": 32,
+          "number": 19
+        },
+        {
+          "id": 31499,
+          "name": "G. Borrelli",
+          "position": "Attacker",
+          "age": 25,
+          "number": 29
+        },
+        {
+          "id": 215,
+          "name": "S. Esposito",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 94
+        },
+        {
+          "id": 336567,
+          "name": "S. Kılıçsoy",
+          "position": "Attacker",
+          "age": 20,
+          "number": 9
+        },
+        {
+          "id": 140831,
+          "name": "Zito Luvumbo",
+          "position": "Attacker",
+          "age": 23,
+          "number": 77
+        },
+        {
+          "id": 30573,
+          "name": "L. Pavoletti",
+          "position": "Attacker",
+          "age": 37,
+          "number": 30
+        },
+        {
+          "id": 584116,
+          "name": "Y. Trepy",
+          "position": "Attacker",
+          "age": 19,
+          "number": 37
+        }
+      ]
+    },
+    "492": {
+      "name": "Napoli",
+      "players": [
+        {
+          "id": 32172,
+          "name": "N. Contini",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 14
+        },
+        {
+          "id": 355007,
+          "name": "A. Yazıcı",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 25
+        },
+        {
+          "id": 312,
+          "name": "A. Meret",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 1
+        },
+        {
+          "id": 31156,
+          "name": "V. Milinković-Savić",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 32
+        },
+        {
+          "id": 568115,
+          "name": "D. Spinelli",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 95
+        },
+        {
+          "id": 37604,
+          "name": "S. Beukema",
+          "position": "Defender",
+          "age": 27,
+          "number": 31
+        },
+        {
+          "id": 31226,
+          "name": "A. Buongiorno",
+          "position": "Defender",
+          "age": 26,
+          "number": 4
+        },
+        {
+          "id": 31042,
+          "name": "G. Di Lorenzo",
+          "position": "Defender",
+          "age": 32,
+          "number": 22
+        },
+        {
+          "id": 162032,
+          "name": "Miguel Gutiérrez",
+          "position": "Defender",
+          "age": 24,
+          "number": 3
+        },
+        {
+          "id": 774,
+          "name": "Juan Jesus",
+          "position": "Defender",
+          "age": 34,
+          "number": 5
+        },
+        {
+          "id": 388547,
+          "name": "Luca Marianucci",
+          "position": "Defender",
+          "age": 21,
+          "number": 35
+        },
+        {
+          "id": 31390,
+          "name": "P. Mazzocchi",
+          "position": "Defender",
+          "age": 30,
+          "number": 30
+        },
+        {
+          "id": 47254,
+          "name": "M. Olivera",
+          "position": "Defender",
+          "age": 28,
+          "number": 17
+        },
+        {
+          "id": 1314,
+          "name": "Amir Rrahmani",
+          "position": "Defender",
+          "age": 31,
+          "number": 13
+        },
+        {
+          "id": 862,
+          "name": "L. Spinazzola",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 37
+        },
+        {
+          "id": 3406,
+          "name": "A. Zambo Anguissa",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 99
+        },
+        {
+          "id": 579077,
+          "name": "F. Barido",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 96
+        },
+        {
+          "id": 629,
+          "name": "K. De Bruyne",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 11
+        },
+        {
+          "id": 1358,
+          "name": "E. Elmas",
+          "position": "Attacker",
+          "age": 26,
+          "number": 20
+        },
+        {
+          "id": 130423,
+          "name": "B. Gilmour",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 6
+        },
+        {
+          "id": 47439,
+          "name": "S. Lobotka",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 68
+        },
+        {
+          "id": 903,
+          "name": "S. McTominay",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 8
+        },
+        {
+          "id": 347395,
+          "name": "A. Vergara",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 26
+        },
+        {
+          "id": 341912,
+          "name": "G. Ambrosino",
+          "position": "Attacker",
+          "age": 22,
+          "number": 69
+        },
+        {
+          "id": 552,
+          "name": "David Neres",
+          "position": "Attacker",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 288006,
+          "name": "R. Højlund",
+          "position": "Attacker",
+          "age": 22,
+          "number": 19
+        },
+        {
+          "id": 544,
+          "name": "N. Lang",
+          "position": "Attacker",
+          "age": 26,
+          "number": 70
+        },
+        {
+          "id": 199089,
+          "name": "L. Lucca",
+          "position": "Attacker",
+          "age": 25,
+          "number": 27
+        },
+        {
+          "id": 907,
+          "name": "R. Lukaku",
+          "position": "Attacker",
+          "age": 32,
+          "number": 9
+        },
+        {
+          "id": 219,
+          "name": "M. Politano",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 21
+        }
+      ]
+    },
+    "494": {
+      "name": "Udinese",
+      "players": [
+        {
+          "id": 418940,
+          "name": "A. Nunziante",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 1
+        },
+        {
+          "id": 143648,
+          "name": "M. Okoye",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 40
+        },
+        {
+          "id": 189,
+          "name": "D. Padelli",
+          "position": "Goalkeeper",
+          "age": 40,
+          "number": 93
+        },
+        {
+          "id": 197830,
+          "name": "R. Sava",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 90
+        },
+        {
+          "id": 551412,
+          "name": "G. Venuti",
+          "position": "Goalkeeper",
+          "age": 16,
+          "number": 41
+        },
+        {
+          "id": 315249,
+          "name": "N. Bertola",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 13
+        },
+        {
+          "id": 36916,
+          "name": "K. Ehizibue",
+          "position": "Defender",
+          "age": 30,
+          "number": 19
+        },
+        {
+          "id": 318053,
+          "name": "S. Goglichidze",
+          "position": "Defender",
+          "age": 21,
+          "number": 2
+        },
+        {
+          "id": 18797,
+          "name": "C. Kabasele",
+          "position": "Defender",
+          "age": 34,
+          "number": 27
+        },
+        {
+          "id": 22007,
+          "name": "H. Kamara",
+          "position": "Defender",
+          "age": 31,
+          "number": 11
+        },
+        {
+          "id": 281495,
+          "name": "T. Kristensen",
+          "position": "Defender",
+          "age": 23,
+          "number": 31
+        },
+        {
+          "id": 422156,
+          "name": "M. Palma",
+          "position": "Defender",
+          "age": 17,
+          "number": 16
+        },
+        {
+          "id": 656,
+          "name": "O. Solet",
+          "position": "Defender",
+          "age": 25,
+          "number": 28
+        },
+        {
+          "id": 162907,
+          "name": "A. Zanoli",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 59
+        },
+        {
+          "id": 19824,
+          "name": "J. Zemura",
+          "position": "Defender",
+          "age": 26,
+          "number": 33
+        },
+        {
+          "id": 347644,
+          "name": "A. Atta",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 14
+        },
+        {
+          "id": 490138,
+          "name": "A. Camara",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 29
+        },
+        {
+          "id": 541,
+          "name": "J. Ekkelenkamp",
+          "position": "Attacker",
+          "age": 25,
+          "number": 32
+        },
+        {
+          "id": 48047,
+          "name": "J. Karlström",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 8
+        },
+        {
+          "id": 7591,
+          "name": "S. Lovrić",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 4
+        },
+        {
+          "id": 343558,
+          "name": "L. Miller",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 38
+        },
+        {
+          "id": 142442,
+          "name": "Rui Modesto",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 77
+        },
+        {
+          "id": 1939,
+          "name": "J. Piotrowski",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 24
+        },
+        {
+          "id": 786,
+          "name": "N. Zaniolo",
+          "position": "Attacker",
+          "age": 26,
+          "number": 10
+        },
+        {
+          "id": 182560,
+          "name": "Oier Zarraga",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 6
+        },
+        {
+          "id": 1134,
+          "name": "V. Bayo",
+          "position": "Attacker",
+          "age": 28,
+          "number": 15
+        },
+        {
+          "id": 330599,
+          "name": "Iker Bravo",
+          "position": "Attacker",
+          "age": 20,
+          "number": 17
+        },
+        {
+          "id": 40594,
+          "name": "A. Buksa",
+          "position": "Attacker",
+          "age": 29,
+          "number": 18
+        },
+        {
+          "id": 19185,
+          "name": "K. Davis",
+          "position": "Attacker",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 434410,
+          "name": "I. Gueye",
+          "position": "Attacker",
+          "age": 19,
+          "number": 7
+        },
+        {
+          "id": 493365,
+          "name": "G. Vinciati",
+          "position": "Attacker",
+          "age": 18,
+          "number": 45
+        }
+      ]
+    },
+    "495": {
+      "name": "Genoa",
+      "players": [
+        {
+          "id": 31631,
+          "name": "N. Leali",
+          "position": "Goalkeeper",
+          "age": 32,
+          "number": 1
+        },
+        {
+          "id": 395788,
+          "name": "E. Lysionok",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 35
+        },
+        {
+          "id": 45083,
+          "name": "B. Siegrist",
+          "position": "Goalkeeper",
+          "age": 33,
+          "number": 31
+        },
+        {
+          "id": 31445,
+          "name": "D. Sommariva",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 39
+        },
+        {
+          "id": 570213,
+          "name": "A. Kumer Celik",
+          "position": "Defender",
+          "age": 18,
+          "number": 42
+        },
+        {
+          "id": 281826,
+          "name": "A. Marcandalli",
+          "position": "Defender",
+          "age": 23,
+          "number": 27
+        },
+        {
+          "id": 25914,
+          "name": "Aarón Martín",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 3
+        },
+        {
+          "id": 284570,
+          "name": "B. Norton-Cuffy",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 15
+        },
+        {
+          "id": 18967,
+          "name": "L. Østigård",
+          "position": "Defender",
+          "age": 26,
+          "number": 5
+        },
+        {
+          "id": 387128,
+          "name": "S. Otoa",
+          "position": "Defender",
+          "age": 21,
+          "number": 34
+        },
+        {
+          "id": 31137,
+          "name": "S. Sabelli",
+          "position": "Defender",
+          "age": 32,
+          "number": 20
+        },
+        {
+          "id": 35544,
+          "name": "J. Vásquez",
+          "position": "Defender",
+          "age": 27,
+          "number": 22
+        },
+        {
+          "id": 341646,
+          "name": "V. Carboni",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 23
+        },
+        {
+          "id": 382947,
+          "name": "H. Cuenca",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 30
+        },
+        {
+          "id": 89520,
+          "name": "M. Ellertsson",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 77
+        },
+        {
+          "id": 15881,
+          "name": "M. Frendrup",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 32
+        },
+        {
+          "id": 263177,
+          "name": "A. Grønbæk",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 11
+        },
+        {
+          "id": 1938,
+          "name": "R. Malinovskyi",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 17
+        },
+        {
+          "id": 281096,
+          "name": "P. Masini",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 73
+        },
+        {
+          "id": 41748,
+          "name": "J. Onana",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 14
+        },
+        {
+          "id": 44439,
+          "name": "N. Stanciu",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 8
+        },
+        {
+          "id": 36980,
+          "name": "M. Thorsby",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 2
+        },
+        {
+          "id": 263481,
+          "name": "L. Colombo",
+          "position": "Attacker",
+          "age": 23,
+          "number": 29
+        },
+        {
+          "id": 665,
+          "name": "M. Cornet",
+          "position": "Attacker",
+          "age": 29,
+          "number": 70
+        },
+        {
+          "id": 451504,
+          "name": "J. Ekhator",
+          "position": "Attacker",
+          "age": 19,
+          "number": 21
+        },
+        {
+          "id": 3430,
+          "name": "C. Ekuban",
+          "position": "Attacker",
+          "age": 31,
+          "number": 18
+        },
+        {
+          "id": 348533,
+          "name": "S. Fini",
+          "position": "Attacker",
+          "age": 19,
+          "number": 40
+        },
+        {
+          "id": 56396,
+          "name": "Junior Messias",
+          "position": "Attacker",
+          "age": 34,
+          "number": 10
+        },
+        {
+          "id": 452033,
+          "name": "L. Venturino",
+          "position": "Attacker",
+          "age": 19,
+          "number": 76
+        },
+        {
+          "id": 281408,
+          "name": "Vítinha",
+          "position": "Attacker",
+          "age": 25,
+          "number": 9
+        }
+      ]
+    },
+    "496": {
+      "name": "Juventus",
+      "players": [
+        {
+          "id": 30670,
+          "name": "M. Di Gregorio",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 16
+        },
+        {
+          "id": 408319,
+          "name": "M. Fuscaldo",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 29
+        },
+        {
+          "id": 557148,
+          "name": "S. Mangiapoco",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 22
+        },
+        {
+          "id": 849,
+          "name": "M. Perin",
+          "position": "Goalkeeper",
+          "age": 33,
+          "number": 1
+        },
+        {
+          "id": 850,
+          "name": "C. Pinsoglio",
+          "position": "Goalkeeper",
+          "age": 35,
+          "number": 23
+        },
+        {
+          "id": 335099,
+          "name": "S. Scaglia",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 42
+        },
+        {
+          "id": 30497,
+          "name": "Bremer",
+          "position": "Defender",
+          "age": 28,
+          "number": 3
+        },
+        {
+          "id": 125674,
+          "name": "J. Cabal",
+          "position": "Defender",
+          "age": 24,
+          "number": 32
+        },
+        {
+          "id": 127011,
+          "name": "A. Cambiaso",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 27
+        },
+        {
+          "id": 268341,
+          "name": "F. Gatti",
+          "position": "Defender",
+          "age": 27,
+          "number": 4
+        },
+        {
+          "id": 436925,
+          "name": "Javier Gil",
+          "position": "Defender",
+          "age": 19,
+          "number": 3
+        },
+        {
+          "id": 41734,
+          "name": "João Mário",
+          "position": "Defender",
+          "age": 25,
+          "number": 25
+        },
+        {
+          "id": 162188,
+          "name": "P. Kalulu",
+          "position": "Defender",
+          "age": 25,
+          "number": 15
+        },
+        {
+          "id": 19263,
+          "name": "L. Kelly",
+          "position": "Defender",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 415064,
+          "name": "Pedro Felipe",
+          "position": "Defender",
+          "age": 21,
+          "number": 44
+        },
+        {
+          "id": 335101,
+          "name": "J. Rouhi",
+          "position": "Defender",
+          "age": 21,
+          "number": 40
+        },
+        {
+          "id": 861,
+          "name": "D. Rugani",
+          "position": "Defender",
+          "age": 31,
+          "number": 24
+        },
+        {
+          "id": 339872,
+          "name": "Vasilije Adžić",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 17
+        },
+        {
+          "id": 36899,
+          "name": "T. Koopmeiners",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 8
+        },
+        {
+          "id": 1821,
+          "name": "F. Kostić",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 18
+        },
+        {
+          "id": 30533,
+          "name": "M. Locatelli",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 5
+        },
+        {
+          "id": 415,
+          "name": "W. McKennie",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 22
+        },
+        {
+          "id": 181808,
+          "name": "F. Miretti",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 116,
+          "name": "K. Thuram",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 19
+        },
+        {
+          "id": 161585,
+          "name": "Francisco Conceição",
+          "position": "Attacker",
+          "age": 23,
+          "number": 7
+        },
+        {
+          "id": 8489,
+          "name": "J. David",
+          "position": "Attacker",
+          "age": 25,
+          "number": 30
+        },
+        {
+          "id": 333,
+          "name": "A. Milik",
+          "position": "Attacker",
+          "age": 31,
+          "number": 14
+        },
+        {
+          "id": 86,
+          "name": "L. Openda",
+          "position": "Attacker",
+          "age": 25,
+          "number": 20
+        },
+        {
+          "id": 30415,
+          "name": "D. Vlahović",
+          "position": "Attacker",
+          "age": 25,
+          "number": 9
+        },
+        {
+          "id": 339883,
+          "name": "K. Yıldız",
+          "position": "Attacker",
+          "age": 20,
+          "number": 10
+        },
+        {
+          "id": 48392,
+          "name": "E. Zhegrova",
+          "position": "Attacker",
+          "age": 26,
+          "number": 11
+        }
+      ]
+    },
+    "497": {
+      "name": "AS Roma",
+      "players": [
+        {
+          "id": 483676,
+          "name": "G. De Marzi",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 70
+        },
+        {
+          "id": 30418,
+          "name": "P. Gollini",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 95
+        },
+        {
+          "id": 495478,
+          "name": "A. Marcaccini",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 12
+        },
+        {
+          "id": 556,
+          "name": "M. Svilar",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 99
+        },
+        {
+          "id": 81012,
+          "name": "D. Vásquez",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 32
+        },
+        {
+          "id": 452423,
+          "name": "R. Żelezny",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 91
+        },
+        {
+          "id": 227,
+          "name": "Angeliño",
+          "position": "Defender",
+          "age": 28,
+          "number": 3
+        },
+        {
+          "id": 446067,
+          "name": "Buba Sangaré",
+          "position": "Defender",
+          "age": 18,
+          "number": 66
+        },
+        {
+          "id": 22222,
+          "name": "Z. Çelik",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 19
+        },
+        {
+          "id": 342019,
+          "name": "D. Ghilardi",
+          "position": "Defender",
+          "age": 22,
+          "number": 87
+        },
+        {
+          "id": 2669,
+          "name": "Hermoso",
+          "position": "Defender",
+          "age": 30,
+          "number": 22
+        },
+        {
+          "id": 30425,
+          "name": "G. Mancini",
+          "position": "Defender",
+          "age": 29,
+          "number": 23
+        },
+        {
+          "id": 458411,
+          "name": "Jacopo Mirra",
+          "position": "Defender",
+          "age": 19,
+          "number": 76
+        },
+        {
+          "id": 1807,
+          "name": "E. Ndicka",
+          "position": "Defender",
+          "age": 26,
+          "number": 5
+        },
+        {
+          "id": 162452,
+          "name": "D. Rensch",
+          "position": "Defender",
+          "age": 22,
+          "number": 2
+        },
+        {
+          "id": 1600,
+          "name": "K. Tsimikas",
+          "position": "Defender",
+          "age": 29,
+          "number": 12
+        },
+        {
+          "id": 349001,
+          "name": "Wesley",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 43
+        },
+        {
+          "id": 384543,
+          "name": "J. Ziółkowski",
+          "position": "Defender",
+          "age": 20,
+          "number": 24
+        },
+        {
+          "id": 626686,
+          "name": "M. Bah",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 69
+        },
+        {
+          "id": 288769,
+          "name": "T. Baldanzi",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 35
+        },
+        {
+          "id": 778,
+          "name": "B. Cristante",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 4
+        },
+        {
+          "id": 277003,
+          "name": "N. El Aynaoui",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 8
+        },
+        {
+          "id": 22147,
+          "name": "M. Koné",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 17
+        },
+        {
+          "id": 782,
+          "name": "L. Pellegrini",
+          "position": "Attacker",
+          "age": 29,
+          "number": 7
+        },
+        {
+          "id": 356888,
+          "name": "N. Pisilli",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 61
+        },
+        {
+          "id": 394183,
+          "name": "A. Romano",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 60
+        },
+        {
+          "id": 484027,
+          "name": "A. Arena",
+          "position": "Attacker",
+          "age": 16,
+          "number": 68
+        },
+        {
+          "id": 983,
+          "name": "L. Bailey",
+          "position": "Attacker",
+          "age": 28,
+          "number": 31
+        },
+        {
+          "id": 15811,
+          "name": "A. Dovbyk",
+          "position": "Attacker",
+          "age": 28,
+          "number": 9
+        },
+        {
+          "id": 875,
+          "name": "P. Dybala",
+          "position": "Attacker",
+          "age": 32,
+          "number": 21
+        },
+        {
+          "id": 791,
+          "name": "S. El Shaarawy",
+          "position": "Attacker",
+          "age": 33,
+          "number": 92
+        },
+        {
+          "id": 129643,
+          "name": "E. Ferguson",
+          "position": "Attacker",
+          "age": 21,
+          "number": 11
+        },
+        {
+          "id": 323936,
+          "name": "M. Soulé",
+          "position": "Attacker",
+          "age": 22,
+          "number": 18
+        }
+      ]
+    },
+    "499": {
+      "name": "Atalanta",
+      "players": [
+        {
+          "id": 30417,
+          "name": "M. Carnesecchi",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 29
+        },
+        {
+          "id": 30419,
+          "name": "F. Rossi",
+          "position": "Goalkeeper",
+          "age": 34,
+          "number": 31
+        },
+        {
+          "id": 336646,
+          "name": "J. Sassi",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 22
+        },
+        {
+          "id": 31069,
+          "name": "M. Sportiello",
+          "position": "Goalkeeper",
+          "age": 33,
+          "number": 57
+        },
+        {
+          "id": 350078,
+          "name": "P. Vismara",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 95
+        },
+        {
+          "id": 453906,
+          "name": "H. Ahanor",
+          "position": "Defender",
+          "age": 17,
+          "number": 69
+        },
+        {
+          "id": 436251,
+          "name": "P. Comi",
+          "position": "Defender",
+          "age": 20,
+          "number": 6
+        },
+        {
+          "id": 30421,
+          "name": "B. Djimsiti",
+          "position": "Defender",
+          "age": 32,
+          "number": 19
+        },
+        {
+          "id": 162014,
+          "name": "D. Ghislandi",
+          "position": "Defender",
+          "age": 24,
+          "number": 24
+        },
+        {
+          "id": 558689,
+          "name": "A. Guerini",
+          "position": "Defender",
+          "age": 21,
+          "number": 18
+        },
+        {
+          "id": 137976,
+          "name": "I. Hien",
+          "position": "Defender",
+          "age": 26,
+          "number": 4
+        },
+        {
+          "id": 484411,
+          "name": "J. Idele",
+          "position": "Defender",
+          "age": 18,
+          "number": 61
+        },
+        {
+          "id": 1442,
+          "name": "S. Kolašinac",
+          "position": "Defender",
+          "age": 32,
+          "number": 23
+        },
+        {
+          "id": 48119,
+          "name": "O. Kossounou",
+          "position": "Defender",
+          "age": 24,
+          "number": 3
+        },
+        {
+          "id": 400530,
+          "name": "R. ObriÄ",
+          "position": "Defender",
+          "age": 19,
+          "number": 19
+        },
+        {
+          "id": 289761,
+          "name": "G. Scalvini",
+          "position": "Defender",
+          "age": 22,
+          "number": 42
+        },
+        {
+          "id": 2286,
+          "name": "D. Zappacosta",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 77
+        },
+        {
+          "id": 91422,
+          "name": "R. Bellanova",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 16
+        },
+        {
+          "id": 264857,
+          "name": "L. Bernasconi",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 47
+        },
+        {
+          "id": 1639,
+          "name": "M. Brescianini",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 44
+        },
+        {
+          "id": 383016,
+          "name": "M. Colombo",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 40
+        },
+        {
+          "id": 162011,
+          "name": "A. Cortinovis",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 10
+        },
+        {
+          "id": 147859,
+          "name": "C. De Ketelaere",
+          "position": "Attacker",
+          "age": 24,
+          "number": 17
+        },
+        {
+          "id": 10097,
+          "name": "Éderson",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 13
+        },
+        {
+          "id": 134926,
+          "name": "D. Maldini",
+          "position": "Attacker",
+          "age": 24,
+          "number": 70
+        },
+        {
+          "id": 162106,
+          "name": "Y. Musah",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 6
+        },
+        {
+          "id": 2763,
+          "name": "M. Pašalić",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 8
+        },
+        {
+          "id": 383020,
+          "name": "L. Riccio",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 21
+        },
+        {
+          "id": 178749,
+          "name": "L. Samardžić",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 10
+        },
+        {
+          "id": 203474,
+          "name": "N. Zalewski",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 59
+        },
+        {
+          "id": 30432,
+          "name": "M. de Roon",
+          "position": "Defender",
+          "age": 34,
+          "number": 15
+        },
+        {
+          "id": 458409,
+          "name": "H. Camara",
+          "position": "Attacker",
+          "age": 19,
+          "number": 33
+        },
+        {
+          "id": 443501,
+          "name": "F. Cassa",
+          "position": "Attacker",
+          "age": 19,
+          "number": 11
+        },
+        {
+          "id": 357996,
+          "name": "M. Cissé",
+          "position": "Attacker",
+          "age": 22,
+          "number": 14
+        },
+        {
+          "id": 66817,
+          "name": "N. Krstović",
+          "position": "Attacker",
+          "age": 25,
+          "number": 90
+        },
+        {
+          "id": 18767,
+          "name": "A. Lookman",
+          "position": "Attacker",
+          "age": 28,
+          "number": 11
+        },
+        {
+          "id": 30544,
+          "name": "G. Scamacca",
+          "position": "Attacker",
+          "age": 26,
+          "number": 9
+        },
+        {
+          "id": 199837,
+          "name": "K. Sulemana",
+          "position": "Attacker",
+          "age": 23,
+          "number": 7
+        },
+        {
+          "id": 383017,
+          "name": "D. Vavassori",
+          "position": "Attacker",
+          "age": 20,
+          "number": 99
+        }
+      ]
+    },
+    "500": {
+      "name": "Bologna",
+      "players": [
+        {
+          "id": 616142,
+          "name": "Matteo Franceschelli",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 82
+        },
+        {
+          "id": 416518,
+          "name": "U. Happonen",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 72
+        },
+        {
+          "id": 446089,
+          "name": "M. Pessina",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 25
+        },
+        {
+          "id": 31098,
+          "name": "F. Ravaglia",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 13
+        },
+        {
+          "id": 2998,
+          "name": "Ł. Skorupski",
+          "position": "Goalkeeper",
+          "age": 34,
+          "number": 1
+        },
+        {
+          "id": 31099,
+          "name": "N. Casale",
+          "position": "Defender",
+          "age": 27,
+          "number": 16
+        },
+        {
+          "id": 30498,
+          "name": "L. De Silvestri",
+          "position": "Defender",
+          "age": 37,
+          "number": 29
+        },
+        {
+          "id": 1929,
+          "name": "J. Lucumí",
+          "position": "Defender",
+          "age": 27,
+          "number": 26
+        },
+        {
+          "id": 30553,
+          "name": "C. Lykogiannis",
+          "position": "Defender",
+          "age": 32,
+          "number": 22
+        },
+        {
+          "id": 39254,
+          "name": "T. Heggem",
+          "position": "Defender",
+          "age": 26,
+          "number": 14
+        },
+        {
+          "id": 616148,
+          "name": "Petar Markovic",
+          "position": "Defender",
+          "age": 19,
+          "number": 26
+        },
+        {
+          "id": 134,
+          "name": "Juan Miranda",
+          "position": "Defender",
+          "age": 25,
+          "number": 33
+        },
+        {
+          "id": 394947,
+          "name": "B. Tomašević",
+          "position": "Defender",
+          "age": 19,
+          "number": 15
+        },
+        {
+          "id": 287564,
+          "name": "M. Vitík",
+          "position": "Defender",
+          "age": 22,
+          "number": 41
+        },
+        {
+          "id": 322630,
+          "name": "G. Fabbian",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 80
+        },
+        {
+          "id": 44814,
+          "name": "L. Ferguson",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 19
+        },
+        {
+          "id": 2807,
+          "name": "R. Freuler",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 8
+        },
+        {
+          "id": 47985,
+          "name": "E. Holm",
+          "position": "Defender",
+          "age": 25,
+          "number": 2
+        },
+        {
+          "id": 1322,
+          "name": "N. Moro",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 31273,
+          "name": "T. Pobega",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 4
+        },
+        {
+          "id": 353609,
+          "name": "I. Sulemana",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 77
+        },
+        {
+          "id": 128461,
+          "name": "N. Zortea",
+          "position": "Defender",
+          "age": 26,
+          "number": 20
+        },
+        {
+          "id": 873,
+          "name": "F. Bernardeschi",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 10
+        },
+        {
+          "id": 30438,
+          "name": "N. Cambiaghi",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 28
+        },
+        {
+          "id": 311067,
+          "name": "S. Castro",
+          "position": "Attacker",
+          "age": 21,
+          "number": 9
+        },
+        {
+          "id": 93016,
+          "name": "T. Dallinga",
+          "position": "Attacker",
+          "age": 25,
+          "number": 24
+        },
+        {
+          "id": 347265,
+          "name": "B. Domínguez",
+          "position": "Attacker",
+          "age": 22,
+          "number": 30
+        },
+        {
+          "id": 1863,
+          "name": "C. Immobile",
+          "position": "Attacker",
+          "age": 35,
+          "number": 17
+        },
+        {
+          "id": 30542,
+          "name": "J. Odgaard",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 21
+        },
+        {
+          "id": 30488,
+          "name": "R. Orsolini",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 278095,
+          "name": "J. Rowe",
+          "position": "Attacker",
+          "age": 22,
+          "number": 11
+        }
+      ]
+    },
+    "502": {
+      "name": "Fiorentina",
+      "players": [
+        {
+          "id": 458413,
+          "name": "P. Leonardelli",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 22
+        },
+        {
+          "id": 31352,
+          "name": "L. Lezzerini",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 1
+        },
+        {
+          "id": 383267,
+          "name": "T. Martinelli",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 30
+        },
+        {
+          "id": 882,
+          "name": "David de Gea",
+          "position": "Goalkeeper",
+          "age": 35,
+          "number": 43
+        },
+        {
+          "id": 396637,
+          "name": "P. Comuzzo",
+          "position": "Defender",
+          "age": 20,
+          "number": 15
+        },
+        {
+          "id": 41144,
+          "name": "Dodô",
+          "position": "Defender",
+          "age": 27,
+          "number": 2
+        },
+        {
+          "id": 437093,
+          "name": "N. Fortini",
+          "position": "Defender",
+          "age": 19,
+          "number": 29
+        },
+        {
+          "id": 441290,
+          "name": "E. Košpo",
+          "position": "Defender",
+          "age": 18,
+          "number": 23
+        },
+        {
+          "id": 448977,
+          "name": "E. Kouadio",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 60
+        },
+        {
+          "id": 138815,
+          "name": "T. Lamptey",
+          "position": "Defender",
+          "age": 25,
+          "number": 48
+        },
+        {
+          "id": 46792,
+          "name": "Pablo Marí",
+          "position": "Defender",
+          "age": 32,
+          "number": 18
+        },
+        {
+          "id": 136087,
+          "name": "F. Parisi",
+          "position": "Defender",
+          "age": 25,
+          "number": 65
+        },
+        {
+          "id": 1084,
+          "name": "M. Pongračić",
+          "position": "Defender",
+          "age": 28,
+          "number": 5
+        },
+        {
+          "id": 31642,
+          "name": "L. Ranieri",
+          "position": "Defender",
+          "age": 26,
+          "number": 6
+        },
+        {
+          "id": 180510,
+          "name": "M. Viti",
+          "position": "Defender",
+          "age": 23,
+          "number": 26
+        },
+        {
+          "id": 876,
+          "name": "N. Fagioli",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 44
+        },
+        {
+          "id": 340700,
+          "name": "J. Fazzini",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 22
+        },
+        {
+          "id": 30422,
+          "name": "R. Gosens",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 21
+        },
+        {
+          "id": 30810,
+          "name": "R. Mandragora",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 8
+        },
+        {
+          "id": 584294,
+          "name": "F. Mataran",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 49
+        },
+        {
+          "id": 311083,
+          "name": "C. Ndour",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 27
+        },
+        {
+          "id": 881,
+          "name": "H. Nicolussi",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 14
+        },
+        {
+          "id": 314231,
+          "name": "A. Richardson",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 24
+        },
+        {
+          "id": 19053,
+          "name": "A. Sabiri",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 11
+        },
+        {
+          "id": 1014,
+          "name": "S. Sohm",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 7
+        },
+        {
+          "id": 437094,
+          "name": "R. Braschi",
+          "position": "Attacker",
+          "age": 19,
+          "number": 9
+        },
+        {
+          "id": 790,
+          "name": "E. Džeko",
+          "position": "Attacker",
+          "age": 39,
+          "number": 9
+        },
+        {
+          "id": 2799,
+          "name": "A. Guðmundsson",
+          "position": "Attacker",
+          "age": 28,
+          "number": 10
+        },
+        {
+          "id": 877,
+          "name": "M. Kean",
+          "position": "Attacker",
+          "age": 25,
+          "number": 20
+        },
+        {
+          "id": 30789,
+          "name": "C. Kouamé",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 99
+        },
+        {
+          "id": 30440,
+          "name": "R. Piccoli",
+          "position": "Attacker",
+          "age": 24,
+          "number": 91
+        }
+      ]
+    },
+    "503": {
+      "name": "Torino",
+      "players": [
+        {
+          "id": 56266,
+          "name": "F. Israel",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 81
+        },
+        {
+          "id": 30642,
+          "name": "A. Paleari",
+          "position": "Goalkeeper",
+          "age": 33,
+          "number": 1
+        },
+        {
+          "id": 42796,
+          "name": "M. Popa",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 71
+        },
+        {
+          "id": 565709,
+          "name": "L. Siviero",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 23
+        },
+        {
+          "id": 30396,
+          "name": "C. Biraghi",
+          "position": "Defender",
+          "age": 33,
+          "number": 34
+        },
+        {
+          "id": 122468,
+          "name": "Saúl Coco",
+          "position": "Defender",
+          "age": 26,
+          "number": 23
+        },
+        {
+          "id": 349232,
+          "name": "A. Dembélé",
+          "position": "Defender",
+          "age": 21,
+          "number": 21
+        },
+        {
+          "id": 14329,
+          "name": "A. Ismajli",
+          "position": "Defender",
+          "age": 29,
+          "number": 44
+        },
+        {
+          "id": 2553,
+          "name": "G. Maripán",
+          "position": "Defender",
+          "age": 31,
+          "number": 13
+        },
+        {
+          "id": 18799,
+          "name": "A. Masina",
+          "position": "Defender",
+          "age": 31,
+          "number": 5
+        },
+        {
+          "id": 156490,
+          "name": "N. Nkounkou",
+          "position": "Defender",
+          "age": 25,
+          "number": 25
+        },
+        {
+          "id": 39362,
+          "name": "M. Pedersen",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 16
+        },
+        {
+          "id": 268728,
+          "name": "S. Sazonov",
+          "position": "Defender",
+          "age": 23,
+          "number": 15
+        },
+        {
+          "id": 138777,
+          "name": "F. Anjorin",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 14
+        },
+        {
+          "id": 275776,
+          "name": "K. Asllani",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 32
+        },
+        {
+          "id": 270507,
+          "name": "C. Casadei",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 22
+        },
+        {
+          "id": 343189,
+          "name": "G. Gineitis",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 66
+        },
+        {
+          "id": 46170,
+          "name": "I. Ilić",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 8
+        },
+        {
+          "id": 336573,
+          "name": "E. İlkhan",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 6
+        },
+        {
+          "id": 25353,
+          "name": "V. Lazaro",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 20
+        },
+        {
+          "id": 551303,
+          "name": "K. Momba Liema Olinga",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 75
+        },
+        {
+          "id": 452430,
+          "name": "S. Perciun",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 10
+        },
+        {
+          "id": 22174,
+          "name": "A. Tamèze",
+          "position": "Defender",
+          "age": 31,
+          "number": 61
+        },
+        {
+          "id": 842,
+          "name": "N. Vlašić",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 10
+        },
+        {
+          "id": 243,
+          "name": "Z. Aboukhlal",
+          "position": "Attacker",
+          "age": 25,
+          "number": 7
+        },
+        {
+          "id": 19524,
+          "name": "C. Adams",
+          "position": "Attacker",
+          "age": 29,
+          "number": 19
+        },
+        {
+          "id": 437088,
+          "name": "T. Gabellini",
+          "position": "Attacker",
+          "age": 19,
+          "number": 9
+        },
+        {
+          "id": 85,
+          "name": "C. Ngonge",
+          "position": "Attacker",
+          "age": 25,
+          "number": 26
+        },
+        {
+          "id": 383006,
+          "name": "A. Njie",
+          "position": "Attacker",
+          "age": 20,
+          "number": 92
+        },
+        {
+          "id": 30414,
+          "name": "G. Simeone",
+          "position": "Attacker",
+          "age": 30,
+          "number": 18
+        },
+        {
+          "id": 2495,
+          "name": "D. Zapata",
+          "position": "Attacker",
+          "age": 34,
+          "number": 91
+        }
+      ]
+    },
+    "504": {
+      "name": "Verona",
+      "players": [
+        {
+          "id": 546632,
+          "name": "Mirko Castagnini",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 76
+        },
+        {
+          "id": 30611,
+          "name": "L. Montipò",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 1
+        },
+        {
+          "id": 31383,
+          "name": "S. Perilli",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 34
+        },
+        {
+          "id": 350539,
+          "name": "G. Toniolo",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 94
+        },
+        {
+          "id": 303362,
+          "name": "R. Belghali",
+          "position": "Defender",
+          "age": 23,
+          "number": 7
+        },
+        {
+          "id": 25061,
+          "name": "A. Bella-Kotchap",
+          "position": "Defender",
+          "age": 24,
+          "number": 37
+        },
+        {
+          "id": 14327,
+          "name": "D. Bradarić",
+          "position": "Defender",
+          "age": 26,
+          "number": 12
+        },
+        {
+          "id": 418846,
+          "name": "D. De Battisti",
+          "position": "Defender",
+          "age": 19,
+          "number": 19
+        },
+        {
+          "id": 20656,
+          "name": "E. Ebosse",
+          "position": "Defender",
+          "age": 26,
+          "number": 23
+        },
+        {
+          "id": 15909,
+          "name": "M. Frese",
+          "position": "Defender",
+          "age": 27,
+          "number": 3
+        },
+        {
+          "id": 343565,
+          "name": "A. Kurti",
+          "position": "Defender",
+          "age": 19,
+          "number": 2
+        },
+        {
+          "id": 15912,
+          "name": "V. Nelsson",
+          "position": "Defender",
+          "age": 27,
+          "number": 15
+        },
+        {
+          "id": 47277,
+          "name": "Unai Núñez",
+          "position": "Defender",
+          "age": 28,
+          "number": 5
+        },
+        {
+          "id": 153408,
+          "name": "D. Oyegoke",
+          "position": "Defender",
+          "age": 22,
+          "number": 2
+        },
+        {
+          "id": 368129,
+          "name": "T. Slotsager",
+          "position": "Defender",
+          "age": 19,
+          "number": 19
+        },
+        {
+          "id": 311071,
+          "name": "N. Valentini",
+          "position": "Defender",
+          "age": 24,
+          "number": 6
+        },
+        {
+          "id": 580829,
+          "name": "R. Akale",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 28
+        },
+        {
+          "id": 31678,
+          "name": "J. Akpa Akpro",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 11
+        },
+        {
+          "id": 42006,
+          "name": "Al Musrati",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 73
+        },
+        {
+          "id": 1090,
+          "name": "A. Bernede",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 24
+        },
+        {
+          "id": 527889,
+          "name": "Fallou Cham",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 70
+        },
+        {
+          "id": 203,
+          "name": "R. Gagliardini",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 63
+        },
+        {
+          "id": 37437,
+          "name": "A. Harroui",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 21
+        },
+        {
+          "id": 22239,
+          "name": "C. Niasse",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 36
+        },
+        {
+          "id": 592738,
+          "name": "Alessandro Pavanati",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 10
+        },
+        {
+          "id": 364415,
+          "name": "Jesús Santiago",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 4
+        },
+        {
+          "id": 418,
+          "name": "S. Serdar",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 8
+        },
+        {
+          "id": 194837,
+          "name": "T. Suslov",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 31
+        },
+        {
+          "id": 576967,
+          "name": "L. Szimionas",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 8
+        },
+        {
+          "id": 408634,
+          "name": "J. Ajayi",
+          "position": "Attacker",
+          "age": 21,
+          "number": 72
+        },
+        {
+          "id": 312615,
+          "name": "Giovane",
+          "position": "Attacker",
+          "age": 22,
+          "number": 17
+        },
+        {
+          "id": 867,
+          "name": "G. Kastanos",
+          "position": "Attacker",
+          "age": 27,
+          "number": 20
+        },
+        {
+          "id": 340076,
+          "name": "L. Monticelli",
+          "position": "Attacker",
+          "age": 20,
+          "number": 20
+        },
+        {
+          "id": 59421,
+          "name": "D. Mosquera",
+          "position": "Attacker",
+          "age": 26,
+          "number": 25
+        },
+        {
+          "id": 368260,
+          "name": "G. Orban",
+          "position": "Attacker",
+          "age": 23,
+          "number": 16
+        },
+        {
+          "id": 236955,
+          "name": "A. Sarr",
+          "position": "Attacker",
+          "age": 24,
+          "number": 9
+        },
+        {
+          "id": 352940,
+          "name": "Ioan Vermeșan",
+          "position": "Attacker",
+          "age": 19,
+          "number": 90
+        }
+      ]
+    },
+    "505": {
+      "name": "Inter",
+      "players": [
+        {
+          "id": 336707,
+          "name": "A. Calligaris",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 40
+        },
+        {
+          "id": 91488,
+          "name": "R. Di Gennaro",
+          "position": "Goalkeeper",
+          "age": 32,
+          "number": 12
+        },
+        {
+          "id": 46988,
+          "name": "Josep Martínez",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 13
+        },
+        {
+          "id": 2802,
+          "name": "Y. Sommer",
+          "position": "Goalkeeper",
+          "age": 37,
+          "number": 1
+        },
+        {
+          "id": 449683,
+          "name": "A. Taho",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 60
+        },
+        {
+          "id": 1836,
+          "name": "F. Acerbi",
+          "position": "Defender",
+          "age": 37,
+          "number": 15
+        },
+        {
+          "id": 5,
+          "name": "M. Akanji",
+          "position": "Defender",
+          "age": 30,
+          "number": 25
+        },
+        {
+          "id": 343345,
+          "name": "C. Alexiou",
+          "position": "Defender",
+          "age": 20,
+          "number": 5
+        },
+        {
+          "id": 31009,
+          "name": "A. Bastoni",
+          "position": "Defender",
+          "age": 26,
+          "number": 95
+        },
+        {
+          "id": 24953,
+          "name": "Y. Bisseck",
+          "position": "Defender",
+          "age": 25,
+          "number": 31
+        },
+        {
+          "id": 563846,
+          "name": "S. Cinquegrano",
+          "position": "Defender",
+          "age": 21,
+          "number": 50
+        },
+        {
+          "id": 392493,
+          "name": "M. Cocchi",
+          "position": "Defender",
+          "age": 18,
+          "number": 43
+        },
+        {
+          "id": 887,
+          "name": "M. Darmian",
+          "position": "Defender",
+          "age": 36,
+          "number": 36
+        },
+        {
+          "id": 31010,
+          "name": "F. Dimarco",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 32
+        },
+        {
+          "id": 226,
+          "name": "D. Dumfries",
+          "position": "Defender",
+          "age": 29,
+          "number": 2
+        },
+        {
+          "id": 563858,
+          "name": "Y. Maye",
+          "position": "Defender",
+          "age": 19,
+          "number": 6
+        },
+        {
+          "id": 311360,
+          "name": "T. Palacios",
+          "position": "Defender",
+          "age": 22,
+          "number": 42
+        },
+        {
+          "id": 470581,
+          "name": "G. Re Cecconi",
+          "position": "Defender",
+          "age": 19,
+          "number": 24
+        },
+        {
+          "id": 562570,
+          "name": "F. Stante",
+          "position": "Defender",
+          "age": 20,
+          "number": 15
+        },
+        {
+          "id": 194,
+          "name": "S. de Vrij",
+          "position": "Defender",
+          "age": 33,
+          "number": 6
+        },
+        {
+          "id": 30558,
+          "name": "N. Barella",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 23
+        },
+        {
+          "id": 395849,
+          "name": "Thomas Berenbruch",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 44
+        },
+        {
+          "id": 562597,
+          "name": "L. Bovo",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 14
+        },
+        {
+          "id": 1640,
+          "name": "H. Çalhanoğlu",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 20
+        },
+        {
+          "id": 10238,
+          "name": "Carlos Augusto",
+          "position": "Defender",
+          "age": 26,
+          "number": 30
+        },
+        {
+          "id": 270509,
+          "name": "A. Diouf",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 17
+        },
+        {
+          "id": 31173,
+          "name": "D. Frattesi",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 16
+        },
+        {
+          "id": 161831,
+          "name": "Iwo Kaczmarski",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 57
+        },
+        {
+          "id": 383000,
+          "name": "I. Kamate",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 10
+        },
+        {
+          "id": 1457,
+          "name": "H. Mkhitaryan",
+          "position": "Midfielder",
+          "age": 36,
+          "number": 22
+        },
+        {
+          "id": 348205,
+          "name": "P. Sučić",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 8
+        },
+        {
+          "id": 329,
+          "name": "P. Zieliński",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 7
+        },
+        {
+          "id": 275651,
+          "name": "A. Bonny",
+          "position": "Attacker",
+          "age": 22,
+          "number": 14
+        },
+        {
+          "id": 345808,
+          "name": "F. Esposito",
+          "position": "Attacker",
+          "age": 20,
+          "number": 94
+        },
+        {
+          "id": 461830,
+          "name": "M. Lavelli",
+          "position": "Attacker",
+          "age": 19,
+          "number": 90
+        },
+        {
+          "id": 10077,
+          "name": "Luis Henrique",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 11
+        },
+        {
+          "id": 217,
+          "name": "Lautaro Martínez",
+          "position": "Attacker",
+          "age": 28,
+          "number": 10
+        },
+        {
+          "id": 437678,
+          "name": "M. Mosconi",
+          "position": "Attacker",
+          "age": 18,
+          "number": 30
+        },
+        {
+          "id": 436238,
+          "name": "M. Spinaccè",
+          "position": "Attacker",
+          "age": 19,
+          "number": 7
+        },
+        {
+          "id": 21509,
+          "name": "M. Thuram",
+          "position": "Attacker",
+          "age": 28,
+          "number": 9
+        }
+      ]
+    },
+    "520": {
+      "name": "Cremonese",
+      "players": [
+        {
+          "id": 30441,
+          "name": "E. Audero",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 1
+        },
+        {
+          "id": 441550,
+          "name": "A. Malovec",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 22
+        },
+        {
+          "id": 342995,
+          "name": "L. Nava",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 69
+        },
+        {
+          "id": 30915,
+          "name": "M. Silvestri",
+          "position": "Goalkeeper",
+          "age": 34,
+          "number": 16
+        },
+        {
+          "id": 126980,
+          "name": "T. Barbieri",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 4
+        },
+        {
+          "id": 127035,
+          "name": "F. Baschirotto",
+          "position": "Defender",
+          "age": 29,
+          "number": 6
+        },
+        {
+          "id": 30919,
+          "name": "M. Bianchetti",
+          "position": "Defender",
+          "age": 32,
+          "number": 15
+        },
+        {
+          "id": 30397,
+          "name": "F. Ceccherini",
+          "position": "Defender",
+          "age": 33,
+          "number": 23
+        },
+        {
+          "id": 237249,
+          "name": "M. Faye",
+          "position": "Defender",
+          "age": 21,
+          "number": 30
+        },
+        {
+          "id": 342651,
+          "name": "R. Floriani Mussolini",
+          "position": "Defender",
+          "age": 22,
+          "number": 22
+        },
+        {
+          "id": 385788,
+          "name": "F. Folino",
+          "position": "Defender",
+          "age": 23,
+          "number": 55
+        },
+        {
+          "id": 30775,
+          "name": "G. Pezzella",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 3
+        },
+        {
+          "id": 30530,
+          "name": "L. Sernicola",
+          "position": "Defender",
+          "age": 28,
+          "number": 17
+        },
+        {
+          "id": 266813,
+          "name": "W. Bondo",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 38
+        },
+        {
+          "id": 126889,
+          "name": "M. Collocolo",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 18
+        },
+        {
+          "id": 31021,
+          "name": "A. Grassi",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 33
+        },
+        {
+          "id": 361412,
+          "name": "D. Lordkipanidze",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 48
+        },
+        {
+          "id": 6383,
+          "name": "M. Payero",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 32
+        },
+        {
+          "id": 264472,
+          "name": "F. Terracciano",
+          "position": "Defender",
+          "age": 22,
+          "number": 24
+        },
+        {
+          "id": 30875,
+          "name": "M. Valoti",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 8
+        },
+        {
+          "id": 31211,
+          "name": "J. Vandeputte",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 27
+        },
+        {
+          "id": 2057,
+          "name": "F. Vázquez",
+          "position": "Attacker",
+          "age": 36,
+          "number": 20
+        },
+        {
+          "id": 31436,
+          "name": "F. Bonazzoli",
+          "position": "Attacker",
+          "age": 28,
+          "number": 90
+        },
+        {
+          "id": 31853,
+          "name": "M. De Luca",
+          "position": "Attacker",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 36986,
+          "name": "D. Johnsen",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 11
+        },
+        {
+          "id": 556945,
+          "name": "A. Lickunas",
+          "position": "Attacker",
+          "age": 19,
+          "number": 15
+        },
+        {
+          "id": 102447,
+          "name": "F. Moumbagna",
+          "position": "Attacker",
+          "age": 25,
+          "number": 14
+        },
+        {
+          "id": 30848,
+          "name": "D. Okereke",
+          "position": "Attacker",
+          "age": 28,
+          "number": 77
+        },
+        {
+          "id": 2522,
+          "name": "A. Sanabria",
+          "position": "Attacker",
+          "age": 29,
+          "number": 99
+        },
+        {
+          "id": 202086,
+          "name": "J. Sarmiento",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 19
+        },
+        {
+          "id": 18788,
+          "name": "J. Vardy",
+          "position": "Attacker",
+          "age": 38,
+          "number": 10
+        },
+        {
+          "id": 31219,
+          "name": "A. Zerbin",
+          "position": "Attacker",
+          "age": 26,
+          "number": 7
+        }
+      ]
+    },
+    "523": {
+      "name": "Parma",
+      "players": [
+        {
+          "id": 180762,
+          "name": "E. Corvi",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 40
+        },
+        {
+          "id": 18835,
+          "name": "Guaita",
+          "position": "Goalkeeper",
+          "age": 38,
+          "number": 13
+        },
+        {
+          "id": 237268,
+          "name": "F. Rinaldi",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 66
+        },
+        {
+          "id": 199578,
+          "name": "Z. Suzuki",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 31
+        },
+        {
+          "id": 499380,
+          "name": "S. Britschgi",
+          "position": "Defender",
+          "age": 19,
+          "number": 27
+        },
+        {
+          "id": 348568,
+          "name": "A. Circati",
+          "position": "Defender",
+          "age": 22,
+          "number": 39
+        },
+        {
+          "id": 595810,
+          "name": "Bernardo Conde",
+          "position": "Defender",
+          "age": 19,
+          "number": 70
+        },
+        {
+          "id": 592737,
+          "name": "Roberto D'Intino",
+          "position": "Defender",
+          "age": 19,
+          "number": 72
+        },
+        {
+          "id": 30420,
+          "name": "E. Del Prato",
+          "position": "Defender",
+          "age": 26,
+          "number": 15
+        },
+        {
+          "id": 323369,
+          "name": "M. Løvik",
+          "position": "Defender",
+          "age": 22,
+          "number": 18
+        },
+        {
+          "id": 203483,
+          "name": "A. N&apos;Diaye",
+          "position": "Defender",
+          "age": 23,
+          "number": 3
+        },
+        {
+          "id": 470975,
+          "name": "N. Trabucchi",
+          "position": "Defender",
+          "age": 18,
+          "number": 63
+        },
+        {
+          "id": 428237,
+          "name": "M. Troilo",
+          "position": "Defender",
+          "age": 22,
+          "number": 37
+        },
+        {
+          "id": 6221,
+          "name": "L. Valenti",
+          "position": "Defender",
+          "age": 26,
+          "number": 5
+        },
+        {
+          "id": 91358,
+          "name": "E. Valeri",
+          "position": "Defender",
+          "age": 27,
+          "number": 14
+        },
+        {
+          "id": 48193,
+          "name": "P. Almqvist",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 11
+        },
+        {
+          "id": 628,
+          "name": "Adrián Bernabé",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 10
+        },
+        {
+          "id": 462188,
+          "name": "A. Ciardi",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 19
+        },
+        {
+          "id": 362061,
+          "name": "B. Cremaschi",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 25
+        },
+        {
+          "id": 6409,
+          "name": "N. Estévez",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 8
+        },
+        {
+          "id": 1208,
+          "name": "Hernani",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 23
+        },
+        {
+          "id": 308836,
+          "name": "M. Keita",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 16
+        },
+        {
+          "id": 595817,
+          "name": "Abdou Konate",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 47
+        },
+        {
+          "id": 191979,
+          "name": "J. Ondrejka",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 17
+        },
+        {
+          "id": 362752,
+          "name": "C. Ordoñez",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 24
+        },
+        {
+          "id": 161859,
+          "name": "G. Oristanio",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 21
+        },
+        {
+          "id": 446006,
+          "name": "E. Plicco",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 14
+        },
+        {
+          "id": 161569,
+          "name": "O. Sørensen",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 22
+        },
+        {
+          "id": 595819,
+          "name": "Edoardo Tigani",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 8
+        },
+        {
+          "id": 201466,
+          "name": "T. Begić",
+          "position": "Attacker",
+          "age": 22,
+          "number": 19
+        },
+        {
+          "id": 40592,
+          "name": "A. Benedyczak",
+          "position": "Attacker",
+          "age": 25,
+          "number": 7
+        },
+        {
+          "id": 595822,
+          "name": "Alessandro Cardinali",
+          "position": "Attacker",
+          "age": 19,
+          "number": 11
+        },
+        {
+          "id": 1649,
+          "name": "P. Cutrone",
+          "position": "Attacker",
+          "age": 27,
+          "number": 32
+        },
+        {
+          "id": 31692,
+          "name": "M. Đurić",
+          "position": "Attacker",
+          "age": 35,
+          "number": 30
+        },
+        {
+          "id": 292543,
+          "name": "M. Frigan",
+          "position": "Attacker",
+          "age": 22,
+          "number": 20
+        },
+        {
+          "id": 394882,
+          "name": "D. Mikołajewski",
+          "position": "Attacker",
+          "age": 19,
+          "number": 9
+        },
+        {
+          "id": 292172,
+          "name": "Mateo Pellegrino",
+          "position": "Attacker",
+          "age": 24,
+          "number": 9
+        }
+      ]
+    },
+    "801": {
+      "name": "Pisa",
+      "players": [
+        {
+          "id": 30792,
+          "name": "Nícolas",
+          "position": "Goalkeeper",
+          "age": 37,
+          "number": 12
+        },
+        {
+          "id": 50054,
+          "name": "S. Scuffet",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 22
+        },
+        {
+          "id": 30733,
+          "name": "A. Šemper",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 1
+        },
+        {
+          "id": 374142,
+          "name": "A. Vuković",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 34
+        },
+        {
+          "id": 314,
+          "name": "Raúl Albiol",
+          "position": "Defender",
+          "age": 40,
+          "number": 39
+        },
+        {
+          "id": 302069,
+          "name": "S. Angori",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 3
+        },
+        {
+          "id": 341838,
+          "name": "G. Bonfanti",
+          "position": "Defender",
+          "age": 22,
+          "number": 94
+        },
+        {
+          "id": 30469,
+          "name": "A. Calabresi",
+          "position": "Defender",
+          "age": 29,
+          "number": 33
+        },
+        {
+          "id": 91503,
+          "name": "S. Canestrelli",
+          "position": "Defender",
+          "age": 25,
+          "number": 5
+        },
+        {
+          "id": 31604,
+          "name": "A. Caracciolo",
+          "position": "Defender",
+          "age": 35,
+          "number": 4
+        },
+        {
+          "id": 419603,
+          "name": "F. Coppola",
+          "position": "Defender",
+          "age": 20,
+          "number": 26
+        },
+        {
+          "id": 485960,
+          "name": "D. Denoon",
+          "position": "Defender",
+          "age": 21,
+          "number": 44
+        },
+        {
+          "id": 129790,
+          "name": "Tomás Esteves",
+          "position": "Defender",
+          "age": 23,
+          "number": 19
+        },
+        {
+          "id": 435548,
+          "name": "Mateus Lusuardi",
+          "position": "Defender",
+          "age": 21,
+          "number": 47
+        },
+        {
+          "id": 526688,
+          "name": "Jeremy Kandje Mbambi",
+          "position": "Defender",
+          "age": 17,
+          "number": 76
+        },
+        {
+          "id": 951,
+          "name": "M. Aebischer",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 20
+        },
+        {
+          "id": 408635,
+          "name": "E. Akinsanmiro",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 14
+        },
+        {
+          "id": 592742,
+          "name": "Daniel Battistella",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 41
+        },
+        {
+          "id": 545975,
+          "name": "B. Bettazzi",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 42
+        },
+        {
+          "id": 866,
+          "name": "J. Cuadrado",
+          "position": "Midfielder",
+          "age": 37,
+          "number": 11
+        },
+        {
+          "id": 15723,
+          "name": "M. Højholt",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 8
+        },
+        {
+          "id": 403300,
+          "name": "Lorran",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 99
+        },
+        {
+          "id": 30723,
+          "name": "M. Marin",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 497255,
+          "name": "G. Maucci",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 72
+        },
+        {
+          "id": 36910,
+          "name": "C. Stengs",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 23
+        },
+        {
+          "id": 56293,
+          "name": "I. Touré",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 15
+        },
+        {
+          "id": 20959,
+          "name": "M. Tramoni",
+          "position": "Attacker",
+          "age": 25,
+          "number": 10
+        },
+        {
+          "id": 364600,
+          "name": "İ. Vural",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 21
+        },
+        {
+          "id": 510473,
+          "name": "Louis Buffon",
+          "position": "Attacker",
+          "age": 18,
+          "number": 16
+        },
+        {
+          "id": 30753,
+          "name": "M. Léris",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 7
+        },
+        {
+          "id": 331678,
+          "name": "H. Meister",
+          "position": "Attacker",
+          "age": 22,
+          "number": 9
+        },
+        {
+          "id": 31560,
+          "name": "S. Moreo",
+          "position": "Attacker",
+          "age": 32,
+          "number": 32
+        },
+        {
+          "id": 31318,
+          "name": "M&apos;Bala Nzola",
+          "position": "Attacker",
+          "age": 29,
+          "number": 18
+        },
+        {
+          "id": 325387,
+          "name": "G. Piccinini",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 36
+        },
+        {
+          "id": 475089,
+          "name": "l. Tosi",
+          "position": "Attacker",
+          "age": 17,
+          "number": 46
+        }
+      ]
+    },
+    "867": {
+      "name": "Lecce",
+      "players": [
+        {
+          "id": 628513,
+          "name": "Daniele Bleve",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 95
+        },
+        {
+          "id": 56459,
+          "name": "W. Falcone",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 30
+        },
+        {
+          "id": 495,
+          "name": "C. Früchtl",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 1
+        },
+        {
+          "id": 156619,
+          "name": "J. Samooja",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 32
+        },
+        {
+          "id": 31543,
+          "name": "A. Gallo",
+          "position": "Defender",
+          "age": 25,
+          "number": 25
+        },
+        {
+          "id": 291589,
+          "name": "Kialonda Gaspar",
+          "position": "Defender",
+          "age": 28,
+          "number": 4
+        },
+        {
+          "id": 482309,
+          "name": "Owen Kouassi",
+          "position": "Defender",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 19738,
+          "name": "C. Ndaba",
+          "position": "Defender",
+          "age": 26,
+          "number": 3
+        },
+        {
+          "id": 458543,
+          "name": "M. Pérez",
+          "position": "Defender",
+          "age": 20,
+          "number": 13
+        },
+        {
+          "id": 203219,
+          "name": "J. Siebert",
+          "position": "Defender",
+          "age": 23,
+          "number": 5
+        },
+        {
+          "id": 455316,
+          "name": "Tiago Gabriel",
+          "position": "Defender",
+          "age": 21,
+          "number": 44
+        },
+        {
+          "id": 161702,
+          "name": "Danilo Veiga",
+          "position": "Defender",
+          "age": 23,
+          "number": 17
+        },
+        {
+          "id": 335071,
+          "name": "M. Berisha",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 10
+        },
+        {
+          "id": 1748,
+          "name": "L. Coulibaly",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 29
+        },
+        {
+          "id": 387537,
+          "name": "Olaf Gorter",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 28
+        },
+        {
+          "id": 28744,
+          "name": "Þ. Helgason",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 14
+        },
+        {
+          "id": 197779,
+          "name": "M. Kaba",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 77
+        },
+        {
+          "id": 340179,
+          "name": "N. Kovač ",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 80
+        },
+        {
+          "id": 56560,
+          "name": "Y. Maleh",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 93
+        },
+        {
+          "id": 8643,
+          "name": "K. N’Dri",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 11
+        },
+        {
+          "id": 190958,
+          "name": "B. Pierret",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 75
+        },
+        {
+          "id": 136016,
+          "name": "H. Rafia",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 8
+        },
+        {
+          "id": 15673,
+          "name": "Y. Ramadani",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 20
+        },
+        {
+          "id": 181218,
+          "name": "Álex Sala",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 6
+        },
+        {
+          "id": 118956,
+          "name": "L. Banda",
+          "position": "Attacker",
+          "age": 24,
+          "number": 19
+        },
+        {
+          "id": 436260,
+          "name": "F. Camarda",
+          "position": "Attacker",
+          "age": 17,
+          "number": 22
+        },
+        {
+          "id": 6662,
+          "name": "S. Pierotti",
+          "position": "Attacker",
+          "age": 24,
+          "number": 50
+        },
+        {
+          "id": 31507,
+          "name": "R. Sottil",
+          "position": "Attacker",
+          "age": 26,
+          "number": 23
+        },
+        {
+          "id": 264122,
+          "name": "N. Štulić",
+          "position": "Attacker",
+          "age": 24,
+          "number": 9
+        },
+        {
+          "id": 47182,
+          "name": "Tete Morente",
+          "position": "Attacker",
+          "age": 29,
+          "number": 7
+        }
+      ]
+    },
+    "895": {
+      "name": "Como",
+      "players": [
+        {
+          "id": 8574,
+          "name": "J. Butez",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 1
+        },
+        {
+          "id": 207804,
+          "name": "N. Čavlina",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 44
+        },
+        {
+          "id": 463951,
+          "name": "Henrique Menke",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 12
+        },
+        {
+          "id": 31719,
+          "name": "M. Vigorito",
+          "position": "Goalkeeper",
+          "age": 35,
+          "number": 22
+        },
+        {
+          "id": 21090,
+          "name": "Diego Carlos",
+          "position": "Defender",
+          "age": 32,
+          "number": 34
+        },
+        {
+          "id": 31073,
+          "name": "E. Goldaniga",
+          "position": "Defender",
+          "age": 32,
+          "number": 5
+        },
+        {
+          "id": 26301,
+          "name": "M. Kempf",
+          "position": "Defender",
+          "age": 30,
+          "number": 2
+        },
+        {
+          "id": 288,
+          "name": "Alberto Moreno",
+          "position": "Defender",
+          "age": 33,
+          "number": 18
+        },
+        {
+          "id": 711,
+          "name": "S. Posch",
+          "position": "Defender",
+          "age": 28,
+          "number": 27
+        },
+        {
+          "id": 386305,
+          "name": "Jacobo Ramón Naveros",
+          "position": "Defender",
+          "age": 20,
+          "number": 14
+        },
+        {
+          "id": 14266,
+          "name": "I. Smolčić",
+          "position": "Defender",
+          "age": 25,
+          "number": 28
+        },
+        {
+          "id": 336560,
+          "name": "Álex Valle",
+          "position": "Defender",
+          "age": 21,
+          "number": 3
+        },
+        {
+          "id": 129119,
+          "name": "I. Van der Brempt",
+          "position": "Defender",
+          "age": 23,
+          "number": 77
+        },
+        {
+          "id": 8586,
+          "name": "M. Vojvoda",
+          "position": "Defender",
+          "age": 30,
+          "number": 31
+        },
+        {
+          "id": 470837,
+          "name": "F. Andrealli",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 51
+        },
+        {
+          "id": 295026,
+          "name": "M. Baturina",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 20
+        },
+        {
+          "id": 659,
+          "name": "M. Caqueret",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 6
+        },
+        {
+          "id": 162266,
+          "name": "L. da Cunha",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 33
+        },
+        {
+          "id": 613212,
+          "name": "A. Le Borgne",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 55
+        },
+        {
+          "id": 592736,
+          "name": "Matteo Papaccioli",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 54
+        },
+        {
+          "id": 350037,
+          "name": "N. Paz",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 10
+        },
+        {
+          "id": 288699,
+          "name": "M. Perrone",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 23
+        },
+        {
+          "id": 137,
+          "name": "Sergi Roberto",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 8
+        },
+        {
+          "id": 443162,
+          "name": "Jesús Rodríguez",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 17
+        },
+        {
+          "id": 354533,
+          "name": "J. Addai",
+          "position": "Attacker",
+          "age": 20,
+          "number": 42
+        },
+        {
+          "id": 554467,
+          "name": "Lorenzo Bonsignori Goggi",
+          "position": "Attacker",
+          "age": 18,
+          "number": 57
+        },
+        {
+          "id": 30570,
+          "name": "A. Cerri",
+          "position": "Attacker",
+          "age": 29,
+          "number": 99
+        },
+        {
+          "id": 400948,
+          "name": "Assane Diao",
+          "position": "Attacker",
+          "age": 20,
+          "number": 38
+        },
+        {
+          "id": 26845,
+          "name": "T. Douvikas",
+          "position": "Attacker",
+          "age": 26,
+          "number": 11
+        },
+        {
+          "id": 38753,
+          "name": "N. Kühn",
+          "position": "Attacker",
+          "age": 25,
+          "number": 19
+        },
+        {
+          "id": 59,
+          "name": "Álvaro Morata",
+          "position": "Attacker",
+          "age": 33,
+          "number": 7
+        }
+      ]
+    }
+  }
+}

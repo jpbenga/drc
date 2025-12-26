@@ -1,0 +1,4335 @@
+{
+  "league_id": "203",
+  "season": 2025,
+  "top_scorers": [
+    {
+      "id": 53535,
+      "name": "E. Shomurodov",
+      "team_id": 564,
+      "goals": 12,
+      "position": "Attacker"
+    },
+    {
+      "id": 15812,
+      "name": "P. Onuachu",
+      "team_id": 998,
+      "goals": 11,
+      "position": "Attacker"
+    },
+    {
+      "id": 216,
+      "name": "M. Icardi",
+      "team_id": 645,
+      "goals": 9,
+      "position": "Attacker"
+    },
+    {
+      "id": 12724,
+      "name": "Talisca",
+      "team_id": 611,
+      "goals": 9,
+      "position": "Midfielder"
+    },
+    {
+      "id": 746,
+      "name": "Marco Asensio",
+      "team_id": 611,
+      "goals": 8,
+      "position": "Midfielder"
+    },
+    {
+      "id": 306854,
+      "name": "Felipe Augusto",
+      "team_id": 998,
+      "goals": 8,
+      "position": "Attacker"
+    },
+    {
+      "id": 50246,
+      "name": "U. Nayir",
+      "team_id": 607,
+      "goals": 8,
+      "position": "Attacker"
+    },
+    {
+      "id": 47422,
+      "name": "Y. En-Nesyri",
+      "team_id": 611,
+      "goals": 7,
+      "position": "Attacker"
+    },
+    {
+      "id": 19194,
+      "name": "T. Abraham",
+      "team_id": 549,
+      "goals": 7,
+      "position": "Attacker"
+    },
+    {
+      "id": 3638,
+      "name": "E. Muçi",
+      "team_id": 998,
+      "goals": 7,
+      "position": "Attacker"
+    },
+    {
+      "id": 644,
+      "name": "L. Sané",
+      "team_id": 645,
+      "goals": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 180916,
+      "name": "Juan",
+      "team_id": 994,
+      "goals": 6,
+      "position": "Attacker"
+    },
+    {
+      "id": 2093,
+      "name": "G. Onugkha",
+      "team_id": 1001,
+      "goals": 6,
+      "position": "Attacker"
+    },
+    {
+      "id": 2780,
+      "name": "V. Osimhen",
+      "team_id": 645,
+      "goals": 6,
+      "position": "Attacker"
+    },
+    {
+      "id": 24288,
+      "name": "M. Bayo",
+      "team_id": 3573,
+      "goals": 6,
+      "position": "Attacker"
+    },
+    {
+      "id": 15837,
+      "name": "C. Holse",
+      "team_id": 3603,
+      "goals": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 573,
+      "name": "Rafa",
+      "team_id": 549,
+      "goals": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 57163,
+      "name": "P. Guèye",
+      "team_id": 1004,
+      "goals": 5,
+      "position": "Attacker"
+    },
+    {
+      "id": 50176,
+      "name": "T. Bingöl",
+      "team_id": 7411,
+      "goals": 5,
+      "position": "Defender"
+    },
+    {
+      "id": 291476,
+      "name": "D. Fofana",
+      "team_id": 3589,
+      "goals": 5,
+      "position": "Attacker"
+    }
+  ],
+  "top_assists": [
+    {
+      "id": 63274,
+      "name": "B. Yılmaz",
+      "team_id": 645,
+      "assists": 7,
+      "position": "Attacker"
+    },
+    {
+      "id": 454,
+      "name": "Y. Akgün",
+      "team_id": 645,
+      "assists": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 549,
+      "name": "V. Černý",
+      "team_id": 549,
+      "assists": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 25921,
+      "name": "A. Maxim",
+      "team_id": 3573,
+      "assists": 6,
+      "position": "Midfielder"
+    },
+    {
+      "id": 746,
+      "name": "Marco Asensio",
+      "team_id": 611,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 91424,
+      "name": "D. Camara",
+      "team_id": 3573,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 162102,
+      "name": "G. Gürpüz",
+      "team_id": 997,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 41973,
+      "name": "Miguel Crespo",
+      "team_id": 564,
+      "assists": 5,
+      "position": "Midfielder"
+    },
+    {
+      "id": 194750,
+      "name": "E. Touré",
+      "team_id": 549,
+      "assists": 4,
+      "position": "Attacker"
+    },
+    {
+      "id": 49469,
+      "name": "M. Ben Ouanes",
+      "team_id": 1004,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 195897,
+      "name": "A. Cherni",
+      "team_id": 994,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 41447,
+      "name": "João Mendes",
+      "team_id": 1001,
+      "assists": 4,
+      "position": "Midfielder"
+    },
+    {
+      "id": 53535,
+      "name": "E. Shomurodov",
+      "team_id": 564,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 644,
+      "name": "L. Sané",
+      "team_id": 645,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "id": 11012,
+      "name": "A. Sowe",
+      "team_id": 1007,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 105320,
+      "name": "O. Zubkov",
+      "team_id": 998,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "id": 353394,
+      "name": "Janderson",
+      "team_id": 994,
+      "assists": 3,
+      "position": "Attacker"
+    },
+    {
+      "id": 194880,
+      "name": "A. Ndao",
+      "team_id": 607,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "id": 474591,
+      "name": "C. Inao OulaÃ¯",
+      "team_id": 998,
+      "assists": 3,
+      "position": "Midfielder"
+    },
+    {
+      "id": 20953,
+      "name": "Q. Laçi",
+      "team_id": 1007,
+      "assists": 3,
+      "position": "Midfielder"
+    }
+  ],
+  "squads": {
+    "549": {
+      "name": "Beşiktaş",
+      "players": [
+        {
+          "id": 275090,
+          "name": "E. Bilgin",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 99
+        },
+        {
+          "id": 1971,
+          "name": "E. Destanoğlu",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 30
+        },
+        {
+          "id": 49837,
+          "name": "M. Günok",
+          "position": "Goalkeeper",
+          "age": 36,
+          "number": 1
+        },
+        {
+          "id": 544926,
+          "name": "E. Yasar",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 96
+        },
+        {
+          "id": 394663,
+          "name": "Taylan  Bulut",
+          "position": "Defender",
+          "age": 19,
+          "number": 22
+        },
+        {
+          "id": 1479,
+          "name": "Tiago Djaló",
+          "position": "Defender",
+          "age": 25,
+          "number": 35
+        },
+        {
+          "id": 915,
+          "name": "Gabriel Paulista",
+          "position": "Defender",
+          "age": 35,
+          "number": 3
+        },
+        {
+          "id": 550896,
+          "name": "A. E. Isik",
+          "position": "Defender",
+          "age": 18,
+          "number": 51
+        },
+        {
+          "id": 128793,
+          "name": "D. Jurásek",
+          "position": "Defender",
+          "age": 25,
+          "number": 39
+        },
+        {
+          "id": 50046,
+          "name": "E. Topçu",
+          "position": "Defender",
+          "age": 25,
+          "number": 53
+        },
+        {
+          "id": 25406,
+          "name": "F. Uduokhai",
+          "position": "Defender",
+          "age": 28,
+          "number": 14
+        },
+        {
+          "id": 1987,
+          "name": "R. Yılmaz",
+          "position": "Defender",
+          "age": 24,
+          "number": 33
+        },
+        {
+          "id": 549,
+          "name": "V. Černý",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 18
+        },
+        {
+          "id": 1998,
+          "name": "K. Yılmaz",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 37155,
+          "name": "O. Kökçü",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 10
+        },
+        {
+          "id": 18786,
+          "name": "W. Ndidi",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 4
+        },
+        {
+          "id": 25324,
+          "name": "M. Rashica",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 7
+        },
+        {
+          "id": 529859,
+          "name": "Devrim Sahin",
+          "position": "Attacker",
+          "age": 18,
+          "number": 52
+        },
+        {
+          "id": 550885,
+          "name": "G. Sazdagi",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 25
+        },
+        {
+          "id": 36889,
+          "name": "J. Svensson",
+          "position": "Defender",
+          "age": 32,
+          "number": 2
+        },
+        {
+          "id": 336570,
+          "name": "E. Tıknaz",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 5
+        },
+        {
+          "id": 31058,
+          "name": "S. Uçan",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 8
+        },
+        {
+          "id": 1997,
+          "name": "N. Uysal",
+          "position": "Defender",
+          "age": 34,
+          "number": 20
+        },
+        {
+          "id": 19194,
+          "name": "T. Abraham",
+          "position": "Attacker",
+          "age": 28,
+          "number": 9
+        },
+        {
+          "id": 550895,
+          "name": "T. Demir",
+          "position": "Attacker",
+          "age": 17,
+          "number": 55
+        },
+        {
+          "id": 436179,
+          "name": "M. HekimoÄlu",
+          "position": "Attacker",
+          "age": 18,
+          "number": 91
+        },
+        {
+          "id": 141901,
+          "name": "Jota Silva",
+          "position": "Attacker",
+          "age": 26,
+          "number": 26
+        },
+        {
+          "id": 573,
+          "name": "Rafa",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 27
+        },
+        {
+          "id": 194750,
+          "name": "E. Touré",
+          "position": "Attacker",
+          "age": 24,
+          "number": 19
+        },
+        {
+          "id": 785,
+          "name": "C. Ünder",
+          "position": "Attacker",
+          "age": 28,
+          "number": 11
+        }
+      ]
+    },
+    "564": {
+      "name": "Başakşehir",
+      "players": [
+        {
+          "id": 50104,
+          "name": "D. Alemdar",
+          "position": "Goalkeeper",
+          "age": 23,
+          "number": 80
+        },
+        {
+          "id": 49835,
+          "name": "V. Babacan",
+          "position": "Goalkeeper",
+          "age": 37,
+          "number": 1
+        },
+        {
+          "id": 50218,
+          "name": "M. Şengezer",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 16
+        },
+        {
+          "id": 442158,
+          "name": "Lucas Stancic",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 78
+        },
+        {
+          "id": 20968,
+          "name": "O. Ba",
+          "position": "Defender",
+          "age": 30,
+          "number": 27
+        },
+        {
+          "id": 26275,
+          "name": "O. Bulut",
+          "position": "Defender",
+          "age": 31,
+          "number": 6
+        },
+        {
+          "id": 10160,
+          "name": "Léo Duarte",
+          "position": "Defender",
+          "age": 29,
+          "number": 5
+        },
+        {
+          "id": 161638,
+          "name": "F. Ebosele",
+          "position": "Defender",
+          "age": 23,
+          "number": 36
+        },
+        {
+          "id": 443739,
+          "name": "Hamza Güreler",
+          "position": "Defender",
+          "age": 19,
+          "number": 15
+        },
+        {
+          "id": 20836,
+          "name": "C. Operi",
+          "position": "Defender",
+          "age": 28,
+          "number": 21
+        },
+        {
+          "id": 137223,
+          "name": "J. Opoku",
+          "position": "Defender",
+          "age": 27,
+          "number": 3
+        },
+        {
+          "id": 445457,
+          "name": "Berkay Aslan",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 45
+        },
+        {
+          "id": 207236,
+          "name": "Ö. Beyaz",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 17
+        },
+        {
+          "id": 41973,
+          "name": "Miguel Crespo",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 13
+        },
+        {
+          "id": 62114,
+          "name": "O. Ergün",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 4
+        },
+        {
+          "id": 128968,
+          "name": "U. Güneş",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 20
+        },
+        {
+          "id": 412,
+          "name": "A. Harit",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 25
+        },
+        {
+          "id": 197784,
+          "name": "J. Kałuziński",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 18
+        },
+        {
+          "id": 85205,
+          "name": "O. Kemen",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 8
+        },
+        {
+          "id": 61820,
+          "name": "B. Özdemir",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 2
+        },
+        {
+          "id": 50018,
+          "name": "Ö. Şahiner",
+          "position": "Defender",
+          "age": 33,
+          "number": 42
+        },
+        {
+          "id": 50126,
+          "name": "D. Türüç",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 23
+        },
+        {
+          "id": 14602,
+          "name": "I. Brnić",
+          "position": "Attacker",
+          "age": 24,
+          "number": 77
+        },
+        {
+          "id": 22265,
+          "name": "Nuno da Costa",
+          "position": "Attacker",
+          "age": 34,
+          "number": 10
+        },
+        {
+          "id": 263676,
+          "name": "A. Fayzullaev",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 11
+        },
+        {
+          "id": 1921,
+          "name": "Y. Sarı",
+          "position": "Attacker",
+          "age": 27,
+          "number": 7
+        },
+        {
+          "id": 25362,
+          "name": "D. Selke",
+          "position": "Attacker",
+          "age": 30,
+          "number": 9
+        },
+        {
+          "id": 53535,
+          "name": "E. Shomurodov",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 14
+        },
+        {
+          "id": 68483,
+          "name": "B. Yıldırım",
+          "position": "Attacker",
+          "age": 23,
+          "number": 91
+        }
+      ]
+    },
+    "607": {
+      "name": "Konyaspor",
+      "players": [
+        {
+          "id": 550884,
+          "name": "E. Aydin",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 29
+        },
+        {
+          "id": 402493,
+          "name": "D. Ertaş",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 1
+        },
+        {
+          "id": 194689,
+          "name": "B. Güngördü",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 13
+        },
+        {
+          "id": 37175,
+          "name": "R. Bazoer",
+          "position": "Defender",
+          "age": 29,
+          "number": 20
+        },
+        {
+          "id": 14691,
+          "name": "J. Ćalušić",
+          "position": "Defender",
+          "age": 32,
+          "number": 15
+        },
+        {
+          "id": 61986,
+          "name": "A. Demirbağ",
+          "position": "Defender",
+          "age": 28,
+          "number": 4
+        },
+        {
+          "id": 497528,
+          "name": "M. Eriş",
+          "position": "Defender",
+          "age": 19,
+          "number": 37
+        },
+        {
+          "id": 40472,
+          "name": "Guilherme",
+          "position": "Defender",
+          "age": 35,
+          "number": 12
+        },
+        {
+          "id": 62417,
+          "name": "U. Akyol",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 19
+        },
+        {
+          "id": 47461,
+          "name": "E. Bardhi",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 10
+        },
+        {
+          "id": 94576,
+          "name": "M. Bjørlo",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 42
+        },
+        {
+          "id": 523095,
+          "name": "Ismail Esat Buga",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 30
+        },
+        {
+          "id": 152845,
+          "name": "M. İbrahimoğlu",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 77
+        },
+        {
+          "id": 550876,
+          "name": "M. Ibrahimoglu",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 14
+        },
+        {
+          "id": 50008,
+          "name": "M. Jevtović",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 16
+        },
+        {
+          "id": 364597,
+          "name": "Jo Jin-Ho",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 62023,
+          "name": "Y. Subaşı",
+          "position": "Defender",
+          "age": 29,
+          "number": 3
+        },
+        {
+          "id": 50063,
+          "name": "U. Yazğılı",
+          "position": "Defender",
+          "age": 26,
+          "number": 5
+        },
+        {
+          "id": 413017,
+          "name": "K. Akyazı",
+          "position": "Attacker",
+          "age": 20,
+          "number": 70
+        },
+        {
+          "id": 47512,
+          "name": "Y. Andzouana",
+          "position": "Defender",
+          "age": 29,
+          "number": 23
+        },
+        {
+          "id": 301489,
+          "name": "M. Bostan",
+          "position": "Attacker",
+          "age": 21,
+          "number": 17
+        },
+        {
+          "id": 144656,
+          "name": "J. Muleka",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 40
+        },
+        {
+          "id": 50246,
+          "name": "U. Nayir",
+          "position": "Attacker",
+          "age": 32,
+          "number": 22
+        },
+        {
+          "id": 194880,
+          "name": "A. Ndao",
+          "position": "Attacker",
+          "age": 29,
+          "number": 18
+        },
+        {
+          "id": 550861,
+          "name": "Pedrinho",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 8
+        },
+        {
+          "id": 119278,
+          "name": "M. Ștefănescu",
+          "position": "Attacker",
+          "age": 27,
+          "number": 11
+        },
+        {
+          "id": 161880,
+          "name": "T. Taşçı",
+          "position": "Attacker",
+          "age": 23,
+          "number": 7
+        }
+      ]
+    },
+    "611": {
+      "name": "Fenerbahçe",
+      "players": [
+        {
+          "id": 500088,
+          "name": "E. Biterge",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 39
+        },
+        {
+          "id": 62401,
+          "name": "T. Çetin",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 13
+        },
+        {
+          "id": 617,
+          "name": "Ederson",
+          "position": "Goalkeeper",
+          "age": 32,
+          "number": 31
+        },
+        {
+          "id": 62137,
+          "name": "İ. Eğribayat",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 1
+        },
+        {
+          "id": 161661,
+          "name": "A. Brown",
+          "position": "Defender",
+          "age": 23,
+          "number": 3
+        },
+        {
+          "id": 364594,
+          "name": "Y. Demir",
+          "position": "Defender",
+          "age": 21,
+          "number": 14
+        },
+        {
+          "id": 127609,
+          "name": "L. Mercan",
+          "position": "Defender",
+          "age": 25,
+          "number": 22
+        },
+        {
+          "id": 1719,
+          "name": "M. Müldür",
+          "position": "Defender",
+          "age": 26,
+          "number": 18
+        },
+        {
+          "id": 272721,
+          "name": "J. Oosterwolde",
+          "position": "Defender",
+          "age": 24,
+          "number": 24
+        },
+        {
+          "id": 829,
+          "name": "Rodrigo Becão",
+          "position": "Defender",
+          "age": 29,
+          "number": 50
+        },
+        {
+          "id": 130,
+          "name": "Nélson Semedo",
+          "position": "Defender",
+          "age": 32,
+          "number": 27
+        },
+        {
+          "id": 198,
+          "name": "M. Škriniar",
+          "position": "Defender",
+          "age": 30,
+          "number": 37
+        },
+        {
+          "id": 18776,
+          "name": "Ç. Söyüncü",
+          "position": "Defender",
+          "age": 29,
+          "number": 4
+        },
+        {
+          "id": 625426,
+          "name": "Kamil Efe Üregen",
+          "position": "Defender",
+          "age": 17,
+          "number": 67
+        },
+        {
+          "id": 2869,
+          "name": "E. Álvarez",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 11
+        },
+        {
+          "id": 134590,
+          "name": "O. Aydın",
+          "position": "Attacker",
+          "age": 25,
+          "number": 70
+        },
+        {
+          "id": 162004,
+          "name": "B. Elmaz",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 28
+        },
+        {
+          "id": 417860,
+          "name": "A. Fall",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 60
+        },
+        {
+          "id": 905,
+          "name": "Fred",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 7
+        },
+        {
+          "id": 625427,
+          "name": "Haydar Karataş",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 96
+        },
+        {
+          "id": 302869,
+          "name": "N. Dorgeles",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 45
+        },
+        {
+          "id": 40403,
+          "name": "S. Szymański",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 53
+        },
+        {
+          "id": 12724,
+          "name": "Talisca",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 94
+        },
+        {
+          "id": 50097,
+          "name": "M. Yandaş",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 8
+        },
+        {
+          "id": 214463,
+          "name": "İ. Yüksek",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 5
+        },
+        {
+          "id": 142959,
+          "name": "K. Aktürkoğlu",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 746,
+          "name": "Marco Asensio",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 21
+        },
+        {
+          "id": 13489,
+          "name": "J. Durán",
+          "position": "Attacker",
+          "age": 22,
+          "number": 10
+        },
+        {
+          "id": 47422,
+          "name": "Y. En-Nesyri",
+          "position": "Attacker",
+          "age": 28,
+          "number": 19
+        },
+        {
+          "id": 49857,
+          "name": "İ. Kahveci",
+          "position": "Attacker",
+          "age": 30,
+          "number": 17
+        },
+        {
+          "id": 18768,
+          "name": "C. Tosun",
+          "position": "Attacker",
+          "age": 34,
+          "number": 23
+        }
+      ]
+    },
+    "645": {
+      "name": "Galatasaray",
+      "players": [
+        {
+          "id": 49866,
+          "name": "U. Çakır",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 1
+        },
+        {
+          "id": 61950,
+          "name": "G. Güvenç",
+          "position": "Goalkeeper",
+          "age": 34,
+          "number": 19
+        },
+        {
+          "id": 430,
+          "name": "B. Şen",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 12
+        },
+        {
+          "id": 568439,
+          "name": "A. Yilmaz",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 60
+        },
+        {
+          "id": 25448,
+          "name": "K. Ayhan",
+          "position": "Defender",
+          "age": 31,
+          "number": 23
+        },
+        {
+          "id": 162000,
+          "name": "M. Baltacı",
+          "position": "Defender",
+          "age": 23,
+          "number": 3
+        },
+        {
+          "id": 61837,
+          "name": "A. Bardakcı",
+          "position": "Defender",
+          "age": 31,
+          "number": 42
+        },
+        {
+          "id": 50057,
+          "name": "E. Elmalı",
+          "position": "Defender",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 158121,
+          "name": "I. Jakobs",
+          "position": "Defender",
+          "age": 26,
+          "number": 4
+        },
+        {
+          "id": 568393,
+          "name": "Y. Kahraman",
+          "position": "Defender",
+          "age": 17,
+          "number": 64
+        },
+        {
+          "id": 145057,
+          "name": "K. Karataş",
+          "position": "Defender",
+          "age": 22,
+          "number": 88
+        },
+        {
+          "id": 26252,
+          "name": "R. Sallai",
+          "position": "Defender",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 168,
+          "name": "D. Sánchez",
+          "position": "Defender",
+          "age": 29,
+          "number": 6
+        },
+        {
+          "id": 30504,
+          "name": "W. Singo",
+          "position": "Defender",
+          "age": 25,
+          "number": 90
+        },
+        {
+          "id": 404443,
+          "name": "A. Ünyay",
+          "position": "Defender",
+          "age": 18,
+          "number": 91
+        },
+        {
+          "id": 567984,
+          "name": "C. Akgun",
+          "position": "Midfielder",
+          "age": 16,
+          "number": 71
+        },
+        {
+          "id": 568050,
+          "name": "E. Arac",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 65
+        },
+        {
+          "id": 80552,
+          "name": "Gabriel Sara",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 8
+        },
+        {
+          "id": 633,
+          "name": "İ. Gündoğan",
+          "position": "Midfielder",
+          "age": 35,
+          "number": 20
+        },
+        {
+          "id": 394222,
+          "name": "Gökdeniz Gürpüz",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 33
+        },
+        {
+          "id": 264627,
+          "name": "B. Kutlu",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 18
+        },
+        {
+          "id": 18947,
+          "name": "M. Lemina",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 99
+        },
+        {
+          "id": 1462,
+          "name": "L. Torreira",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 34
+        },
+        {
+          "id": 454,
+          "name": "Y. Akgün",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 11
+        },
+        {
+          "id": 508419,
+          "name": "Ç. Balta",
+          "position": "Attacker",
+          "age": 17,
+          "number": 72
+        },
+        {
+          "id": 131294,
+          "name": "Y. Demir",
+          "position": "Attacker",
+          "age": 22,
+          "number": 30
+        },
+        {
+          "id": 216,
+          "name": "M. Icardi",
+          "position": "Attacker",
+          "age": 32,
+          "number": 9
+        },
+        {
+          "id": 498673,
+          "name": "F. Koçak",
+          "position": "Attacker",
+          "age": 17,
+          "number": 68
+        },
+        {
+          "id": 422,
+          "name": "A. Kutucu",
+          "position": "Attacker",
+          "age": 25,
+          "number": 21
+        },
+        {
+          "id": 2780,
+          "name": "V. Osimhen",
+          "position": "Attacker",
+          "age": 27,
+          "number": 45
+        },
+        {
+          "id": 644,
+          "name": "L. Sané",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 10
+        },
+        {
+          "id": 63274,
+          "name": "B. Yılmaz",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 53
+        }
+      ]
+    },
+    "994": {
+      "name": "Göztepe",
+      "players": [
+        {
+          "id": 585055,
+          "name": "A. Ercan",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 28
+        },
+        {
+          "id": 62167,
+          "name": "E. Kılıçarslan",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 17
+        },
+        {
+          "id": 40165,
+          "name": "M. Lis",
+          "position": "Goalkeeper",
+          "age": 28,
+          "number": 1
+        },
+        {
+          "id": 613179,
+          "name": "Nevzat Üzel",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 21
+        },
+        {
+          "id": 159466,
+          "name": "Allan Godói",
+          "position": "Defender",
+          "age": 32,
+          "number": 3
+        },
+        {
+          "id": 62378,
+          "name": "F. Bayır",
+          "position": "Defender",
+          "age": 25,
+          "number": 23
+        },
+        {
+          "id": 134564,
+          "name": "O. Bayrak",
+          "position": "Defender",
+          "age": 27,
+          "number": 77
+        },
+        {
+          "id": 87633,
+          "name": "M. Bokele",
+          "position": "Defender",
+          "age": 25,
+          "number": 26
+        },
+        {
+          "id": 195897,
+          "name": "A. Cherni",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 15
+        },
+        {
+          "id": 119682,
+          "name": "Héliton",
+          "position": "Defender",
+          "age": 30,
+          "number": 5
+        },
+        {
+          "id": 1346,
+          "name": "İ. Köybaşı",
+          "position": "Defender",
+          "age": 36,
+          "number": 12
+        },
+        {
+          "id": 303493,
+          "name": "N. Dismas",
+          "position": "Defender",
+          "age": 23,
+          "number": 20
+        },
+        {
+          "id": 50929,
+          "name": "Ruan",
+          "position": "Defender",
+          "age": 30,
+          "number": 13
+        },
+        {
+          "id": 437786,
+          "name": "Ege Yildirim",
+          "position": "Defender",
+          "age": 18,
+          "number": 45
+        },
+        {
+          "id": 143827,
+          "name": "U. Yıldız",
+          "position": "Defender",
+          "age": 23,
+          "number": 22
+        },
+        {
+          "id": 301272,
+          "name": "T. Altıkardeş",
+          "position": "Defender",
+          "age": 22,
+          "number": 4
+        },
+        {
+          "id": 26128,
+          "name": "E. Bekiroğlu",
+          "position": "Attacker",
+          "age": 30,
+          "number": 11
+        },
+        {
+          "id": 414142,
+          "name": "A. Dennis",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 30
+        },
+        {
+          "id": 54699,
+          "name": "Rhaldney",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 49913,
+          "name": "A. Ildız",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 8
+        },
+        {
+          "id": 316904,
+          "name": "J. Olaitan",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 10
+        },
+        {
+          "id": 505351,
+          "name": "S. Bouajila",
+          "position": "Attacker",
+          "age": 18,
+          "number": 24
+        },
+        {
+          "id": 505259,
+          "name": "Tibet Durakcay",
+          "position": "Attacker",
+          "age": 19,
+          "number": 33
+        },
+        {
+          "id": 353394,
+          "name": "Janderson",
+          "position": "Attacker",
+          "age": 26,
+          "number": 39
+        },
+        {
+          "id": 180916,
+          "name": "Juan",
+          "position": "Attacker",
+          "age": 23,
+          "number": 9
+        },
+        {
+          "id": 328155,
+          "name": "A. Kurtulan",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 2
+        },
+        {
+          "id": 432841,
+          "name": "Ibrahim Sabra",
+          "position": "Attacker",
+          "age": 19,
+          "number": 7
+        }
+      ]
+    },
+    "996": {
+      "name": "Alanyaspor",
+      "players": [
+        {
+          "id": 339950,
+          "name": "M. Bayram",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 23
+        },
+        {
+          "id": 10476,
+          "name": "Paulo Victor",
+          "position": "Goalkeeper",
+          "age": 38,
+          "number": 48
+        },
+        {
+          "id": 49991,
+          "name": "E. Taşkıran",
+          "position": "Goalkeeper",
+          "age": 36,
+          "number": 1
+        },
+        {
+          "id": 367637,
+          "name": "Ü. Akdağ",
+          "position": "Defender",
+          "age": 22,
+          "number": 50
+        },
+        {
+          "id": 50079,
+          "name": "F. Aksoy",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 20
+        },
+        {
+          "id": 48211,
+          "name": "F. Aliti",
+          "position": "Defender",
+          "age": 32,
+          "number": 5
+        },
+        {
+          "id": 41100,
+          "name": "Bruno Viana",
+          "position": "Defender",
+          "age": 30,
+          "number": 30
+        },
+        {
+          "id": 626357,
+          "name": "Semih Doganay",
+          "position": "Defender",
+          "age": 18,
+          "number": 79
+        },
+        {
+          "id": 19042,
+          "name": "F. Hadërgjonaj",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 94
+        },
+        {
+          "id": 134490,
+          "name": "E. Keskin",
+          "position": "Defender",
+          "age": 24,
+          "number": 8
+        },
+        {
+          "id": 282946,
+          "name": "Nuno Lima",
+          "position": "Defender",
+          "age": 24,
+          "number": 3
+        },
+        {
+          "id": 334137,
+          "name": "B. Moğultay",
+          "position": "Defender",
+          "age": 21,
+          "number": 18
+        },
+        {
+          "id": 550887,
+          "name": "B. Ozyurt",
+          "position": "Defender",
+          "age": 22,
+          "number": 4
+        },
+        {
+          "id": 593487,
+          "name": "Batuhan Yavuz",
+          "position": "Defender",
+          "age": 20,
+          "number": 2
+        },
+        {
+          "id": 282773,
+          "name": "İ. Çelik",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 6
+        },
+        {
+          "id": 43084,
+          "name": "I. Hagi",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 14
+        },
+        {
+          "id": 2211,
+          "name": "N. Janvier",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 17
+        },
+        {
+          "id": 49941,
+          "name": "E. Karaca",
+          "position": "Attacker",
+          "age": 36,
+          "number": 7
+        },
+        {
+          "id": 593488,
+          "name": "Yusuf Karademir",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 38
+        },
+        {
+          "id": 302392,
+          "name": "İ. Kaya",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 27
+        },
+        {
+          "id": 237120,
+          "name": "Maestro",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 58
+        },
+        {
+          "id": 41975,
+          "name": "G. Makouta",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 42
+        },
+        {
+          "id": 629170,
+          "name": "Mehmet Oz",
+          "position": "Defender",
+          "age": 17,
+          "number": 15
+        },
+        {
+          "id": 286825,
+          "name": "Y. Özdemir",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 88
+        },
+        {
+          "id": 3034,
+          "name": "M. Elia",
+          "position": "Attacker",
+          "age": 28,
+          "number": 12
+        },
+        {
+          "id": 2910,
+          "name": "Hwang Ui-Jo",
+          "position": "Attacker",
+          "age": 33,
+          "number": 16
+        },
+        {
+          "id": 3395,
+          "name": "S. Mounié",
+          "position": "Attacker",
+          "age": 31,
+          "number": 9
+        },
+        {
+          "id": 499495,
+          "name": "U. Ogundu",
+          "position": "Attacker",
+          "age": 19,
+          "number": 22
+        },
+        {
+          "id": 384398,
+          "name": "Ruan",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 11
+        },
+        {
+          "id": 619620,
+          "name": "H. Sen",
+          "position": "Attacker",
+          "age": 16,
+          "number": 35
+        },
+        {
+          "id": 2005,
+          "name": "G. Yalçın",
+          "position": "Attacker",
+          "age": 26,
+          "number": 10
+        }
+      ]
+    },
+    "997": {
+      "name": "Genclerbirligi",
+      "players": [
+        {
+          "id": 50020,
+          "name": "G. Akkan",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 1
+        },
+        {
+          "id": 550870,
+          "name": "E. Aydin",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 33
+        },
+        {
+          "id": 627039,
+          "name": "Deniz Cukurcu",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 19
+        },
+        {
+          "id": 61924,
+          "name": "E. Erentürk",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 18
+        },
+        {
+          "id": 41960,
+          "name": "Ricardo Velho",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 24
+        },
+        {
+          "id": 550881,
+          "name": "Y. Aydar",
+          "position": "Defender",
+          "age": 17,
+          "number": 93
+        },
+        {
+          "id": 101413,
+          "name": "A. Dursun",
+          "position": "Defender",
+          "age": 27,
+          "number": 77
+        },
+        {
+          "id": 40547,
+          "name": "D. Goutas",
+          "position": "Defender",
+          "age": 31,
+          "number": 6
+        },
+        {
+          "id": 66011,
+          "name": "M. Hanousek",
+          "position": "Defender",
+          "age": 32,
+          "number": 23
+        },
+        {
+          "id": 432073,
+          "name": "U. IÌslamoÄlu",
+          "position": "Defender",
+          "age": 18,
+          "number": 25
+        },
+        {
+          "id": 61930,
+          "name": "S. Osmanoğlu",
+          "position": "Defender",
+          "age": 35,
+          "number": 90
+        },
+        {
+          "id": 30768,
+          "name": "Pedro Pereira",
+          "position": "Defender",
+          "age": 27,
+          "number": 13
+        },
+        {
+          "id": 9737,
+          "name": "Thalisson Kelven",
+          "position": "Defender",
+          "age": 27,
+          "number": 2
+        },
+        {
+          "id": 61939,
+          "name": "O. Ülgün",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 35
+        },
+        {
+          "id": 579066,
+          "name": "Emirhan Unal",
+          "position": "Defender",
+          "age": 20,
+          "number": 27
+        },
+        {
+          "id": 62196,
+          "name": "F. Üzüm",
+          "position": "Defender",
+          "age": 26,
+          "number": 88
+        },
+        {
+          "id": 105871,
+          "name": "Ž. Žužek",
+          "position": "Defender",
+          "age": 28,
+          "number": 4
+        },
+        {
+          "id": 550883,
+          "name": "M. Akbal",
+          "position": "Midfielder",
+          "age": null,
+          "number": 97
+        },
+        {
+          "id": 127470,
+          "name": "T. Dele-Bashiru",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 15
+        },
+        {
+          "id": 627038,
+          "name": "Hulusi Destici",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 26
+        },
+        {
+          "id": 2774,
+          "name": "O. Etebo",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 5
+        },
+        {
+          "id": 162102,
+          "name": "G. Gürpüz",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 11
+        },
+        {
+          "id": 626932,
+          "name": "Seyfi Kiskanc",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 30
+        },
+        {
+          "id": 297610,
+          "name": "M. Kyabou",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 81
+        },
+        {
+          "id": 138833,
+          "name": "D. Varešanović",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 53
+        },
+        {
+          "id": 41590,
+          "name": "K. Csoboth",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 427020,
+          "name": "Dilhan Demir",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 7571,
+          "name": "S. Koïta",
+          "position": "Attacker",
+          "age": 26,
+          "number": 22
+        },
+        {
+          "id": 107660,
+          "name": "M. Mimaroğlu",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 10
+        },
+        {
+          "id": 2216,
+          "name": "M. Niang",
+          "position": "Attacker",
+          "age": 31,
+          "number": 29
+        },
+        {
+          "id": 202992,
+          "name": "S. Onur",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 8
+        },
+        {
+          "id": 456,
+          "name": "H. Onyekuru",
+          "position": "Attacker",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 161972,
+          "name": "F. Tongya",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 70
+        }
+      ]
+    },
+    "998": {
+      "name": "Trabzonspor",
+      "players": [
+        {
+          "id": 550892,
+          "name": "O. Cevikkan",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 25
+        },
+        {
+          "id": 593479,
+          "name": "Erol Colak",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 96
+        },
+        {
+          "id": 526,
+          "name": "A. Onana",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 24
+        },
+        {
+          "id": 479721,
+          "name": "A. Yıldırım",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 88
+        },
+        {
+          "id": 119182,
+          "name": "R. Baniya",
+          "position": "Defender",
+          "age": 26,
+          "number": 23
+        },
+        {
+          "id": 63627,
+          "name": "A. Batagov",
+          "position": "Defender",
+          "age": 23,
+          "number": 44
+        },
+        {
+          "id": 546523,
+          "name": "A. Bosluk",
+          "position": "Defender",
+          "age": 22,
+          "number": 77
+        },
+        {
+          "id": 496868,
+          "name": "T. İnce",
+          "position": "Defender",
+          "age": 18,
+          "number": 92
+        },
+        {
+          "id": 493965,
+          "name": "A. Ãztürk",
+          "position": "Defender",
+          "age": 18,
+          "number": 21
+        },
+        {
+          "id": 332056,
+          "name": "Wagner Pina",
+          "position": "Defender",
+          "age": 23,
+          "number": 20
+        },
+        {
+          "id": 286839,
+          "name": "S. Saatçı",
+          "position": "Defender",
+          "age": 22,
+          "number": 29
+        },
+        {
+          "id": 39,
+          "name": "S. Savić",
+          "position": "Defender",
+          "age": 34,
+          "number": 15
+        },
+        {
+          "id": 629169,
+          "name": "Turan Tuncer",
+          "position": "Defender",
+          "age": 18,
+          "number": 18
+        },
+        {
+          "id": 493968,
+          "name": "B. BaÅkan",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 80
+        },
+        {
+          "id": 274355,
+          "name": "B. Bouchouari",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 8
+        },
+        {
+          "id": 62323,
+          "name": "M. Eskihellaç",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 19
+        },
+        {
+          "id": 474591,
+          "name": "C. Inao OulaÃ¯",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 42
+        },
+        {
+          "id": 22408,
+          "name": "T. Jabol-Folcarelli",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 26
+        },
+        {
+          "id": 422404,
+          "name": "S. Malkoçoğlu",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 74
+        },
+        {
+          "id": 593483,
+          "name": "Arda Salih",
+          "position": "Midfielder",
+          "age": 19,
+          "number": null
+        },
+        {
+          "id": 49942,
+          "name": "O. Tufan",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 11
+        },
+        {
+          "id": 49860,
+          "name": "E. Višća",
+          "position": "Midfielder",
+          "age": 35,
+          "number": 7
+        },
+        {
+          "id": 47443,
+          "name": "O. Yokuşlu",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 5
+        },
+        {
+          "id": 463101,
+          "name": "O. ÃakıroÄlu",
+          "position": "Attacker",
+          "age": 18,
+          "number": 17
+        },
+        {
+          "id": 319514,
+          "name": "C. Çanak",
+          "position": "Attacker",
+          "age": 20,
+          "number": 61
+        },
+        {
+          "id": 306854,
+          "name": "Felipe Augusto",
+          "position": "Attacker",
+          "age": 21,
+          "number": 99
+        },
+        {
+          "id": 3638,
+          "name": "E. Muçi",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 10
+        },
+        {
+          "id": 49891,
+          "name": "A. Nwakaeme",
+          "position": "Attacker",
+          "age": 36,
+          "number": 9
+        },
+        {
+          "id": 167659,
+          "name": "K. Olaigbe",
+          "position": "Attacker",
+          "age": 22,
+          "number": 70
+        },
+        {
+          "id": 15812,
+          "name": "P. Onuachu",
+          "position": "Attacker",
+          "age": 31,
+          "number": 30
+        },
+        {
+          "id": 107303,
+          "name": "D. Sikan",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 14
+        },
+        {
+          "id": 105320,
+          "name": "O. Zubkov",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 22
+        }
+      ]
+    },
+    "1001": {
+      "name": "Kayserispor",
+      "players": [
+        {
+          "id": 37111,
+          "name": "B. Bayazıt",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 25
+        },
+        {
+          "id": 442410,
+          "name": "Deniz Eren Donmezer",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 27
+        },
+        {
+          "id": 368122,
+          "name": "Ş. Öztürk",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 39
+        },
+        {
+          "id": 134492,
+          "name": "O. Piri",
+          "position": "Goalkeeper",
+          "age": 31,
+          "number": 1
+        },
+        {
+          "id": 22245,
+          "name": "L. Carole",
+          "position": "Defender",
+          "age": 34,
+          "number": 23
+        },
+        {
+          "id": 627031,
+          "name": "Aras Celik",
+          "position": "Defender",
+          "age": 15,
+          "number": 45
+        },
+        {
+          "id": 620048,
+          "name": "K. Cihan",
+          "position": "Defender",
+          "age": 18,
+          "number": 38
+        },
+        {
+          "id": 627029,
+          "name": "Ahmet Comert",
+          "position": "Defender",
+          "age": 17,
+          "number": 44
+        },
+        {
+          "id": 627030,
+          "name": "Ertugrul Demirel",
+          "position": "Defender",
+          "age": 18,
+          "number": 47
+        },
+        {
+          "id": 67,
+          "name": "S. Denswil",
+          "position": "Defender",
+          "age": 32,
+          "number": 4
+        },
+        {
+          "id": 627027,
+          "name": "Enes Gokcek",
+          "position": "Defender",
+          "age": 18,
+          "number": 46
+        },
+        {
+          "id": 2686,
+          "name": "M. Hosseini",
+          "position": "Defender",
+          "age": 29,
+          "number": 5
+        },
+        {
+          "id": 24867,
+          "name": "G. Jung",
+          "position": "Defender",
+          "age": 31,
+          "number": 37
+        },
+        {
+          "id": 313071,
+          "name": "A. Kocaman",
+          "position": "Defender",
+          "age": 22,
+          "number": 54
+        },
+        {
+          "id": 626820,
+          "name": "Tarik Obut Mustafa",
+          "position": "Defender",
+          "age": 18,
+          "number": 35
+        },
+        {
+          "id": 468474,
+          "name": "Batuhan Özgan",
+          "position": "Defender",
+          "age": 18,
+          "number": 35
+        },
+        {
+          "id": 1985,
+          "name": "D. Toköz",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 24
+        },
+        {
+          "id": 64261,
+          "name": "Y. Ackah",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 79
+        },
+        {
+          "id": 578394,
+          "name": "Y. Ait Bennasser",
+          "position": "Defender",
+          "age": 29,
+          "number": 15
+        },
+        {
+          "id": 24962,
+          "name": "L. Bénes",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 8
+        },
+        {
+          "id": 546518,
+          "name": "A. Burak",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 3
+        },
+        {
+          "id": 128904,
+          "name": "Y. Çeltik",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 21
+        },
+        {
+          "id": 62419,
+          "name": "R. Civelek",
+          "position": "Defender",
+          "age": 29,
+          "number": 28
+        },
+        {
+          "id": 626927,
+          "name": "Ataol Karapinar",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 34
+        },
+        {
+          "id": 41447,
+          "name": "João Mendes",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 10
+        },
+        {
+          "id": 182275,
+          "name": "E. Özbek",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 16
+        },
+        {
+          "id": 497535,
+          "name": "N. Özer",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 29
+        },
+        {
+          "id": 180756,
+          "name": "T. Sarıarslan",
+          "position": "Attacker",
+          "age": 21,
+          "number": 99
+        },
+        {
+          "id": 50239,
+          "name": "F. Soyalp",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 33
+        },
+        {
+          "id": 627028,
+          "name": "Muhammet Yasar",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 43
+        },
+        {
+          "id": 53659,
+          "name": "Miguel Cardoso",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 7
+        },
+        {
+          "id": 626928,
+          "name": "Arda Kabukci",
+          "position": "Attacker",
+          "age": 17,
+          "number": 36
+        },
+        {
+          "id": 50221,
+          "name": "B. Kapacak",
+          "position": "Attacker",
+          "age": 26,
+          "number": 17
+        },
+        {
+          "id": 550894,
+          "name": "A. Kaya",
+          "position": "Attacker",
+          "age": 19,
+          "number": 71
+        },
+        {
+          "id": 50125,
+          "name": "N. Korkmaz",
+          "position": "Attacker",
+          "age": 23,
+          "number": 77
+        },
+        {
+          "id": 24860,
+          "name": "Carlos Mané",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 20
+        },
+        {
+          "id": 2093,
+          "name": "G. Onugkha",
+          "position": "Attacker",
+          "age": 29,
+          "number": 9
+        },
+        {
+          "id": 24884,
+          "name": "A. Opoku",
+          "position": "Defender",
+          "age": 26,
+          "number": 30
+        },
+        {
+          "id": 627033,
+          "name": "Gunes Talas",
+          "position": "Attacker",
+          "age": 17,
+          "number": 41
+        },
+        {
+          "id": 68079,
+          "name": "I. Tuci",
+          "position": "Attacker",
+          "age": 25,
+          "number": 22
+        }
+      ]
+    },
+    "1004": {
+      "name": "Kasımpaşa",
+      "players": [
+        {
+          "id": 483136,
+          "name": "E. Albayrak",
+          "position": "Goalkeeper",
+          "age": 18,
+          "number": 61
+        },
+        {
+          "id": 1588,
+          "name": "A. Gianniotis",
+          "position": "Goalkeeper",
+          "age": 33,
+          "number": 1
+        },
+        {
+          "id": 482604,
+          "name": "Sant Kazanci",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 98
+        },
+        {
+          "id": 63222,
+          "name": "A. Yanar",
+          "position": "Goalkeeper",
+          "age": 27,
+          "number": 25
+        },
+        {
+          "id": 393977,
+          "name": "A. Arous",
+          "position": "Defender",
+          "age": 21,
+          "number": 4
+        },
+        {
+          "id": 475602,
+          "name": "Y. Atakaya",
+          "position": "Defender",
+          "age": 21,
+          "number": 55
+        },
+        {
+          "id": 550873,
+          "name": "T. Aydin",
+          "position": "Defender",
+          "age": 19,
+          "number": 29
+        },
+        {
+          "id": 16528,
+          "name": "J. Espinoza",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 14
+        },
+        {
+          "id": 41569,
+          "name": "G. Frimpong",
+          "position": "Defender",
+          "age": 26,
+          "number": 21
+        },
+        {
+          "id": 503940,
+          "name": "Berkay Muratoğlu",
+          "position": "Defender",
+          "age": 17,
+          "number": 47
+        },
+        {
+          "id": 3418,
+          "name": "N. Opoku",
+          "position": "Defender",
+          "age": 28,
+          "number": 20
+        },
+        {
+          "id": 28443,
+          "name": "A. Szalai",
+          "position": "Defender",
+          "age": 27,
+          "number": 41
+        },
+        {
+          "id": 442,
+          "name": "E. Taşdemir",
+          "position": "Defender",
+          "age": 30,
+          "number": 33
+        },
+        {
+          "id": 10563,
+          "name": "Cláudio Winck",
+          "position": "Defender",
+          "age": 31,
+          "number": 2
+        },
+        {
+          "id": 89723,
+          "name": "A. Baldursson",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 16
+        },
+        {
+          "id": 49469,
+          "name": "M. Ben Ouanes",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 12
+        },
+        {
+          "id": 40401,
+          "name": "Cafú",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 8
+        },
+        {
+          "id": 50067,
+          "name": "H. Hajradinović",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 10
+        },
+        {
+          "id": 280495,
+          "name": "A. Müjde",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 5
+        },
+        {
+          "id": 593491,
+          "name": "Yaman Suakar",
+          "position": "Midfielder",
+          "age": 16,
+          "number": 15
+        },
+        {
+          "id": 271460,
+          "name": "C. Üstündag",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 6
+        },
+        {
+          "id": 313761,
+          "name": "O. Yılmaz",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 23
+        },
+        {
+          "id": 36906,
+          "name": "Y. Barası",
+          "position": "Attacker",
+          "age": 22,
+          "number": 9
+        },
+        {
+          "id": 615969,
+          "name": "Bunyamin Cetinkaya",
+          "position": "Attacker",
+          "age": 16,
+          "number": 83
+        },
+        {
+          "id": 50101,
+          "name": "F. Diabaté",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 34
+        },
+        {
+          "id": 439122,
+          "name": "Yasin Eratilla",
+          "position": "Attacker",
+          "age": 21,
+          "number": 72
+        },
+        {
+          "id": 8642,
+          "name": "M. Fall",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 7
+        },
+        {
+          "id": 57163,
+          "name": "P. Guèye",
+          "position": "Attacker",
+          "age": 26,
+          "number": 77
+        },
+        {
+          "id": 50244,
+          "name": "K. Kanatsızkuş",
+          "position": "Attacker",
+          "age": 28,
+          "number": 17
+        },
+        {
+          "id": 461,
+          "name": "A. Kol",
+          "position": "Attacker",
+          "age": 24,
+          "number": 11
+        },
+        {
+          "id": 501958,
+          "name": "Bahtiyar Aras Ozden",
+          "position": "Attacker",
+          "age": 17,
+          "number": 27
+        },
+        {
+          "id": 430449,
+          "name": "Emirhan Yiğit",
+          "position": "Attacker",
+          "age": 19,
+          "number": 42
+        }
+      ]
+    },
+    "1005": {
+      "name": "Antalyaspor",
+      "players": [
+        {
+          "id": 393939,
+          "name": "K. Arıcan",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 96
+        },
+        {
+          "id": 50216,
+          "name": "A. Dadakdeniz",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 16
+        },
+        {
+          "id": 627152,
+          "name": "B. Eroglu",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 29
+        },
+        {
+          "id": 68180,
+          "name": "Julián",
+          "position": "Goalkeeper",
+          "age": 34,
+          "number": 1
+        },
+        {
+          "id": 619704,
+          "name": "S. Kabakusak",
+          "position": "Goalkeeper",
+          "age": 16,
+          "number": 12
+        },
+        {
+          "id": 157911,
+          "name": "A. Yiğiter",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 21
+        },
+        {
+          "id": 466912,
+          "name": "Alp Abay",
+          "position": "Defender",
+          "age": 19,
+          "number": 35
+        },
+        {
+          "id": 201026,
+          "name": "J. Ceesay",
+          "position": "Midfielder",
+          "age": 24,
+          "number": 23
+        },
+        {
+          "id": 1772,
+          "name": "G. Dzhikiya",
+          "position": "Defender",
+          "age": 32,
+          "number": 14
+        },
+        {
+          "id": 6050,
+          "name": "L. Gianetti",
+          "position": "Defender",
+          "age": 32,
+          "number": 30
+        },
+        {
+          "id": 498676,
+          "name": "E. İzmirlı",
+          "position": "Defender",
+          "age": 17,
+          "number": 98
+        },
+        {
+          "id": 550868,
+          "name": "S. Karakoc",
+          "position": "Defender",
+          "age": 22,
+          "number": 2
+        },
+        {
+          "id": 627153,
+          "name": "O. Kuray",
+          "position": "Defender",
+          "age": 19,
+          "number": 28
+        },
+        {
+          "id": 49963,
+          "name": "B. Öztürk",
+          "position": "Defender",
+          "age": 30,
+          "number": 5
+        },
+        {
+          "id": 36921,
+          "name": "K. Paal",
+          "position": "Defender",
+          "age": 28,
+          "number": 3
+        },
+        {
+          "id": 50061,
+          "name": "V. Sarı",
+          "position": "Defender",
+          "age": 37,
+          "number": 89
+        },
+        {
+          "id": 624967,
+          "name": "Bugra Tivsiz Ensar",
+          "position": "Defender",
+          "age": 18,
+          "number": 27
+        },
+        {
+          "id": 49876,
+          "name": "H. Türkmen",
+          "position": "Defender",
+          "age": 27,
+          "number": 4
+        },
+        {
+          "id": 49969,
+          "name": "B. Balcı",
+          "position": "Defender",
+          "age": 25,
+          "number": 7
+        },
+        {
+          "id": 152609,
+          "name": "S. Ballet",
+          "position": "Attacker",
+          "age": 24,
+          "number": 11
+        },
+        {
+          "id": 62915,
+          "name": "S. Dikmen",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 6
+        },
+        {
+          "id": 513286,
+          "name": "Hasan Yakub İlçin",
+          "position": "Midfielder",
+          "age": 16,
+          "number": 20
+        },
+        {
+          "id": 49883,
+          "name": "A. Ömür",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 10
+        },
+        {
+          "id": 627154,
+          "name": "M. Ozkul",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 15
+        },
+        {
+          "id": 546550,
+          "name": "R. Safuri",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 8
+        },
+        {
+          "id": 31241,
+          "name": "D. Šarić",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 88
+        },
+        {
+          "id": 37182,
+          "name": "S. van de Streek",
+          "position": "Attacker",
+          "age": 32,
+          "number": 22
+        },
+        {
+          "id": 593489,
+          "name": "Arda Altun",
+          "position": "Attacker",
+          "age": 18,
+          "number": 81
+        },
+        {
+          "id": 8513,
+          "name": "Y. Boli",
+          "position": "Attacker",
+          "age": 32,
+          "number": 77
+        },
+        {
+          "id": 80434,
+          "name": "T. Čvančara",
+          "position": "Attacker",
+          "age": 25,
+          "number": 9
+        },
+        {
+          "id": 523052,
+          "name": "Ali Demirbilek",
+          "position": "Attacker",
+          "age": 16,
+          "number": 19
+        },
+        {
+          "id": 580242,
+          "name": "B. Gueye",
+          "position": "Attacker",
+          "age": 22,
+          "number": 24
+        },
+        {
+          "id": 550872,
+          "name": "K. Kayaarasi",
+          "position": "Attacker",
+          "age": 19,
+          "number": 90
+        },
+        {
+          "id": 49979,
+          "name": "D. Sinik",
+          "position": "Attacker",
+          "age": 26,
+          "number": 70
+        },
+        {
+          "id": 8946,
+          "name": "N. Storm",
+          "position": "Attacker",
+          "age": 31,
+          "number": 26
+        },
+        {
+          "id": 550871,
+          "name": "B. Topdemir",
+          "position": "Attacker",
+          "age": 18,
+          "number": 33
+        },
+        {
+          "id": 371930,
+          "name": "P. Yıldırım",
+          "position": "Attacker",
+          "age": 20,
+          "number": 99
+        }
+      ]
+    },
+    "1007": {
+      "name": "Rizespor",
+      "players": [
+        {
+          "id": 163042,
+          "name": "E. Canpolat",
+          "position": "Goalkeeper",
+          "age": 24,
+          "number": 1
+        },
+        {
+          "id": 550874,
+          "name": "E. Dogan",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 35
+        },
+        {
+          "id": 64190,
+          "name": "Y. Fofana",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 75
+        },
+        {
+          "id": 629305,
+          "name": "Eren Kilic",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 12
+        },
+        {
+          "id": 613181,
+          "name": "O. Topcu",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 23
+        },
+        {
+          "id": 62490,
+          "name": "S. Akaydin",
+          "position": "Defender",
+          "age": 31,
+          "number": 3
+        },
+        {
+          "id": 531312,
+          "name": "K. Alikulov",
+          "position": "Defender",
+          "age": 26,
+          "number": 2
+        },
+        {
+          "id": 613183,
+          "name": "Y. Ayan",
+          "position": "Defender",
+          "age": 17,
+          "number": 94
+        },
+        {
+          "id": 613182,
+          "name": "E. B. Coban",
+          "position": "Defender",
+          "age": 17,
+          "number": 22
+        },
+        {
+          "id": 15579,
+          "name": "C. Højer",
+          "position": "Defender",
+          "age": 31,
+          "number": 5
+        },
+        {
+          "id": 2335,
+          "name": "A. Mocsi",
+          "position": "Defender",
+          "age": 25,
+          "number": 4
+        },
+        {
+          "id": 20661,
+          "name": "M. Sagnan",
+          "position": "Defender",
+          "age": 26,
+          "number": 27
+        },
+        {
+          "id": 151971,
+          "name": "T. Şahin",
+          "position": "Defender",
+          "age": 25,
+          "number": 37
+        },
+        {
+          "id": 50202,
+          "name": "T. Antalyalı",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 14
+        },
+        {
+          "id": 550864,
+          "name": "M. Buljubasic",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 18
+        },
+        {
+          "id": 550890,
+          "name": "B. Capoglu",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 90
+        },
+        {
+          "id": 20953,
+          "name": "Q. Laçi",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 20
+        },
+        {
+          "id": 151943,
+          "name": "M. Pala",
+          "position": "Defender",
+          "age": 25,
+          "number": 54
+        },
+        {
+          "id": 27039,
+          "name": "G. Papanikolaou",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 284449,
+          "name": "J. Rak-Sakyi",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 19
+        },
+        {
+          "id": 289306,
+          "name": "Loide Augusto",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 50
+        },
+        {
+          "id": 546400,
+          "name": "E. Bulut",
+          "position": "Attacker",
+          "age": 22,
+          "number": 99
+        },
+        {
+          "id": 37440,
+          "name": "H. Dervişoğlu",
+          "position": "Attacker",
+          "age": 26,
+          "number": 11
+        },
+        {
+          "id": 66127,
+          "name": "V. Jurečka",
+          "position": "Attacker",
+          "age": 31,
+          "number": 15
+        },
+        {
+          "id": 43056,
+          "name": "V. Mihăilă",
+          "position": "Attacker",
+          "age": 25,
+          "number": 7
+        },
+        {
+          "id": 180644,
+          "name": "I. Olawoyin",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 10
+        },
+        {
+          "id": 385760,
+          "name": "F. Orak",
+          "position": "Attacker",
+          "age": 24,
+          "number": 70
+        },
+        {
+          "id": 11012,
+          "name": "A. Sowe",
+          "position": "Attacker",
+          "age": 31,
+          "number": 9
+        },
+        {
+          "id": 127164,
+          "name": "A. Zeqiri",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 77
+        }
+      ]
+    },
+    "3573": {
+      "name": "Gazişehir Gaziantep",
+      "players": [
+        {
+          "id": 523098,
+          "name": "Ibrahim Kagan Alkis",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 95
+        },
+        {
+          "id": 627119,
+          "name": "C. Aslan",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 81
+        },
+        {
+          "id": 61949,
+          "name": "B. Bozan",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 71
+        },
+        {
+          "id": 50021,
+          "name": "Z. Görgen",
+          "position": "Goalkeeper",
+          "age": 25,
+          "number": 20
+        },
+        {
+          "id": 1379,
+          "name": "M. Abena",
+          "position": "Defender",
+          "age": 31,
+          "number": 14
+        },
+        {
+          "id": 61987,
+          "name": "S. Güler",
+          "position": "Defender",
+          "age": 31,
+          "number": 17
+        },
+        {
+          "id": 629168,
+          "name": "Ali Isik",
+          "position": "Defender",
+          "age": 18,
+          "number": 84
+        },
+        {
+          "id": 629167,
+          "name": "Samet Kalkan Mehmet",
+          "position": "Defender",
+          "age": 18,
+          "number": 88
+        },
+        {
+          "id": 63284,
+          "name": "A. Kızıldağ",
+          "position": "Defender",
+          "age": 27,
+          "number": 4
+        },
+        {
+          "id": 21008,
+          "name": "S. M&apos;Bakata",
+          "position": "Defender",
+          "age": 27,
+          "number": 22
+        },
+        {
+          "id": 627120,
+          "name": "M. Mujdeci",
+          "position": "Defender",
+          "age": null,
+          "number": 83
+        },
+        {
+          "id": 138915,
+          "name": "R. Nizet",
+          "position": "Defender",
+          "age": 23,
+          "number": 38
+        },
+        {
+          "id": 47078,
+          "name": "Luis Pérez",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 2
+        },
+        {
+          "id": 47304,
+          "name": "Kévin Rodrigues",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 77
+        },
+        {
+          "id": 49964,
+          "name": "N. Sangaré",
+          "position": "Defender",
+          "age": 31,
+          "number": 30
+        },
+        {
+          "id": 61993,
+          "name": "T. Sanuç",
+          "position": "Defender",
+          "age": 26,
+          "number": 23
+        },
+        {
+          "id": 91424,
+          "name": "D. Camara",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 3
+        },
+        {
+          "id": 503890,
+          "name": "Muhammet Taha Güneş",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 93
+        },
+        {
+          "id": 158431,
+          "name": "M. Kabasakal",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 6
+        },
+        {
+          "id": 64304,
+          "name": "K. Kozłowski",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 10
+        },
+        {
+          "id": 25921,
+          "name": "A. Maxim",
+          "position": "Attacker",
+          "age": 35,
+          "number": 44
+        },
+        {
+          "id": 550859,
+          "name": "B. Ndiaye",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 5
+        },
+        {
+          "id": 143295,
+          "name": "O. Özçiçek",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 61
+        },
+        {
+          "id": 43194,
+          "name": "D. Sorescu",
+          "position": "Attacker",
+          "age": 28,
+          "number": 18
+        },
+        {
+          "id": 626984,
+          "name": "M. Akmelek",
+          "position": "Attacker",
+          "age": 16,
+          "number": 85
+        },
+        {
+          "id": 19047,
+          "name": "J. Bacuna",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 24288,
+          "name": "M. Bayo",
+          "position": "Attacker",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 3429,
+          "name": "E. Boateng",
+          "position": "Attacker",
+          "age": 29,
+          "number": 21
+        },
+        {
+          "id": 627121,
+          "name": "M. Bodur",
+          "position": "Attacker",
+          "age": 17,
+          "number": 82
+        },
+        {
+          "id": 322508,
+          "name": "Y. Kabadayı",
+          "position": "Attacker",
+          "age": 21,
+          "number": 32
+        },
+        {
+          "id": 550865,
+          "name": "A. O. Kalin",
+          "position": "Attacker",
+          "age": 17,
+          "number": 26
+        },
+        {
+          "id": 318345,
+          "name": "E. Kulašin",
+          "position": "Attacker",
+          "age": 22,
+          "number": 27
+        },
+        {
+          "id": 550858,
+          "name": "C. Lungoyi",
+          "position": "Attacker",
+          "age": 25,
+          "number": 11
+        },
+        {
+          "id": 550897,
+          "name": "B. Ozcelik",
+          "position": "Attacker",
+          "age": 18,
+          "number": 25
+        }
+      ]
+    },
+    "3588": {
+      "name": "Eyüpspor",
+      "players": [
+        {
+          "id": 62168,
+          "name": "A. Köseer",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 25
+        },
+        {
+          "id": 10298,
+          "name": "Marcos Felipe",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 1
+        },
+        {
+          "id": 327517,
+          "name": "J. Yılmaz",
+          "position": "Goalkeeper",
+          "age": 21,
+          "number": 24
+        },
+        {
+          "id": 626938,
+          "name": "Burak Isik",
+          "position": "Defender",
+          "age": 17,
+          "number": 43
+        },
+        {
+          "id": 133194,
+          "name": "Calegari",
+          "position": "Defender",
+          "age": 23,
+          "number": 2
+        },
+        {
+          "id": 61809,
+          "name": "Luccas Claro",
+          "position": "Defender",
+          "age": 34,
+          "number": 4
+        },
+        {
+          "id": 50223,
+          "name": "U. Meraş",
+          "position": "Defender",
+          "age": 30,
+          "number": 77
+        },
+        {
+          "id": 76867,
+          "name": "N. Mujakić",
+          "position": "Defender",
+          "age": 27,
+          "number": 18
+        },
+        {
+          "id": 292363,
+          "name": "E. Ortakaya",
+          "position": "Defender",
+          "age": 21,
+          "number": 5
+        },
+        {
+          "id": 626939,
+          "name": "Kutlay Satli Berhan",
+          "position": "Defender",
+          "age": 19,
+          "number": 42
+        },
+        {
+          "id": 352779,
+          "name": "T. Ülvan",
+          "position": "Defender",
+          "age": 24,
+          "number": 17
+        },
+        {
+          "id": 443,
+          "name": "E. Akbaba",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 8
+        },
+        {
+          "id": 50174,
+          "name": "H. Akbunar",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 7
+        },
+        {
+          "id": 717,
+          "name": "K. Demirbay",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 10
+        },
+        {
+          "id": 371932,
+          "name": "B. Gezek",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 55
+        },
+        {
+          "id": 626940,
+          "name": "Bedri Kara Omer",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 44
+        },
+        {
+          "id": 50181,
+          "name": "Y. Kayan",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 30
+        },
+        {
+          "id": 301772,
+          "name": "M. Łęgowski",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 20
+        },
+        {
+          "id": 614411,
+          "name": "Christ Sadia",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 93
+        },
+        {
+          "id": 47263,
+          "name": "Samu Sáiz",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 14
+        },
+        {
+          "id": 109987,
+          "name": "S. Sešlar",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 99
+        },
+        {
+          "id": 698,
+          "name": "T. Stepanenko",
+          "position": "Midfielder",
+          "age": 36,
+          "number": 33
+        },
+        {
+          "id": 62285,
+          "name": "T. İlter",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 28
+        },
+        {
+          "id": 49917,
+          "name": "R. Yalçın",
+          "position": "Defender",
+          "age": 31,
+          "number": 6
+        },
+        {
+          "id": 62181,
+          "name": "M. Altunbaş",
+          "position": "Attacker",
+          "age": 22,
+          "number": 26
+        },
+        {
+          "id": 14565,
+          "name": "P. Ampem",
+          "position": "Attacker",
+          "age": 27,
+          "number": 40
+        },
+        {
+          "id": 21447,
+          "name": "U. Bozok",
+          "position": "Attacker",
+          "age": 29,
+          "number": 19
+        },
+        {
+          "id": 43092,
+          "name": "D. Drăguş",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 70
+        },
+        {
+          "id": 50180,
+          "name": "S. Gürler",
+          "position": "Defender",
+          "age": 34,
+          "number": 11
+        },
+        {
+          "id": 50464,
+          "name": "M. Thiam",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 9
+        }
+      ]
+    },
+    "3589": {
+      "name": "Fatih Karagümrük",
+      "players": [
+        {
+          "id": 50133,
+          "name": "F. Bekleviç",
+          "position": "Goalkeeper",
+          "age": 26,
+          "number": 99
+        },
+        {
+          "id": 627099,
+          "name": "B. Evli",
+          "position": "Goalkeeper",
+          "age": 16,
+          "number": 98
+        },
+        {
+          "id": 14382,
+          "name": "I. Grbić",
+          "position": "Goalkeeper",
+          "age": 29,
+          "number": 13
+        },
+        {
+          "id": 550878,
+          "name": "K. Yandal",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 96
+        },
+        {
+          "id": 30918,
+          "name": "J. Balkovec",
+          "position": "Defender",
+          "age": 31,
+          "number": 29
+        },
+        {
+          "id": 61908,
+          "name": "A. Çankaya",
+          "position": "Defender",
+          "age": 27,
+          "number": 6
+        },
+        {
+          "id": 362488,
+          "name": "A. Çınar",
+          "position": "Defender",
+          "age": 22,
+          "number": 94
+        },
+        {
+          "id": 41099,
+          "name": "Ricardo Esgaio",
+          "position": "Defender",
+          "age": 32,
+          "number": 47
+        },
+        {
+          "id": 508369,
+          "name": "Muhammed Kadioglu",
+          "position": "Defender",
+          "age": 18,
+          "number": 32
+        },
+        {
+          "id": 50059,
+          "name": "Ç. Kurukalıp",
+          "position": "Defender",
+          "age": 23,
+          "number": 33
+        },
+        {
+          "id": 627100,
+          "name": "E. Olcay",
+          "position": "Defender",
+          "age": 18,
+          "number": 84
+        },
+        {
+          "id": 1983,
+          "name": "E. Roco",
+          "position": "Defender",
+          "age": 33,
+          "number": 3
+        },
+        {
+          "id": 282633,
+          "name": "T. Akgün",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 16
+        },
+        {
+          "id": 356828,
+          "name": "A. Demirol",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 34
+        },
+        {
+          "id": 480859,
+          "name": "Marius Tresor Doh",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 14
+        },
+        {
+          "id": 551023,
+          "name": "B. Ersoy",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 24
+        },
+        {
+          "id": 328153,
+          "name": "Ö. Gümüş",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 88
+        },
+        {
+          "id": 19451,
+          "name": "D. Johnson",
+          "position": "Midfielder",
+          "age": 33,
+          "number": 11
+        },
+        {
+          "id": 1211,
+          "name": "M. Kranevitter",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 5
+        },
+        {
+          "id": 24885,
+          "name": "B. Özcan",
+          "position": "Attacker",
+          "age": 27,
+          "number": 8
+        },
+        {
+          "id": 550891,
+          "name": "K. Ozmen",
+          "position": "Midfielder",
+          "age": 17,
+          "number": 93
+        },
+        {
+          "id": 311850,
+          "name": "N. Ugrekhelidze",
+          "position": "Midfielder",
+          "age": 22,
+          "number": 27
+        },
+        {
+          "id": 41477,
+          "name": "João Camacho",
+          "position": "Attacker",
+          "age": 31,
+          "number": 37
+        },
+        {
+          "id": 309815,
+          "name": "T. Çukur",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 21
+        },
+        {
+          "id": 291476,
+          "name": "D. Fofana",
+          "position": "Attacker",
+          "age": 23,
+          "number": 19
+        },
+        {
+          "id": 18810,
+          "name": "A. Gray",
+          "position": "Attacker",
+          "age": 34,
+          "number": 91
+        },
+        {
+          "id": 366016,
+          "name": "Baris Kalayci",
+          "position": "Attacker",
+          "age": 20,
+          "number": 72
+        },
+        {
+          "id": 503888,
+          "name": "Tarık Buğra Kalpaklı",
+          "position": "Attacker",
+          "age": 16,
+          "number": 20
+        },
+        {
+          "id": 2865,
+          "name": "S. Larsson",
+          "position": "Attacker",
+          "age": 32,
+          "number": 23
+        },
+        {
+          "id": 109559,
+          "name": "Serginho",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 70
+        },
+        {
+          "id": 122393,
+          "name": "A. Sivri",
+          "position": "Attacker",
+          "age": 26,
+          "number": 17
+        }
+      ]
+    },
+    "3603": {
+      "name": "Samsunspor",
+      "players": [
+        {
+          "id": 50217,
+          "name": "O. Kocuk",
+          "position": "Goalkeeper",
+          "age": 30,
+          "number": 1
+        },
+        {
+          "id": 158155,
+          "name": "A. Posiadała",
+          "position": "Goalkeeper",
+          "age": 22,
+          "number": 12
+        },
+        {
+          "id": 502903,
+          "name": "Efe Berat Töruz",
+          "position": "Goalkeeper",
+          "age": 19,
+          "number": 48
+        },
+        {
+          "id": 525877,
+          "name": "Efe Üstün",
+          "position": "Goalkeeper",
+          "age": 17,
+          "number": 33
+        },
+        {
+          "id": 41172,
+          "name": "T. Borevković",
+          "position": "Defender",
+          "age": 28,
+          "number": 24
+        },
+        {
+          "id": 531345,
+          "name": "B. Cetin",
+          "position": "Defender",
+          "age": 19,
+          "number": 96
+        },
+        {
+          "id": 273762,
+          "name": "Y. Çift",
+          "position": "Defender",
+          "age": 22,
+          "number": 55
+        },
+        {
+          "id": 62681,
+          "name": "S. Gönül",
+          "position": "Defender",
+          "age": 28,
+          "number": 28
+        },
+        {
+          "id": 310029,
+          "name": "J. Mendes",
+          "position": "Defender",
+          "age": 23,
+          "number": 2
+        },
+        {
+          "id": 55949,
+          "name": "Ľ. Šatka",
+          "position": "Defender",
+          "age": 30,
+          "number": 37
+        },
+        {
+          "id": 544503,
+          "name": "L. Tomasson",
+          "position": "Defender",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 24873,
+          "name": "R. van Drongelen",
+          "position": "Defender",
+          "age": 27,
+          "number": 4
+        },
+        {
+          "id": 2139,
+          "name": "Z. Yavru",
+          "position": "Defender",
+          "age": 34,
+          "number": 18
+        },
+        {
+          "id": 528244,
+          "name": "Franck Atoen",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 25
+        },
+        {
+          "id": 550893,
+          "name": "E. Aydin",
+          "position": "Midfielder",
+          "age": 21,
+          "number": 6
+        },
+        {
+          "id": 49848,
+          "name": "S. Aydoğdu",
+          "position": "Midfielder",
+          "age": 34,
+          "number": 8
+        },
+        {
+          "id": 15837,
+          "name": "C. Holse",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 21
+        },
+        {
+          "id": 50091,
+          "name": "E. Kılınç",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 11
+        },
+        {
+          "id": 290046,
+          "name": "A. Makoumbou",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 29
+        },
+        {
+          "id": 1130,
+          "name": "O. Ntcham",
+          "position": "Midfielder",
+          "age": 29,
+          "number": 10
+        },
+        {
+          "id": 130262,
+          "name": "Afonso Sousa",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 77
+        },
+        {
+          "id": 453,
+          "name": "C. Yüksel",
+          "position": "Midfielder",
+          "age": 27,
+          "number": 5
+        },
+        {
+          "id": 529476,
+          "name": "Tahsin Bülbül ",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 16
+        },
+        {
+          "id": 531344,
+          "name": "E. Ceesay",
+          "position": "Attacker",
+          "age": 19,
+          "number": 99
+        },
+        {
+          "id": 113581,
+          "name": "T. Coulibaly",
+          "position": "Attacker",
+          "age": 24,
+          "number": 70
+        },
+        {
+          "id": 531370,
+          "name": "Marius",
+          "position": "Attacker",
+          "age": 27,
+          "number": 9
+        },
+        {
+          "id": 37380,
+          "name": "A. Musaba",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 7
+        },
+        {
+          "id": 14379,
+          "name": "C. Ndiaye",
+          "position": "Attacker",
+          "age": 29,
+          "number": 19
+        },
+        {
+          "id": 611327,
+          "name": "Deniz Şeker",
+          "position": "Attacker",
+          "age": 17,
+          "number": 36
+        },
+        {
+          "id": 329207,
+          "name": "P. Yaldır",
+          "position": "Attacker",
+          "age": 22,
+          "number": 22
+        }
+      ]
+    },
+    "7411": {
+      "name": "Kocaelispor",
+      "players": [
+        {
+          "id": 62042,
+          "name": "G. Değirmenci",
+          "position": "Goalkeeper",
+          "age": 36,
+          "number": 35
+        },
+        {
+          "id": 550863,
+          "name": "A. Jovanovic",
+          "position": "Goalkeeper",
+          "age": 32,
+          "number": 1
+        },
+        {
+          "id": 593493,
+          "name": "Serhat Oztasdelen",
+          "position": "Goalkeeper",
+          "age": 20,
+          "number": 83
+        },
+        {
+          "id": 180763,
+          "name": "B. Balogh",
+          "position": "Defender",
+          "age": 23,
+          "number": 5
+        },
+        {
+          "id": 50176,
+          "name": "T. Bingöl",
+          "position": "Midfielder",
+          "age": 32,
+          "number": 75
+        },
+        {
+          "id": 63034,
+          "name": "M. Cinan",
+          "position": "Defender",
+          "age": 27,
+          "number": 3
+        },
+        {
+          "id": 19828,
+          "name": "A. Dijksteel",
+          "position": "Defender",
+          "age": 29,
+          "number": 2
+        },
+        {
+          "id": 3333,
+          "name": "M. Haïdara",
+          "position": "Defender",
+          "age": 33,
+          "number": 21
+        },
+        {
+          "id": 626936,
+          "name": "Muhammed Kucuk",
+          "position": "Defender",
+          "age": 18,
+          "number": 89
+        },
+        {
+          "id": 61810,
+          "name": "A. Oğuz",
+          "position": "Defender",
+          "age": 32,
+          "number": 22
+        },
+        {
+          "id": 50072,
+          "name": "T. Serbest",
+          "position": "Defender",
+          "age": 31,
+          "number": 15
+        },
+        {
+          "id": 14276,
+          "name": "H. Smolčić",
+          "position": "Defender",
+          "age": 25,
+          "number": 6
+        },
+        {
+          "id": 161672,
+          "name": "O. Syrota",
+          "position": "Defender",
+          "age": 25,
+          "number": 34
+        },
+        {
+          "id": 40392,
+          "name": "M. Wieteska",
+          "position": "Defender",
+          "age": 28,
+          "number": 4
+        },
+        {
+          "id": 550879,
+          "name": "E. Bilim",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 27
+        },
+        {
+          "id": 550888,
+          "name": "B. Dalkilic",
+          "position": "Midfielder",
+          "age": 19,
+          "number": 30
+        },
+        {
+          "id": 286660,
+          "name": "H. Keïta",
+          "position": "Midfielder",
+          "age": 23,
+          "number": 8
+        },
+        {
+          "id": 3009,
+          "name": "K. Linetty",
+          "position": "Midfielder",
+          "age": 30,
+          "number": 10
+        },
+        {
+          "id": 626937,
+          "name": "Esat Narin",
+          "position": "Midfielder",
+          "age": 18,
+          "number": 94
+        },
+        {
+          "id": 340078,
+          "name": "J. Nonge Boende",
+          "position": "Midfielder",
+          "age": 20,
+          "number": 98
+        },
+        {
+          "id": 31280,
+          "name": "R. Rivas",
+          "position": "Attacker",
+          "age": 27,
+          "number": 99
+        },
+        {
+          "id": 3314,
+          "name": "Show",
+          "position": "Midfielder",
+          "age": 26,
+          "number": 14
+        },
+        {
+          "id": 550862,
+          "name": "S. Yalcin",
+          "position": "Midfielder",
+          "age": 31,
+          "number": 23
+        },
+        {
+          "id": 87791,
+          "name": "D. Agyei",
+          "position": "Midfielder",
+          "age": 28,
+          "number": 7
+        },
+        {
+          "id": 105789,
+          "name": "D. Churlinov",
+          "position": "Midfielder",
+          "age": 25,
+          "number": 17
+        },
+        {
+          "id": 25053,
+          "name": "S. Dursun",
+          "position": "Attacker",
+          "age": 34,
+          "number": 19
+        },
+        {
+          "id": 296652,
+          "name": "F. Gedik",
+          "position": "Attacker",
+          "age": 23,
+          "number": 18
+        },
+        {
+          "id": 128955,
+          "name": "C. Keles",
+          "position": "Attacker",
+          "age": 24,
+          "number": 70
+        },
+        {
+          "id": 1331,
+          "name": "B. Petković",
+          "position": "Attacker",
+          "age": 31,
+          "number": 9
+        },
+        {
+          "id": 177914,
+          "name": "A. Sağat",
+          "position": "Attacker",
+          "age": 29,
+          "number": 11
+        }
+      ]
+    }
+  }
+}

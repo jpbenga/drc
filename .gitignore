@@ -1,1 +1,120 @@
+# ============================================================================
+# .gitignore pour DRC - Deep Research Classifier
+# ============================================================================
+
+# ===== Node.js =====
 node_modules/
+package-lock.json
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# ===== IDEs =====
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# ===== Logs =====
+logs/*.log
+*.log
+
+# ===== Data - Dépend de votre stratégie de versioning =====
+
+# Sauvegardes (jamais commiter)
+data/backups/*
+!data/backups/.gitkeep
+
+# Résultats de backtest (optionnel - peuvent être gros)
+data/results/*.json
+!data/results/.gitkeep
+
+# Historiques de matchs (gros fichiers - à décider)
+# Commentez ces lignes si vous voulez versionner les historiques
+data/history/history_*.json
+!data/history/.gitkeep
+
+# Meta-données (petits fichiers - OK à versionner)
+# data/meta/*.json
+
+# ELO (moyens fichiers - à décider)
+# data/elo/*.json
+
+# Paramètres optimisés (OK à versionner)
+# data/params/*.json
+
+# ===== Secrets & Config =====
+.env
+.env.local
+.env.*.local
+config/secrets.json
+config/api_keys.json
+**/api_key.txt
+
+# ===== Temp & Cache =====
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== OS Generated =====
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ===== Compression =====
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===== Archives des anciens projets =====
+archive/drc-nba/
+archive/prototype/
+
+# ===== Optuna =====
+optuna_study.db
+
+# ===== Jupyter Notebooks (si vous en utilisez) =====
+.ipynb_checkpoints/
+*.ipynb
+
+# ===== Divers =====
+TODO.md
+NOTES.md
+*.bak
+*.old

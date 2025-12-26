@@ -1,0 +1,40 @@
+#!/bin/bash
+
+# ============================================================================
+# CRÉATION DES FICHIERS .gitkeep
+# Pour maintenir la structure des dossiers vides dans Git
+# ============================================================================
+
+echo "🔧 Création des fichiers .gitkeep..."
+
+# Liste des dossiers qui doivent rester dans Git même s'ils sont vides
+dirs=(
+    "data/backups"
+    "data/results"
+    "data/history"
+    "data/meta"
+    "data/elo"
+    "data/params"
+    "logs"
+    "scripts/enrichment"
+    "scripts/backtest"
+    "scripts/optimization"
+    "scripts/utils"
+)
+
+for dir in "${dirs[@]}"; do
+    # Créer le dossier s'il n'existe pas
+    mkdir -p "$dir"
+    
+    # Créer le fichier .gitkeep
+    touch "$dir/.gitkeep"
+    
+    echo "  ✓ $dir/.gitkeep"
+done
+
+echo ""
+echo "✅ Tous les fichiers .gitkeep ont été créés"
+echo ""
+echo "Vous pouvez maintenant faire :"
+echo "  git add ."
+echo "  git commit -m 'Structure du projet organisée'"

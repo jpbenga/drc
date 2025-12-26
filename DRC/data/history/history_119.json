@@ -1,0 +1,7562 @@
+[
+  {
+    "fixture": {
+      "id": 1379349,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-18T17:00:00+00:00",
+      "timestamp": 1752858000,
+      "periods": {
+        "first": 1752858000,
+        "second": 1752861600
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379351,
+      "referee": "Simon Duerland Rasmussen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-20T12:00:00+00:00",
+      "timestamp": 1753012800,
+      "periods": {
+        "first": 1753012800,
+        "second": 1753016400
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": null
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379350,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-20T12:00:00+00:00",
+      "timestamp": 1753012800,
+      "periods": {
+        "first": 1753012800,
+        "second": 1753016400
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379352,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-20T14:00:00+00:00",
+      "timestamp": 1753020000,
+      "periods": {
+        "first": 1753020000,
+        "second": 1753023600
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": null
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379353,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-20T16:00:00+00:00",
+      "timestamp": 1753027200,
+      "periods": {
+        "first": 1753027200,
+        "second": 1753030800
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379354,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-20T18:00:00+00:00",
+      "timestamp": 1753034400,
+      "periods": {
+        "first": 1753034400,
+        "second": 1753038000
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 1",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379355,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-25T17:00:00+00:00",
+      "timestamp": 1753462800,
+      "periods": {
+        "first": 1753462800,
+        "second": 1753466400
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": false
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379356,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-26T16:00:00+00:00",
+      "timestamp": 1753545600,
+      "periods": {
+        "first": 1753545600,
+        "second": 1753549200
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379357,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-27T12:00:00+00:00",
+      "timestamp": 1753617600,
+      "periods": {
+        "first": 1753617600,
+        "second": 1753621200
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379358,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-27T14:00:00+00:00",
+      "timestamp": 1753624800,
+      "periods": {
+        "first": 1753624800,
+        "second": 1753628400
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379359,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-27T16:00:00+00:00",
+      "timestamp": 1753632000,
+      "periods": {
+        "first": 1753632000,
+        "second": 1753635600
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379360,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-07-28T17:00:00+00:00",
+      "timestamp": 1753722000,
+      "periods": {
+        "first": 1753722000,
+        "second": 1753725600
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 2",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379361,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-01T16:00:00+00:00",
+      "timestamp": 1754064000,
+      "periods": {
+        "first": 1754064000,
+        "second": 1754067600
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379362,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-01T18:00:00+00:00",
+      "timestamp": 1754071200,
+      "periods": {
+        "first": 1754071200,
+        "second": 1754074800
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": true
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379364,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-03T12:00:00+00:00",
+      "timestamp": 1754222400,
+      "periods": {
+        "first": 1754222400,
+        "second": 1754226000
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379363,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-03T12:00:00+00:00",
+      "timestamp": 1754222400,
+      "periods": {
+        "first": 1754222400,
+        "second": 1754226000
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379365,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-03T14:00:00+00:00",
+      "timestamp": 1754229600,
+      "periods": {
+        "first": 1754229600,
+        "second": 1754233200
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": null
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379366,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-03T16:00:00+00:00",
+      "timestamp": 1754236800,
+      "periods": {
+        "first": 1754236800,
+        "second": 1754240400
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 3",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379367,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-08T16:00:00+00:00",
+      "timestamp": 1754668800,
+      "periods": {
+        "first": 1754668800,
+        "second": 1754672400
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 15
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379368,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-08T18:00:00+00:00",
+      "timestamp": 1754676000,
+      "periods": {
+        "first": 1754676000,
+        "second": 1754679600
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379369,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-10T12:00:00+00:00",
+      "timestamp": 1754827200,
+      "periods": {
+        "first": 1754827200,
+        "second": 1754830800
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379370,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-10T14:00:00+00:00",
+      "timestamp": 1754834400,
+      "periods": {
+        "first": 1754834400,
+        "second": 1754838000
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379371,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-10T16:00:00+00:00",
+      "timestamp": 1754841600,
+      "periods": {
+        "first": 1754841600,
+        "second": 1754845200
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379372,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-11T17:00:00+00:00",
+      "timestamp": 1754931600,
+      "periods": {
+        "first": 1754931600,
+        "second": 1754935200
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 4",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379373,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-15T16:00:00+00:00",
+      "timestamp": 1755273600,
+      "periods": {
+        "first": 1755273600,
+        "second": 1755277200
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379374,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-15T18:00:00+00:00",
+      "timestamp": 1755280800,
+      "periods": {
+        "first": 1755280800,
+        "second": 1755284400
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": true
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379375,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-17T12:00:00+00:00",
+      "timestamp": 1755432000,
+      "periods": {
+        "first": 1755432000,
+        "second": 1755435600
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379376,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-17T14:00:00+00:00",
+      "timestamp": 1755439200,
+      "periods": {
+        "first": 1755439200,
+        "second": 1755442800
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379377,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-17T16:00:00+00:00",
+      "timestamp": 1755446400,
+      "periods": {
+        "first": 1755446400,
+        "second": 1755450000
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379378,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-18T17:00:00+00:00",
+      "timestamp": 1755536400,
+      "periods": {
+        "first": 1755536400,
+        "second": 1755540000
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 5",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379379,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-23T16:00:00+00:00",
+      "timestamp": 1755964800,
+      "periods": {
+        "first": 1755964800,
+        "second": 1755968400
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": null
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379381,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-24T12:00:00+00:00",
+      "timestamp": 1756036800,
+      "periods": {
+        "first": 1756036800,
+        "second": 1756040400
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379380,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-24T12:00:00+00:00",
+      "timestamp": 1756036800,
+      "periods": {
+        "first": 1756036800,
+        "second": 1756040400
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": true
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379382,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-24T14:00:00+00:00",
+      "timestamp": 1756044000,
+      "periods": {
+        "first": 1756044000,
+        "second": 1756047600
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379383,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-24T16:00:00+00:00",
+      "timestamp": 1756051200,
+      "periods": {
+        "first": 1756051200,
+        "second": 1756054800
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379384,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-25T17:00:00+00:00",
+      "timestamp": 1756141200,
+      "periods": {
+        "first": 1756141200,
+        "second": 1756144800
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 6",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379385,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-29T17:00:00+00:00",
+      "timestamp": 1756486800,
+      "periods": {
+        "first": 1756486800,
+        "second": 1756490400
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379386,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-31T12:00:00+00:00",
+      "timestamp": 1756641600,
+      "periods": {
+        "first": 1756641600,
+        "second": 1756645200
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 4,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 4,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379387,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-31T12:00:00+00:00",
+      "timestamp": 1756641600,
+      "periods": {
+        "first": 1756641600,
+        "second": 1756645200
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379388,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-31T14:00:00+00:00",
+      "timestamp": 1756648800,
+      "periods": {
+        "first": 1756648800,
+        "second": 1756652400
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379389,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-31T16:00:00+00:00",
+      "timestamp": 1756656000,
+      "periods": {
+        "first": 1756656000,
+        "second": 1756659600
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 5
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 5
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379390,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-08-31T18:00:00+00:00",
+      "timestamp": 1756663200,
+      "periods": {
+        "first": 1756663200,
+        "second": 1756666800
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 7",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379395,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-12T17:00:00+00:00",
+      "timestamp": 1757696400,
+      "periods": {
+        "first": 1757696400,
+        "second": 1757700000
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": false
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379391,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-13T13:00:00+00:00",
+      "timestamp": 1757768400,
+      "periods": {
+        "first": 1757768400,
+        "second": 1757772000
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379396,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-14T12:00:00+00:00",
+      "timestamp": 1757851200,
+      "periods": {
+        "first": 1757851200,
+        "second": 1757854800
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379393,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-14T14:00:00+00:00",
+      "timestamp": 1757858400,
+      "periods": {
+        "first": 1757858400,
+        "second": 1757862000
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379394,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-14T16:00:00+00:00",
+      "timestamp": 1757865600,
+      "periods": {
+        "first": 1757865600,
+        "second": 1757869200
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": true
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379392,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-15T17:00:00+00:00",
+      "timestamp": 1757955600,
+      "periods": {
+        "first": 1757955600,
+        "second": 1757959200
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 8",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": null
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379400,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-19T17:00:00+00:00",
+      "timestamp": 1758301200,
+      "periods": {
+        "first": 1758301200,
+        "second": 1758304800
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379399,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-20T16:00:00+00:00",
+      "timestamp": 1758384000,
+      "periods": {
+        "first": 1758384000,
+        "second": 1758387600
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379402,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-21T12:00:00+00:00",
+      "timestamp": 1758456000,
+      "periods": {
+        "first": 1758456000,
+        "second": 1758459600
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": null
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379398,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-21T14:00:00+00:00",
+      "timestamp": 1758463200,
+      "periods": {
+        "first": 1758463200,
+        "second": 1758466800
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379397,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-21T16:00:00+00:00",
+      "timestamp": 1758470400,
+      "periods": {
+        "first": 1758470400,
+        "second": 1758474000
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379401,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-22T17:00:00+00:00",
+      "timestamp": 1758560400,
+      "periods": {
+        "first": 1758560400,
+        "second": 1758564000
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 9",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379407,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-27T16:00:00+00:00",
+      "timestamp": 1758988800,
+      "periods": {
+        "first": 1758988800,
+        "second": 1758992400
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": false
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379408,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-28T12:00:00+00:00",
+      "timestamp": 1759060800,
+      "periods": {
+        "first": 1759060800,
+        "second": 1759064400
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379406,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-28T14:00:00+00:00",
+      "timestamp": 1759068000,
+      "periods": {
+        "first": 1759068000,
+        "second": 1759071600
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": null
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379405,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-28T16:00:00+00:00",
+      "timestamp": 1759075200,
+      "periods": {
+        "first": 1759075200,
+        "second": 1759078800
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379403,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-28T18:00:00+00:00",
+      "timestamp": 1759082400,
+      "periods": {
+        "first": 1759082400,
+        "second": 1759086000
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379404,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-09-29T17:00:00+00:00",
+      "timestamp": 1759165200,
+      "periods": {
+        "first": 1759165200,
+        "second": 1759168800
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 10",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379412,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-03T17:00:00+00:00",
+      "timestamp": 1759510800,
+      "periods": {
+        "first": 1759510800,
+        "second": 1759514400
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": null
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379414,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-05T12:00:00+00:00",
+      "timestamp": 1759665600,
+      "periods": {
+        "first": 1759665600,
+        "second": 1759669200
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379413,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-05T12:00:00+00:00",
+      "timestamp": 1759665600,
+      "periods": {
+        "first": 1759665600,
+        "second": 1759669200
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379409,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-05T14:00:00+00:00",
+      "timestamp": 1759672800,
+      "periods": {
+        "first": 1759672800,
+        "second": 1759676400
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379410,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-05T16:00:00+00:00",
+      "timestamp": 1759680000,
+      "periods": {
+        "first": 1759680000,
+        "second": 1759683600
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": null
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379411,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-05T18:00:00+00:00",
+      "timestamp": 1759687200,
+      "periods": {
+        "first": 1759687200,
+        "second": 1759690800
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379418,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-17T17:00:00+00:00",
+      "timestamp": 1760720400,
+      "periods": {
+        "first": 1760720400,
+        "second": 1760724000
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": true
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379417,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-19T12:00:00+00:00",
+      "timestamp": 1760875200,
+      "periods": {
+        "first": 1760875200,
+        "second": 1760878800
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379420,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-19T12:00:00+00:00",
+      "timestamp": 1760875200,
+      "periods": {
+        "first": 1760875200,
+        "second": 1760878800
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": false
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379415,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-19T14:00:00+00:00",
+      "timestamp": 1760882400,
+      "periods": {
+        "first": 1760882400,
+        "second": 1760886000
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": null
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379416,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-19T16:00:00+00:00",
+      "timestamp": 1760889600,
+      "periods": {
+        "first": 1760889600,
+        "second": 1760893200
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379419,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-20T17:00:00+00:00",
+      "timestamp": 1760979600,
+      "periods": {
+        "first": 1760979600,
+        "second": 1760983200
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379421,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-24T17:00:00+00:00",
+      "timestamp": 1761325200,
+      "periods": {
+        "first": 1761325200,
+        "second": 1761328800
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379426,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-26T13:00:00+00:00",
+      "timestamp": 1761483600,
+      "periods": {
+        "first": 1761483600,
+        "second": 1761487200
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379423,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-26T13:00:00+00:00",
+      "timestamp": 1761483600,
+      "periods": {
+        "first": 1761483600,
+        "second": 1761487200
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379425,
+      "referee": "Simon Duerland Rasmussen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-26T15:00:00+00:00",
+      "timestamp": 1761490800,
+      "periods": {
+        "first": 1761490800,
+        "second": 1761494400
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": null
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379422,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-26T17:00:00+00:00",
+      "timestamp": 1761498000,
+      "periods": {
+        "first": 1761498000,
+        "second": 1761501600
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379424,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-10-27T18:00:00+00:00",
+      "timestamp": 1761588000,
+      "periods": {
+        "first": 1761588000,
+        "second": 1761591600
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 13",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": false
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379427,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-01T17:00:00+00:00",
+      "timestamp": 1762016400,
+      "periods": {
+        "first": 1762016400,
+        "second": 1762020000
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379432,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-02T13:00:00+00:00",
+      "timestamp": 1762088400,
+      "periods": {
+        "first": 1762088400,
+        "second": 1762092000
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379431,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-02T15:00:00+00:00",
+      "timestamp": 1762095600,
+      "periods": {
+        "first": 1762095600,
+        "second": 1762099200
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379429,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-02T17:00:00+00:00",
+      "timestamp": 1762102800,
+      "periods": {
+        "first": 1762102800,
+        "second": 1762106400
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379430,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-02T19:00:00+00:00",
+      "timestamp": 1762110000,
+      "periods": {
+        "first": 1762110000,
+        "second": 1762113600
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379428,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-03T18:00:00+00:00",
+      "timestamp": 1762192800,
+      "periods": {
+        "first": 1762192800,
+        "second": 1762196400
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 14",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379436,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-07T18:00:00+00:00",
+      "timestamp": 1762538400,
+      "periods": {
+        "first": 1762538400,
+        "second": 1762542000
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379438,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-09T13:00:00+00:00",
+      "timestamp": 1762693200,
+      "periods": {
+        "first": 1762693200,
+        "second": 1762696800
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": true
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379435,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-09T13:00:00+00:00",
+      "timestamp": 1762693200,
+      "periods": {
+        "first": 1762693200,
+        "second": 1762696800
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379437,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-09T15:00:00+00:00",
+      "timestamp": 1762700400,
+      "periods": {
+        "first": 1762700400,
+        "second": 1762704000
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379433,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-09T17:00:00+00:00",
+      "timestamp": 1762707600,
+      "periods": {
+        "first": 1762707600,
+        "second": 1762711200
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": null
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": false
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379434,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-09T19:00:00+00:00",
+      "timestamp": 1762714800,
+      "periods": {
+        "first": 1762714800,
+        "second": 1762718400
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 15",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379442,
+      "referee": "Jacob A. Sundberg, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-21T18:00:00+00:00",
+      "timestamp": 1763748000,
+      "periods": {
+        "first": 1763748000,
+        "second": 1763751600
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379439,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-23T11:00:00+00:00",
+      "timestamp": 1763895600,
+      "periods": {
+        "first": 1763895600,
+        "second": 1763899200
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": true
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379444,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-23T13:00:00+00:00",
+      "timestamp": 1763902800,
+      "periods": {
+        "first": 1763902800,
+        "second": 1763906400
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379440,
+      "referee": "Morten Krogh, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-23T15:00:00+00:00",
+      "timestamp": 1763910000,
+      "periods": {
+        "first": 1763910000,
+        "second": 1763913600
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379443,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-23T17:00:00+00:00",
+      "timestamp": 1763917200,
+      "periods": {
+        "first": 1763917200,
+        "second": 1763920800
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379441,
+      "referee": "Sandi Putros, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-24T18:00:00+00:00",
+      "timestamp": 1764007200,
+      "periods": {
+        "first": 1764007200,
+        "second": 1764010800
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 16",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": null
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379450,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-28T18:00:00+00:00",
+      "timestamp": 1764352800,
+      "periods": {
+        "first": 1764352800,
+        "second": 1764356400
+      },
+      "venue": {
+        "id": 460,
+        "name": "Haderslev Football Stadium",
+        "city": "Haderslev"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379445,
+      "referee": "Mads Kristoffer Kristoffersen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-30T13:00:00+00:00",
+      "timestamp": 1764507600,
+      "periods": {
+        "first": 1764507600,
+        "second": 1764511200
+      },
+      "venue": {
+        "id": 22125,
+        "name": "New Vejlby Stadium",
+        "city": "Aarhus"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      },
+      "away": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379449,
+      "referee": "Frederik Svendsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-30T13:00:00+00:00",
+      "timestamp": 1764507600,
+      "periods": {
+        "first": 1764507600,
+        "second": 1764511200
+      },
+      "venue": {
+        "id": 459,
+        "name": "Jysk Park",
+        "city": "Silkeborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": null
+      },
+      "away": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379447,
+      "referee": "Lasse Laebel Graagaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-30T15:00:00+00:00",
+      "timestamp": 1764514800,
+      "periods": {
+        "first": 1764514800,
+        "second": 1764518400
+      },
+      "venue": {
+        "id": 453,
+        "name": "MCH Arena",
+        "city": "Herning"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": true
+      },
+      "away": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 6,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 6,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379448,
+      "referee": "Jakob Kehlet, Denmark",
+      "timezone": "UTC",
+      "date": "2025-11-30T17:00:00+00:00",
+      "timestamp": 1764522000,
+      "periods": {
+        "first": 1764522000,
+        "second": 1764525600
+      },
+      "venue": {
+        "id": 456,
+        "name": "Nature Energy Park",
+        "city": "Odense"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      },
+      "away": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379446,
+      "referee": "Jonas Hansen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-01T18:00:00+00:00",
+      "timestamp": 1764612000,
+      "periods": {
+        "first": 1764612000,
+        "second": 1764615600
+      },
+      "venue": {
+        "id": 443,
+        "name": "Brøndby Stadion",
+        "city": "Brondby"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 17",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379452,
+      "referee": "Jens Maae, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-05T18:00:00+00:00",
+      "timestamp": 1764957600,
+      "periods": {
+        "first": 1764957600,
+        "second": 1764961200
+      },
+      "venue": {
+        "id": 446,
+        "name": "Monjasa Park",
+        "city": "Fredericia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2061,
+        "name": "FC Fredericia",
+        "logo": "https://media.api-sports.io/football/teams/2061.png",
+        "winner": false
+      },
+      "away": {
+        "id": 405,
+        "name": "Odense",
+        "logo": "https://media.api-sports.io/football/teams/405.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379453,
+      "referee": "Svend Funder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-07T13:00:00+00:00",
+      "timestamp": 1765112400,
+      "periods": {
+        "first": 1765112400,
+        "second": 1765116000
+      },
+      "venue": {
+        "id": 454,
+        "name": "Right to Dream Park",
+        "city": "Farum"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 398,
+        "name": "FC Nordsjaelland",
+        "logo": "https://media.api-sports.io/football/teams/398.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2073,
+        "name": "Silkeborg",
+        "logo": "https://media.api-sports.io/football/teams/2073.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 4,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379456,
+      "referee": "Michael Tykgaard, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-07T13:00:00+00:00",
+      "timestamp": 1765112400,
+      "periods": {
+        "first": 1765112400,
+        "second": 1765116000
+      },
+      "venue": {
+        "id": 463,
+        "name": "Energi Viborg Arena",
+        "city": "Viborg"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2070,
+        "name": "Viborg",
+        "logo": "https://media.api-sports.io/football/teams/2070.png",
+        "winner": null
+      },
+      "away": {
+        "id": 397,
+        "name": "FC Midtjylland",
+        "logo": "https://media.api-sports.io/football/teams/397.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379454,
+      "referee": "Jacob Karlsen, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-07T15:00:00+00:00",
+      "timestamp": 1765119600,
+      "periods": {
+        "first": 1765119600,
+        "second": 1765123200
+      },
+      "venue": {
+        "id": 457,
+        "name": "Cepheus Park",
+        "city": "Randers"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 401,
+        "name": "Randers FC",
+        "logo": "https://media.api-sports.io/football/teams/401.png",
+        "winner": false
+      },
+      "away": {
+        "id": 406,
+        "name": "Aarhus",
+        "logo": "https://media.api-sports.io/football/teams/406.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379451,
+      "referee": "Aydin Uslu, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-07T17:00:00+00:00",
+      "timestamp": 1765126800,
+      "periods": {
+        "first": 1765126800,
+        "second": 1765130400
+      },
+      "venue": {
+        "id": 11600,
+        "name": "Parken Stadium",
+        "city": "Copenhagen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 400,
+        "name": "FC Copenhagen",
+        "logo": "https://media.api-sports.io/football/teams/400.png",
+        "winner": false
+      },
+      "away": {
+        "id": 396,
+        "name": "Sonderjyske",
+        "logo": "https://media.api-sports.io/football/teams/396.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1379455,
+      "referee": "Mikkel Redder, Denmark",
+      "timezone": "UTC",
+      "date": "2025-12-08T18:00:00+00:00",
+      "timestamp": 1765216800,
+      "periods": {
+        "first": 1765216800,
+        "second": 1765220400
+      },
+      "venue": {
+        "id": 462,
+        "name": "Vejle Stadion",
+        "city": "Vejle"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 119,
+      "name": "Superliga",
+      "country": "Denmark",
+      "logo": "https://media.api-sports.io/football/leagues/119.png",
+      "flag": "https://media.api-sports.io/flags/dk.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 395,
+        "name": "Vejle",
+        "logo": "https://media.api-sports.io/football/teams/395.png",
+        "winner": true
+      },
+      "away": {
+        "id": 407,
+        "name": "Brondby",
+        "logo": "https://media.api-sports.io/football/teams/407.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  }
+]

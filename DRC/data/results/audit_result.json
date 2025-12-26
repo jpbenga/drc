@@ -1,0 +1,170 @@
+{
+    "39": {
+        "missing": [
+            "Manchester City",
+            "Manchester United",
+            "Nottingham Forest"
+        ],
+        "suggestions": [
+            "Forest",
+            "Man City",
+            "Man United"
+        ]
+    },
+    "61": {
+        "missing": [
+            "Paris Saint Germain",
+            "Stade Brestois 29"
+        ],
+        "suggestions": [
+            "Brest",
+            "Paris SG"
+        ]
+    },
+    "78": {
+        "missing": [
+            "1. FC Heidenheim",
+            "1. FC Köln",
+            "1899 Hoffenheim",
+            "Bayer Leverkusen",
+            "Bayern München",
+            "Borussia Dortmund",
+            "Borussia Mönchengladbach",
+            "Eintracht Frankfurt",
+            "FC Augsburg",
+            "FC St. Pauli",
+            "FSV Mainz 05",
+            "Hamburger SV",
+            "SC Freiburg",
+            "VfB Stuttgart",
+            "VfL Wolfsburg",
+            "Werder Bremen"
+        ],
+        "suggestions": [
+            "Augsburg",
+            "Bayern",
+            "Dortmund",
+            "Frankfurt",
+            "Freiburg",
+            "Gladbach",
+            "Hamburg",
+            "Heidenheim",
+            "Hoffenheim",
+            "Koeln",
+            "Leverkusen",
+            "Mainz",
+            "St Pauli",
+            "Stuttgart",
+            "Werder",
+            "Wolfsburg"
+        ]
+    },
+    "140": {
+        "missing": [
+            "Athletic Club",
+            "Atletico Madrid",
+            "Celta Vigo",
+            "Real Betis",
+            "Real Sociedad"
+        ],
+        "suggestions": [
+            "Atletico",
+            "Betis",
+            "Bilbao",
+            "Celta",
+            "Sociedad"
+        ]
+    },
+    "135": {
+        "missing": [
+            "AC Milan",
+            "AS Roma"
+        ],
+        "suggestions": [
+            "Milan",
+            "Roma"
+        ]
+    },
+    "94": {
+        "missing": [
+            "AVS",
+            "Estrela",
+            "FC Porto",
+            "GIL Vicente",
+            "SC Braga",
+            "Sporting CP"
+        ],
+        "suggestions": [
+            "AVS Futebol",
+            "Braga",
+            "Estrela Amadora",
+            "Gil Vicente",
+            "Porto",
+            "Sporting"
+        ]
+    },
+    "88": {
+        "missing": [
+            "AZ Alkmaar",
+            "FC Volendam",
+            "Fortuna Sittard",
+            "GO Ahead Eagles",
+            "NAC Breda",
+            "NEC Nijmegen",
+            "PEC Zwolle",
+            "PSV Eindhoven"
+        ],
+        "suggestions": [
+            "Alkmaar",
+            "Breda",
+            "Go Ahead Eagles",
+            "Nijmegen",
+            "PSV",
+            "Sittard",
+            "Volendam",
+            "Zwolle"
+        ]
+    },
+    "197": {
+        "missing": [
+            "AEK Athens FC",
+            "Aris Thessalonikis",
+            "Kifisia",
+            "Levadiakos",
+            "Olympiakos Piraeus",
+            "Volos NFC"
+        ],
+        "suggestions": [
+            "AEK",
+            "Aris",
+            "Kifisias",
+            "Levadeiakos",
+            "NFC Volos",
+            "Olympiakos"
+        ]
+    },
+    "203": {
+        "missing": [
+            "Başakşehir",
+            "Beşiktaş",
+            "Eyüpspor",
+            "Fatih Karagümrük",
+            "Fenerbahçe",
+            "Gazişehir Gaziantep",
+            "Göztepe",
+            "Kasımpaşa",
+            "Kayserispor"
+        ],
+        "suggestions": [
+            "Besiktas",
+            "Bueyueksehir",
+            "Eyupspor",
+            "Fatih Karaguemruek",
+            "Fenerbahce",
+            "Gaziantep FK",
+            "Goeztepe",
+            "Kasimpasa",
+            "Kayseri"
+        ]
+    }
+}
