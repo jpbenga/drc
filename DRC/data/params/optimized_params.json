@@ -1,16 +1,33 @@
 {
-  "timestamp": "2025-12-26T01:22:19.521155",
+  "timestamp": "2025-12-27T00:06:37.554401",
   "best_params": {
-    "w_xg": 1.0591425317325716,
-    "w_elo": 0.6315460240588222,
-    "rho": -0.13192091826168642,
-    "hfa": 75.40646052210164,
-    "impact_offensive": 0.0569218798250062,
-    "impact_defensive": 0.2139815950165539
+    "w_xg": 1.071767063590507,
+    "w_elo": 0.49006079437897576,
+    "rho": 0.06755116568534326,
+    "hfa": 63.17135680219842,
+    "impact_offensive": 0.06977486456779962,
+    "impact_defensive": 0.04535102743986541,
+    "confidence_shrinkage": 18.60106985887924
   },
-  "train_brier": 0.19572455786484402,
-  "test_brier": 0.1793039081819895,
-  "n_trials": 150,
+  "train_loss": 1.023609772319455,
+  "test_loss": 1.0070979710039314,
+  "n_trials": 200,
+  "random_seed": 42,
+  "loss_weights": {
+    "brier_1x2": 0.55,
+    "nll_score": 0.3,
+    "brier_sub": 0.15
+  },
+  "submarkets": [
+    "btts",
+    "over25",
+    "under25",
+    "home_scores",
+    "away_scores",
+    "home_over15",
+    "away_over15"
+  ],
+  "max_goals": 8,
   "leagues": [
     "39",
     "61",
@@ -21,5 +38,6 @@
     "88",
     "203"
   ],
+  "min_team_history_matches": 5,
   "total_matches": 1205
 }
