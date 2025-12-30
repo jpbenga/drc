@@ -11688,5 +11688,75 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1385923,
+      "referee": "George Catalin Roman, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-22T18:00:00+00:00",
+      "timestamp": 1766426400,
+      "periods": {
+        "first": 1766426400,
+        "second": 1766430000
+      },
+      "venue": {
+        "id": 12282,
+        "name": "Stadionul Ion Oblemenco",
+        "city": "Craiova"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 2
+      }
+    },
+    "league": {
+      "id": 283,
+      "name": "Liga I",
+      "country": "Romania",
+      "logo": "https://media.api-sports.io/football/leagues/283.png",
+      "flag": "https://media.api-sports.io/flags/ro.svg",
+      "season": 2025,
+      "round": "Regular Season - 21",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 632,
+        "name": "Universitatea Craiova",
+        "logo": "https://media.api-sports.io/football/teams/632.png",
+        "winner": true
+      },
+      "away": {
+        "id": 6230,
+        "name": "Csikszereda",
+        "logo": "https://media.api-sports.io/football/teams/6230.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 3,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

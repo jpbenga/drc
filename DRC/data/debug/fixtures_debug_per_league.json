@@ -1,0 +1,171 @@
+{
+  "range": {
+    "today": "2025-12-30",
+    "from": "2025-12-29",
+    "to": "2025-12-31"
+  },
+  "perLeagueDebug": [
+    {
+      "league_id": 39,
+      "league_name": "Premier League",
+      "request": {
+        "league": 39,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 6,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 6
+    },
+    {
+      "league_id": 61,
+      "league_name": "Ligue 1",
+      "request": {
+        "league": 61,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    },
+    {
+      "league_id": 78,
+      "league_name": "Bundesliga",
+      "request": {
+        "league": 78,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    },
+    {
+      "league_id": 140,
+      "league_name": "La Liga",
+      "request": {
+        "league": 140,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    },
+    {
+      "league_id": 135,
+      "league_name": "Serie A",
+      "request": {
+        "league": 135,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 1,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 1
+    },
+    {
+      "league_id": 94,
+      "league_name": "Liga Portugal",
+      "request": {
+        "league": 94,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 1,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 1
+    },
+    {
+      "league_id": 88,
+      "league_name": "Eredivisie",
+      "request": {
+        "league": 88,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    },
+    {
+      "league_id": 197,
+      "league_name": "Super League (GRE)",
+      "request": {
+        "league": 197,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    },
+    {
+      "league_id": 203,
+      "league_name": "Süper Lig",
+      "request": {
+        "league": 203,
+        "season": 2025,
+        "from": "2025-12-29",
+        "to": "2025-12-31",
+        "timezone": "Europe/Paris"
+      },
+      "results": 0,
+      "errors": [],
+      "paging": {
+        "current": 1,
+        "total": 1
+      },
+      "fetched": 0
+    }
+  ]
+}

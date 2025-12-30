@@ -11772,7 +11772,7 @@
       },
       "venue": {
         "id": null,
-        "name": "Stadio Enrico Sannazzari",
+        "name": "Stadio Comunale",
         "city": "Chiavari"
       },
       "status": {
@@ -11887,6 +11887,706 @@
       },
       "fulltime": {
         "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419769,
+      "referee": "Kevin Bonacina, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-26T16:15:00+00:00",
+      "timestamp": 1766765700,
+      "periods": {
+        "first": 1766765700,
+        "second": 1766769300
+      },
+      "venue": {
+        "id": 2771,
+        "name": "Stadio Alberto Braglia",
+        "city": "Modena"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 899,
+        "name": "Modena",
+        "logo": "https://media.api-sports.io/football/teams/899.png",
+        "winner": false
+      },
+      "away": {
+        "id": 1579,
+        "name": "Monza",
+        "logo": "https://media.api-sports.io/football/teams/1579.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419762,
+      "referee": "Andrea Zanotti, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T11:30:00+00:00",
+      "timestamp": 1766835000,
+      "periods": {
+        "first": 1766835000,
+        "second": 1766838600
+      },
+      "venue": {
+        "id": 939,
+        "name": "Stadio Alberto Picco",
+        "city": "La Spezia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 515,
+        "name": "Spezia",
+        "logo": "https://media.api-sports.io/football/teams/515.png",
+        "winner": true
+      },
+      "away": {
+        "id": 525,
+        "name": "Pescara",
+        "logo": "https://media.api-sports.io/football/teams/525.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419764,
+      "referee": "Giuseppe Collu, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 905,
+        "name": "Stadio Luigi Ferraris",
+        "city": "Genoa"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 498,
+        "name": "Sampdoria",
+        "logo": "https://media.api-sports.io/football/teams/498.png",
+        "winner": true
+      },
+      "away": {
+        "id": 880,
+        "name": "Reggiana",
+        "logo": "https://media.api-sports.io/football/teams/880.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419770,
+      "referee": "Ivano Pezzuto, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 20109,
+        "name": "Stadio Carlo Castellani",
+        "city": "Empoli"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 511,
+        "name": "Empoli",
+        "logo": "https://media.api-sports.io/football/teams/511.png",
+        "winner": null
+      },
+      "away": {
+        "id": 512,
+        "name": "Frosinone",
+        "logo": "https://media.api-sports.io/football/teams/512.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419763,
+      "referee": "Davide Di Marco, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 948,
+        "name": "Stadio Pierluigi Penzo",
+        "city": "Venice"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 517,
+        "name": "Venezia",
+        "logo": "https://media.api-sports.io/football/teams/517.png",
+        "winner": true
+      },
+      "away": {
+        "id": 527,
+        "name": "Virtus Entella",
+        "logo": "https://media.api-sports.io/football/teams/527.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419761,
+      "referee": "Livio Marinelli, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 908,
+        "name": "Stadio Romeo Menti",
+        "city": "Castellammare di Stabia"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 863,
+        "name": "Juve Stabia",
+        "logo": "https://media.api-sports.io/football/teams/863.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1578,
+        "name": "Sudtirol",
+        "logo": "https://media.api-sports.io/football/teams/1578.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419765,
+      "referee": "Matteo Marcenaro, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 885,
+        "name": "Stadio dei Marmi",
+        "city": "Carrara"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1581,
+        "name": "Carrarese",
+        "logo": "https://media.api-sports.io/football/teams/1581.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1693,
+        "name": "Mantova",
+        "logo": "https://media.api-sports.io/football/teams/1693.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419767,
+      "referee": "Valerio Crezzini, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:00:00+00:00",
+      "timestamp": 1766844000,
+      "periods": {
+        "first": 1766844000,
+        "second": 1766847600
+      },
+      "venue": {
+        "id": 888,
+        "name": "Stadio Nicola Ceravolo",
+        "city": "Catanzaro"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1687,
+        "name": "Catanzaro",
+        "logo": "https://media.api-sports.io/football/teams/1687.png",
+        "winner": true
+      },
+      "away": {
+        "id": 509,
+        "name": "Cesena",
+        "logo": "https://media.api-sports.io/football/teams/509.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419766,
+      "referee": "Marco Piccinini, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T16:15:00+00:00",
+      "timestamp": 1766852100,
+      "periods": {
+        "first": 1766852100,
+        "second": 1766855700
+      },
+      "venue": {
+        "id": 920,
+        "name": "Stadio Renzo Barbera",
+        "city": "Palermo"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 522,
+        "name": "Palermo",
+        "logo": "https://media.api-sports.io/football/teams/522.png",
+        "winner": true
+      },
+      "away": {
+        "id": 870,
+        "name": "Padova",
+        "logo": "https://media.api-sports.io/football/teams/870.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1419768,
+      "referee": "Luca Zufferli, Italy",
+      "timezone": "UTC",
+      "date": "2025-12-27T18:30:00+00:00",
+      "timestamp": 1766860200,
+      "periods": {
+        "first": 1766860200,
+        "second": 1766863800
+      },
+      "venue": {
+        "id": 2763,
+        "name": "Stadio San Nicola",
+        "city": "Bari"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 136,
+      "name": "Serie B",
+      "country": "Italy",
+      "logo": "https://media.api-sports.io/football/leagues/136.png",
+      "flag": "https://media.api-sports.io/flags/it.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 508,
+        "name": "Bari",
+        "logo": "https://media.api-sports.io/football/teams/508.png",
+        "winner": null
+      },
+      "away": {
+        "id": 528,
+        "name": "Avellino",
+        "logo": "https://media.api-sports.io/football/teams/528.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
         "away": 1
       },
       "extratime": {

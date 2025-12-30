@@ -18338,5 +18338,1685 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1386815,
+      "referee": "Ben Toner, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T12:30:00+00:00",
+      "timestamp": 1766752200,
+      "periods": {
+        "first": 1766752200,
+        "second": 1766755800
+      },
+      "venue": {
+        "id": null,
+        "name": "St. Andrew's @ Knighthead Park",
+        "city": "Birmingham"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 54,
+        "name": "Birmingham",
+        "logo": "https://media.api-sports.io/football/teams/54.png",
+        "winner": null
+      },
+      "away": {
+        "id": 69,
+        "name": "Derby",
+        "logo": "https://media.api-sports.io/football/teams/69.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386820,
+      "referee": "Tim Robinson, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T13:00:00+00:00",
+      "timestamp": 1766754000,
+      "periods": {
+        "first": 1766754000,
+        "second": 1766757600
+      },
+      "venue": {
+        "id": 559,
+        "name": "The Den",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 3
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 58,
+        "name": "Millwall",
+        "logo": "https://media.api-sports.io/football/teams/58.png",
+        "winner": null
+      },
+      "away": {
+        "id": 57,
+        "name": "Ipswich",
+        "logo": "https://media.api-sports.io/football/teams/57.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386821,
+      "referee": "Josh Smith, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 547,
+        "name": "King Power Stadium",
+        "city": "Leicester"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media.api-sports.io/football/teams/46.png",
+        "winner": false
+      },
+      "away": {
+        "id": 38,
+        "name": "Watford",
+        "logo": "https://media.api-sports.io/football/teams/38.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386825,
+      "referee": "Will Finnie, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 597,
+        "name": "The Hawthorns",
+        "city": "West Bromwich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 60,
+        "name": "West Brom",
+        "logo": "https://media.api-sports.io/football/teams/60.png",
+        "winner": false
+      },
+      "away": {
+        "id": 56,
+        "name": "Bristol City",
+        "logo": "https://media.api-sports.io/football/teams/56.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 2
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386824,
+      "referee": "James Bell, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 558,
+        "name": "Riverside Stadium",
+        "city": "Middlesbrough"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 70,
+        "name": "Middlesbrough",
+        "logo": "https://media.api-sports.io/football/teams/70.png",
+        "winner": null
+      },
+      "away": {
+        "id": 67,
+        "name": "Blackburn",
+        "logo": "https://media.api-sports.io/football/teams/67.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386816,
+      "referee": "Matt Donohue, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 565,
+        "name": "Carrow Road",
+        "city": "Norwich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 71,
+        "name": "Norwich",
+        "logo": "https://media.api-sports.io/football/teams/71.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1335,
+        "name": "Charlton",
+        "logo": "https://media.api-sports.io/football/teams/1335.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386826,
+      "referee": "Stephen Martin, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 582,
+        "name": "Hillsborough",
+        "city": "Sheffield"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 74,
+        "name": "Sheffield Wednesday",
+        "logo": "https://media.api-sports.io/football/teams/74.png",
+        "winner": null
+      },
+      "away": {
+        "id": 64,
+        "name": "Hull City",
+        "logo": "https://media.api-sports.io/football/teams/64.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386823,
+      "referee": "Thomas Kirk, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 588,
+        "name": "Bet365 Stadium",
+        "city": "Stoke on Trent"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 75,
+        "name": "Stoke City",
+        "logo": "https://media.api-sports.io/football/teams/75.png",
+        "winner": null
+      },
+      "away": {
+        "id": 59,
+        "name": "Preston",
+        "logo": "https://media.api-sports.io/football/teams/59.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386822,
+      "referee": "Leigh Doughty, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 569,
+        "name": "Kassam Stadium",
+        "city": "Oxford"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1338,
+        "name": "Oxford United",
+        "logo": "https://media.api-sports.io/football/teams/1338.png",
+        "winner": true
+      },
+      "away": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386819,
+      "referee": "Sam Allison, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 11896,
+        "name": "Coventry Building Society Arena",
+        "city": "Coventry"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1346,
+        "name": "Coventry",
+        "logo": "https://media.api-sports.io/football/teams/1346.png",
+        "winner": true
+      },
+      "away": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386817,
+      "referee": "James Linington, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": 573,
+        "name": "Fratton Park",
+        "city": "Portsmouth"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1355,
+        "name": "Portsmouth",
+        "logo": "https://media.api-sports.io/football/teams/1355.png",
+        "winner": null
+      },
+      "away": {
+        "id": 72,
+        "name": "QPR",
+        "logo": "https://media.api-sports.io/football/teams/72.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386818,
+      "referee": "Andrew Kitchen, England",
+      "timezone": "UTC",
+      "date": "2025-12-26T17:30:00+00:00",
+      "timestamp": 1766770200,
+      "periods": {
+        "first": 1766770200,
+        "second": 1766773800
+      },
+      "venue": {
+        "id": null,
+        "name": "Racecourse Ground",
+        "city": "Wrexham"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 23",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1837,
+        "name": "Wrexham",
+        "logo": "https://media.api-sports.io/football/teams/1837.png",
+        "winner": true
+      },
+      "away": {
+        "id": 62,
+        "name": "Sheffield Utd",
+        "logo": "https://media.api-sports.io/football/teams/62.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 5,
+      "away": 3
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 3
+      },
+      "fulltime": {
+        "home": 5,
+        "away": 3
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386832,
+      "referee": "Anthony Backhouse, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T18:00:00+00:00",
+      "timestamp": 1767031200,
+      "periods": {
+        "first": 1767031200,
+        "second": 1767034800
+      },
+      "venue": {
+        "id": 11896,
+        "name": "Coventry Building Society Arena",
+        "city": "Coventry"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1346,
+        "name": "Coventry",
+        "logo": "https://media.api-sports.io/football/teams/1346.png",
+        "winner": false
+      },
+      "away": {
+        "id": 57,
+        "name": "Ipswich",
+        "logo": "https://media.api-sports.io/football/teams/57.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386834,
+      "referee": "Gavin Ward, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 547,
+        "name": "King Power Stadium",
+        "city": "Leicester"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 46,
+        "name": "Leicester",
+        "logo": "https://media.api-sports.io/football/teams/46.png",
+        "winner": true
+      },
+      "away": {
+        "id": 69,
+        "name": "Derby",
+        "logo": "https://media.api-sports.io/football/teams/69.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386833,
+      "referee": "David Webb, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 559,
+        "name": "The Den",
+        "city": "London"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 58,
+        "name": "Millwall",
+        "logo": "https://media.api-sports.io/football/teams/58.png",
+        "winner": true
+      },
+      "away": {
+        "id": 56,
+        "name": "Bristol City",
+        "logo": "https://media.api-sports.io/football/teams/56.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386828,
+      "referee": "Lewis Smith, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 597,
+        "name": "The Hawthorns",
+        "city": "West Bromwich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 60,
+        "name": "West Brom",
+        "logo": "https://media.api-sports.io/football/teams/60.png",
+        "winner": true
+      },
+      "away": {
+        "id": 72,
+        "name": "QPR",
+        "logo": "https://media.api-sports.io/football/teams/72.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386830,
+      "referee": "Leigh Doughty, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 558,
+        "name": "Riverside Stadium",
+        "city": "Middlesbrough"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 70,
+        "name": "Middlesbrough",
+        "logo": "https://media.api-sports.io/football/teams/70.png",
+        "winner": false
+      },
+      "away": {
+        "id": 64,
+        "name": "Hull City",
+        "logo": "https://media.api-sports.io/football/teams/64.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386838,
+      "referee": "Matthew Corlett, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 565,
+        "name": "Carrow Road",
+        "city": "Norwich"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 71,
+        "name": "Norwich",
+        "logo": "https://media.api-sports.io/football/teams/71.png",
+        "winner": false
+      },
+      "away": {
+        "id": 38,
+        "name": "Watford",
+        "logo": "https://media.api-sports.io/football/teams/38.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386827,
+      "referee": "Oliver Langford, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 582,
+        "name": "Hillsborough",
+        "city": "Sheffield"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 74,
+        "name": "Sheffield Wednesday",
+        "logo": "https://media.api-sports.io/football/teams/74.png",
+        "winner": null
+      },
+      "away": {
+        "id": 67,
+        "name": "Blackburn",
+        "logo": "https://media.api-sports.io/football/teams/67.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386829,
+      "referee": "John Busby, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 588,
+        "name": "Bet365 Stadium",
+        "city": "Stoke on Trent"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 75,
+        "name": "Stoke City",
+        "logo": "https://media.api-sports.io/football/teams/75.png",
+        "winner": false
+      },
+      "away": {
+        "id": 62,
+        "name": "Sheffield Utd",
+        "logo": "https://media.api-sports.io/football/teams/62.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386831,
+      "referee": "Adam Herczeg, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 569,
+        "name": "Kassam Stadium",
+        "city": "Oxford"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1338,
+        "name": "Oxford United",
+        "logo": "https://media.api-sports.io/football/teams/1338.png",
+        "winner": false
+      },
+      "away": {
+        "id": 76,
+        "name": "Swansea",
+        "logo": "https://media.api-sports.io/football/teams/76.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386836,
+      "referee": "Paul Tierney, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": 573,
+        "name": "Fratton Park",
+        "city": "Portsmouth"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1355,
+        "name": "Portsmouth",
+        "logo": "https://media.api-sports.io/football/teams/1355.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1335,
+        "name": "Charlton",
+        "logo": "https://media.api-sports.io/football/teams/1335.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386835,
+      "referee": "Ruebyn Ricardo, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T19:45:00+00:00",
+      "timestamp": 1767037500,
+      "periods": {
+        "first": 1767037500,
+        "second": 1767041100
+      },
+      "venue": {
+        "id": null,
+        "name": "Racecourse Ground",
+        "city": "Wrexham"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 1837,
+        "name": "Wrexham",
+        "logo": "https://media.api-sports.io/football/teams/1837.png",
+        "winner": true
+      },
+      "away": {
+        "id": 59,
+        "name": "Preston",
+        "logo": "https://media.api-sports.io/football/teams/59.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1386837,
+      "referee": "Matt Donohue, England",
+      "timezone": "UTC",
+      "date": "2025-12-29T20:15:00+00:00",
+      "timestamp": 1767039300,
+      "periods": {
+        "first": 1767039300,
+        "second": 1767042900
+      },
+      "venue": {
+        "id": null,
+        "name": "St. Andrew's @ Knighthead Park",
+        "city": "Birmingham"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 40,
+      "name": "Championship",
+      "country": "England",
+      "logo": "https://media.api-sports.io/football/leagues/40.png",
+      "flag": "https://media.api-sports.io/flags/gb-eng.svg",
+      "season": 2025,
+      "round": "Regular Season - 24",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 54,
+        "name": "Birmingham",
+        "logo": "https://media.api-sports.io/football/teams/54.png",
+        "winner": null
+      },
+      "away": {
+        "id": 41,
+        "name": "Southampton",
+        "logo": "https://media.api-sports.io/football/teams/41.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

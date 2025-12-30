@@ -5668,5 +5668,845 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1436011,
+      "referee": "Raed Ali Al-Zahrani, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-25T14:50:00+00:00",
+      "timestamp": 1766674200,
+      "periods": {
+        "first": 1766674200,
+        "second": 1766677800
+      },
+      "venue": {
+        "id": 1367,
+        "name": "King Abdullah Sports City Stadium",
+        "city": "Buraidah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2944,
+        "name": "Al-Fayha",
+        "logo": "https://media.api-sports.io/football/teams/2944.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2945,
+        "name": "Al-Hazm",
+        "logo": "https://media.api-sports.io/football/teams/2945.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436007,
+      "referee": "Mohamed Al Smaail, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-25T17:30:00+00:00",
+      "timestamp": 1766683800,
+      "periods": {
+        "first": 1766683800,
+        "second": 1766687400
+      },
+      "venue": {
+        "id": 1374,
+        "name": "Prince Faisal bin Fahd Stadium",
+        "city": "Riyadh"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10511,
+        "name": "Al Riyadh",
+        "logo": "https://media.api-sports.io/football/teams/10511.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2934,
+        "name": "Al-Ettifaq",
+        "logo": "https://media.api-sports.io/football/teams/2934.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436006,
+      "referee": "Majed Mohammed Al-Shamrani, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-25T17:30:00+00:00",
+      "timestamp": 1766683800,
+      "periods": {
+        "first": 1766683800,
+        "second": 1766687400
+      },
+      "venue": {
+        "id": null,
+        "name": "King Khalid Sport City Stadium",
+        "city": "Tabuk"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 11
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10513,
+        "name": "NEOM",
+        "logo": "https://media.api-sports.io/football/teams/10513.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2992,
+        "name": "Al Najma",
+        "logo": "https://media.api-sports.io/football/teams/2992.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436005,
+      "referee": "Khaled Al Teris, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-26T13:05:00+00:00",
+      "timestamp": 1766754300,
+      "periods": {
+        "first": 1766754300,
+        "second": 1766757900
+      },
+      "venue": {
+        "id": 22271,
+        "name": "Al Fateh club stadium",
+        "city": "Al-Hofuf"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2931,
+        "name": "Al-Fateh",
+        "logo": "https://media.api-sports.io/football/teams/2931.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2929,
+        "name": "Al-Ahli Jeddah",
+        "logo": "https://media.api-sports.io/football/teams/2929.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436008,
+      "referee": "Abdullah Al-Shehri, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-26T15:00:00+00:00",
+      "timestamp": 1766761200,
+      "periods": {
+        "first": 1766761200,
+        "second": 1766764800
+      },
+      "venue": {
+        "id": null,
+        "name": "Al-Hazem Club Stadium",
+        "city": "Ar Rass"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10509,
+        "name": "Al Kholood",
+        "logo": "https://media.api-sports.io/football/teams/10509.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2936,
+        "name": "Al Taawon",
+        "logo": "https://media.api-sports.io/football/teams/2936.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436004,
+      "referee": "Serdar Gozubuyuk, Netherlands",
+      "timezone": "UTC",
+      "date": "2025-12-26T17:30:00+00:00",
+      "timestamp": 1766770200,
+      "periods": {
+        "first": 1766770200,
+        "second": 1766773800
+      },
+      "venue": {
+        "id": 20744,
+        "name": "Kingdom Arena",
+        "city": "Riyadh"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2932,
+        "name": "Al-Hilal Saudi FC",
+        "logo": "https://media.api-sports.io/football/teams/2932.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436010,
+      "referee": "Istvan Kovacs, Romania",
+      "timezone": "UTC",
+      "date": "2025-12-27T13:00:00+00:00",
+      "timestamp": 1766840400,
+      "periods": {
+        "first": 1766840400,
+        "second": 1766844000
+      },
+      "venue": {
+        "id": 1370,
+        "name": "Prince Saud bin Jalawi Stadium",
+        "city": "Dammam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2933,
+        "name": "Al-Qadisiyah FC",
+        "logo": "https://media.api-sports.io/football/teams/2933.png",
+        "winner": null
+      },
+      "away": {
+        "id": 2956,
+        "name": "Damac",
+        "logo": "https://media.api-sports.io/football/teams/2956.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436009,
+      "referee": "Faisal Suleiman Al-Balawi, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-27T14:50:00+00:00",
+      "timestamp": 1766847000,
+      "periods": {
+        "first": 1766847000,
+        "second": 1766850600
+      },
+      "venue": {
+        "id": null,
+        "name": "Al-Awwal Park",
+        "city": "Riyadh"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2939,
+        "name": "Al-Nassr",
+        "logo": "https://media.api-sports.io/football/teams/2939.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2977,
+        "name": "Al Okhdood",
+        "logo": "https://media.api-sports.io/football/teams/2977.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436003,
+      "referee": "Mohammed Khled Hoish, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-27T17:30:00+00:00",
+      "timestamp": 1766856600,
+      "periods": {
+        "first": 1766856600,
+        "second": 1766860200
+      },
+      "venue": {
+        "id": 1364,
+        "name": "King Abdullah Sports City",
+        "city": "Jeddah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 11",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2938,
+        "name": "Al-Ittihad FC",
+        "logo": "https://media.api-sports.io/football/teams/2938.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2940,
+        "name": "Al Shabab",
+        "logo": "https://media.api-sports.io/football/teams/2940.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436019,
+      "referee": "Abdullah Al-Kharbosh, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-29T14:35:00+00:00",
+      "timestamp": 1767018900,
+      "periods": {
+        "first": 1767018900,
+        "second": 1767022500
+      },
+      "venue": {
+        "id": 1370,
+        "name": "Prince Mohamed bin Fahd Stadium",
+        "city": "Dammam"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2928,
+        "name": "Al Khaleej Saihat",
+        "logo": "https://media.api-sports.io/football/teams/2928.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2931,
+        "name": "Al-Fateh",
+        "logo": "https://media.api-sports.io/football/teams/2931.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436014,
+      "referee": "Ali Al-Qahtani, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-29T17:30:00+00:00",
+      "timestamp": 1767029400,
+      "periods": {
+        "first": 1767029400,
+        "second": 1767033000
+      },
+      "venue": {
+        "id": null,
+        "name": "Alinma Stadium",
+        "city": "Buraidah"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 8
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 2936,
+        "name": "Al Taawon",
+        "logo": "https://media.api-sports.io/football/teams/2936.png",
+        "winner": true
+      },
+      "away": {
+        "id": 2992,
+        "name": "Al Najma",
+        "logo": "https://media.api-sports.io/football/teams/2992.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1436020,
+      "referee": "Abdullah Al-Harbi, Saudi Arabia",
+      "timezone": "UTC",
+      "date": "2025-12-29T17:30:00+00:00",
+      "timestamp": 1767029400,
+      "periods": {
+        "first": 1767029400,
+        "second": 1767033000
+      },
+      "venue": {
+        "id": 1374,
+        "name": "Prince Faisal bin Fahd Stadium",
+        "city": "Riyadh"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 307,
+      "name": "Pro League",
+      "country": "Saudi-Arabia",
+      "logo": "https://media.api-sports.io/football/leagues/307.png",
+      "flag": "https://media.api-sports.io/flags/sa.svg",
+      "season": 2025,
+      "round": "Regular Season - 12",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 10511,
+        "name": "Al Riyadh",
+        "logo": "https://media.api-sports.io/football/teams/10511.png",
+        "winner": false
+      },
+      "away": {
+        "id": 2945,
+        "name": "Al-Hazm",
+        "logo": "https://media.api-sports.io/football/teams/2945.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]

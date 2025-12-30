@@ -14363,7 +14363,7 @@
       "venue": {
         "id": 22052,
         "name": "Zubieta Real Sociedad",
-        "city": "Donostia-San Sebastián"
+        "city": "San Sebastian"
       },
       "status": {
         "long": "Match Finished",
@@ -14548,6 +14548,76 @@
       "fulltime": {
         "home": 1,
         "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1391969,
+      "referee": "Gorka Etayo Herrera, Spain",
+      "timezone": "UTC",
+      "date": "2025-12-21T20:00:00+00:00",
+      "timestamp": 1766347200,
+      "periods": {
+        "first": 1766347200,
+        "second": 1766350800
+      },
+      "venue": {
+        "id": 11915,
+        "name": "Estadio Nuevo Mirandilla",
+        "city": "Cadiz"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 9
+      }
+    },
+    "league": {
+      "id": 141,
+      "name": "Segunda División",
+      "country": "Spain",
+      "logo": "https://media.api-sports.io/football/leagues/141.png",
+      "flag": "https://media.api-sports.io/flags/es.svg",
+      "season": 2025,
+      "round": "Regular Season - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 724,
+        "name": "Cadiz",
+        "logo": "https://media.api-sports.io/football/teams/724.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5254,
+        "name": "Castellón",
+        "logo": "https://media.api-sports.io/football/teams/5254.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
       },
       "extratime": {
         "home": null,

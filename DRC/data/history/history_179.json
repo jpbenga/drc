@@ -4411,76 +4411,6 @@
   },
   {
     "fixture": {
-      "id": 1382755,
-      "referee": "Calum Scott, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-01T15:00:00+00:00",
-      "timestamp": 1762009200,
-      "periods": {
-        "first": 1762009200,
-        "second": 1762012800
-      },
-      "venue": {
-        "id": null,
-        "name": "The Home of the Set Fare Arena",
-        "city": "Livingston"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": null
-      },
-      "away": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382735,
       "referee": "Grant Irvine, Scotland",
       "timezone": "UTC",
@@ -4538,146 +4468,6 @@
       "fulltime": {
         "home": 1,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382735,
-      "referee": "Grant Irvine, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-08T15:00:00+00:00",
-      "timestamp": 1762614000,
-      "periods": {
-        "first": 1762614000,
-        "second": 1762617600
-      },
-      "venue": {
-        "id": null,
-        "name": "Falkirk Stadium",
-        "city": "Falkirk"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": null
-      },
-      "away": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382736,
-      "referee": "David Dickinson, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-08T17:45:00+00:00",
-      "timestamp": 1762623900,
-      "periods": {
-        "first": 1762623900,
-        "second": 1762627500
-      },
-      "venue": {
-        "id": 11913,
-        "name": "The SMISA Stadium",
-        "city": "Paisley"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 251,
-        "name": "ST Mirren",
-        "logo": "https://media.api-sports.io/football/teams/251.png",
-        "winner": false
-      },
-      "away": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 3
       },
       "extratime": {
         "home": null,
@@ -4958,286 +4748,6 @@
       "fulltime": {
         "home": 1,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382732,
-      "referee": "Steven McLean, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-09T15:00:00+00:00",
-      "timestamp": 1762700400,
-      "periods": {
-        "first": 1762700400,
-        "second": 1762704000
-      },
-      "venue": {
-        "id": 1383,
-        "name": "Pittodrie Stadium",
-        "city": "Aberdeen"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": null
-      },
-      "away": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382734,
-      "referee": "Matthew MacDermid, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-09T15:00:00+00:00",
-      "timestamp": 1762700400,
-      "periods": {
-        "first": 1762700400,
-        "second": 1762704000
-      },
-      "venue": {
-        "id": null,
-        "name": "Dens Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": null
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": false
-      },
-      "away": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382737,
-      "referee": "John Beaton, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-09T15:00:00+00:00",
-      "timestamp": 1762700400,
-      "periods": {
-        "first": 1762700400,
-        "second": 1762704000
-      },
-      "venue": {
-        "id": 1393,
-        "name": "Tynecastle Park",
-        "city": "Edinburgh"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": null
-      },
-      "away": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382733,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-11-09T16:00:00+00:00",
-      "timestamp": 1762704000,
-      "periods": {
-        "first": 1762704000,
-        "second": 1762707600
-      },
-      "venue": {
-        "id": 1386,
-        "name": "Celtic Park",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 12",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 247,
-        "name": "Celtic",
-        "logo": "https://media.api-sports.io/football/teams/247.png",
-        "winner": true
-      },
-      "away": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 4,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 4,
-        "away": 0
       },
       "extratime": {
         "home": null,
@@ -5601,286 +5111,6 @@
   },
   {
     "fixture": {
-      "id": 1382740,
-      "referee": "Steven McLean, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-22T15:00:00+00:00",
-      "timestamp": 1763823600,
-      "periods": {
-        "first": 1763823600,
-        "second": 1763827200
-      },
-      "venue": {
-        "id": 1394,
-        "name": "Easter Road",
-        "city": "Edinburgh"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": true
-      },
-      "away": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382741,
-      "referee": "Ryan Lee, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-22T15:00:00+00:00",
-      "timestamp": 1763823600,
-      "periods": {
-        "first": 1763823600,
-        "second": 1763827200
-      },
-      "venue": {
-        "id": 19215,
-        "name": "Rugby Park",
-        "city": "Kilmarnock"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": false
-      },
-      "away": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382742,
-      "referee": "Ross Hardie, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-22T15:00:00+00:00",
-      "timestamp": 1763823600,
-      "periods": {
-        "first": 1763823600,
-        "second": 1763827200
-      },
-      "venue": {
-        "id": 1401,
-        "name": "Ibrox Stadium",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 8
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": true
-      },
-      "away": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382739,
-      "referee": "Nick Walsh, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-22T15:00:00+00:00",
-      "timestamp": 1763823600,
-      "periods": {
-        "first": 1763823600,
-        "second": 1763827200
-      },
-      "venue": {
-        "id": 1388,
-        "name": "Tannadice Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": false
-      },
-      "away": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382743,
       "referee": "Kevin Clancy, Scotland",
       "timezone": "UTC",
@@ -5938,146 +5168,6 @@
       "fulltime": {
         "home": 0,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382743,
-      "referee": "Kevin Clancy, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-22T20:00:00+00:00",
-      "timestamp": 1763841600,
-      "periods": {
-        "first": 1763841600,
-        "second": 1763845200
-      },
-      "venue": {
-        "id": 11913,
-        "name": "The SMISA Stadium",
-        "city": "Paisley"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 251,
-        "name": "ST Mirren",
-        "logo": "https://media.api-sports.io/football/teams/251.png",
-        "winner": false
-      },
-      "away": {
-        "id": 247,
-        "name": "Celtic",
-        "logo": "https://media.api-sports.io/football/teams/247.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382738,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-11-23T15:00:00+00:00",
-      "timestamp": 1763910000,
-      "periods": {
-        "first": 1763910000,
-        "second": 1763913600
-      },
-      "venue": {
-        "id": 1383,
-        "name": "Pittodrie Stadium",
-        "city": "Aberdeen"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 8
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 13",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": true
-      },
-      "away": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
       },
       "extratime": {
         "home": null,
@@ -6371,146 +5461,6 @@
   },
   {
     "fixture": {
-      "id": 1382744,
-      "referee": "John Beaton, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-29T15:00:00+00:00",
-      "timestamp": 1764428400,
-      "periods": {
-        "first": 1764428400,
-        "second": 1764432000
-      },
-      "venue": {
-        "id": null,
-        "name": "Dens Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": true
-      },
-      "away": {
-        "id": 251,
-        "name": "ST Mirren",
-        "logo": "https://media.api-sports.io/football/teams/251.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 3,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 2,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 3,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382748,
-      "referee": "Kevin Clancy, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-29T15:00:00+00:00",
-      "timestamp": 1764428400,
-      "periods": {
-        "first": 1764428400,
-        "second": 1764432000
-      },
-      "venue": {
-        "id": 1398,
-        "name": "Fir Park",
-        "city": "Motherwell"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": null
-      },
-      "away": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382746,
       "referee": "Matthew MacDermid, Scotland",
       "timezone": "UTC",
@@ -6568,146 +5518,6 @@
       "fulltime": {
         "home": 1,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382746,
-      "referee": "Matthew MacDermid, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-29T17:45:00+00:00",
-      "timestamp": 1764438300,
-      "periods": {
-        "first": 1764438300,
-        "second": 1764441900
-      },
-      "venue": {
-        "id": 19215,
-        "name": "Rugby Park",
-        "city": "Kilmarnock"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": null
-      },
-      "away": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382745,
-      "referee": "Nick Walsh, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-30T12:00:00+00:00",
-      "timestamp": 1764504000,
-      "periods": {
-        "first": 1764504000,
-        "second": 1764507600
-      },
-      "venue": {
-        "id": 1394,
-        "name": "Easter Road",
-        "city": "Edinburgh"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": false
-      },
-      "away": {
-        "id": 247,
-        "name": "Celtic",
-        "logo": "https://media.api-sports.io/football/teams/247.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 2
       },
       "extratime": {
         "home": null,
@@ -6861,76 +5671,6 @@
   },
   {
     "fixture": {
-      "id": 1382749,
-      "referee": "Steven McLean, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-30T14:00:00+00:00",
-      "timestamp": 1764511200,
-      "periods": {
-        "first": 1764511200,
-        "second": 1764514800
-      },
-      "venue": {
-        "id": 1401,
-        "name": "Ibrox Stadium",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 6
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": null
-      },
-      "away": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382747,
       "referee": "Donald Robertson, Scotland",
       "timezone": "UTC",
@@ -6988,426 +5728,6 @@
       "fulltime": {
         "home": 0,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382747,
-      "referee": "Donald Robertson, Scotland",
-      "timezone": "UTC",
-      "date": "2025-11-30T15:00:00+00:00",
-      "timestamp": 1764514800,
-      "periods": {
-        "first": 1764514800,
-        "second": 1764518400
-      },
-      "venue": {
-        "id": null,
-        "name": "The Home of the Set Fare Arena",
-        "city": "Livingston"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 3
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 14",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": false
-      },
-      "away": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382751,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-12-03T19:45:00+00:00",
-      "timestamp": 1764791100,
-      "periods": {
-        "first": 1764791100,
-        "second": 1764794700
-      },
-      "venue": {
-        "id": 1386,
-        "name": "Celtic Park",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 3
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 247,
-        "name": "Celtic",
-        "logo": "https://media.api-sports.io/football/teams/247.png",
-        "winner": true
-      },
-      "away": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382750,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-12-03T19:45:00+00:00",
-      "timestamp": 1764791100,
-      "periods": {
-        "first": 1764791100,
-        "second": 1764794700
-      },
-      "venue": {
-        "id": 1383,
-        "name": "Pittodrie Stadium",
-        "city": "Aberdeen"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 12
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": null
-      },
-      "away": {
-        "id": 251,
-        "name": "ST Mirren",
-        "logo": "https://media.api-sports.io/football/teams/251.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 3,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 3,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382754,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-12-03T19:45:00+00:00",
-      "timestamp": 1764791100,
-      "periods": {
-        "first": 1764791100,
-        "second": 1764794700
-      },
-      "venue": {
-        "id": 1393,
-        "name": "Tynecastle Park",
-        "city": "Edinburgh"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": null
-      },
-      "away": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382752,
-      "referee": "David Dickinson, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-03T19:45:00+00:00",
-      "timestamp": 1764791100,
-      "periods": {
-        "first": 1764791100,
-        "second": 1764794700
-      },
-      "venue": {
-        "id": 1388,
-        "name": "Tannadice Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 9
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": null
-      },
-      "away": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382753,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-12-03T19:45:00+00:00",
-      "timestamp": 1764791100,
-      "periods": {
-        "first": 1764791100,
-        "second": 1764794700
-      },
-      "venue": {
-        "id": null,
-        "name": "Falkirk Stadium",
-        "city": "Falkirk"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 15",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": null
-      },
-      "away": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
       },
       "extratime": {
         "home": null,
@@ -8051,286 +6371,6 @@
   },
   {
     "fixture": {
-      "id": 1382758,
-      "referee": "Matthew MacDermid, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-06T15:00:00+00:00",
-      "timestamp": 1765033200,
-      "periods": {
-        "first": 1765033200,
-        "second": 1765036800
-      },
-      "venue": {
-        "id": 1394,
-        "name": "Easter Road",
-        "city": "Edinburgh"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 3
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": true
-      },
-      "away": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 3,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 2,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 3,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382761,
-      "referee": "Nick Walsh, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-06T15:00:00+00:00",
-      "timestamp": 1765033200,
-      "periods": {
-        "first": 1765033200,
-        "second": 1765036800
-      },
-      "venue": {
-        "id": 11913,
-        "name": "The SMISA Stadium",
-        "city": "Paisley"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 251,
-        "name": "ST Mirren",
-        "logo": "https://media.api-sports.io/football/teams/251.png",
-        "winner": true
-      },
-      "away": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382757,
-      "referee": "Grant Irvine, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-06T15:00:00+00:00",
-      "timestamp": 1765033200,
-      "periods": {
-        "first": 1765033200,
-        "second": 1765036800
-      },
-      "venue": {
-        "id": null,
-        "name": "Dens Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": false
-      },
-      "away": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382760,
-      "referee": "Ryan Lee, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-06T15:00:00+00:00",
-      "timestamp": 1765033200,
-      "periods": {
-        "first": 1765033200,
-        "second": 1765036800
-      },
-      "venue": {
-        "id": 1398,
-        "name": "Fir Park",
-        "city": "Motherwell"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": true
-      },
-      "away": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 3,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 3,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382759,
       "referee": "Kevin Clancy, Scotland",
       "timezone": "UTC",
@@ -8388,146 +6428,6 @@
       "fulltime": {
         "home": 0,
         "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382759,
-      "referee": "Kevin Clancy, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-06T20:00:00+00:00",
-      "timestamp": 1765051200,
-      "periods": {
-        "first": 1765051200,
-        "second": 1765054800
-      },
-      "venue": {
-        "id": 19215,
-        "name": "Rugby Park",
-        "city": "Kilmarnock"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": false
-      },
-      "away": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 3
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 3
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382756,
-      "referee": "Donald Robertson, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-07T15:00:00+00:00",
-      "timestamp": 1765119600,
-      "periods": {
-        "first": 1765119600,
-        "second": 1765123200
-      },
-      "venue": {
-        "id": 1386,
-        "name": "Celtic Park",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 16",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 247,
-        "name": "Celtic",
-        "logo": "https://media.api-sports.io/football/teams/247.png",
-        "winner": false
-      },
-      "away": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 2
       },
       "extratime": {
         "home": null,
@@ -8751,286 +6651,6 @@
   },
   {
     "fixture": {
-      "id": 1382766,
-      "referee": "Dan McFarlane, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-13T15:00:00+00:00",
-      "timestamp": 1765638000,
-      "periods": {
-        "first": 1765638000,
-        "second": 1765641600
-      },
-      "venue": {
-        "id": null,
-        "name": "The Home of the Set Fare Arena",
-        "city": "Livingston"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 7
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 17",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 255,
-        "name": "Livingston",
-        "logo": "https://media.api-sports.io/football/teams/255.png",
-        "winner": null
-      },
-      "away": {
-        "id": 253,
-        "name": "Dundee",
-        "logo": "https://media.api-sports.io/football/teams/253.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 2
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382763,
-      "referee": "Duncan Nicolson, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-13T15:00:00+00:00",
-      "timestamp": 1765638000,
-      "periods": {
-        "first": 1765638000,
-        "second": 1765641600
-      },
-      "venue": {
-        "id": 1388,
-        "name": "Tannadice Park",
-        "city": "Dundee"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 17",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1386,
-        "name": "Dundee Utd",
-        "logo": "https://media.api-sports.io/football/teams/1386.png",
-        "winner": null
-      },
-      "away": {
-        "id": 256,
-        "name": "Motherwell",
-        "logo": "https://media.api-sports.io/football/teams/256.png",
-        "winner": null
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 0
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382781,
-      "referee": "Calum Scott, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-13T20:00:00+00:00",
-      "timestamp": 1765656000,
-      "periods": {
-        "first": 1765656000,
-        "second": 1765659600
-      },
-      "venue": {
-        "id": null,
-        "name": "Falkirk Stadium",
-        "city": "Falkirk"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 20",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": false
-      },
-      "away": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382781,
-      "referee": "Calum Scott, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-13T20:00:00+00:00",
-      "timestamp": 1765656000,
-      "periods": {
-        "first": 1765656000,
-        "second": 1765659600
-      },
-      "venue": {
-        "id": null,
-        "name": "Falkirk Stadium",
-        "city": "Falkirk"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 4
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 20",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 1389,
-        "name": "Falkirk",
-        "logo": "https://media.api-sports.io/football/teams/1389.png",
-        "winner": false
-      },
-      "away": {
-        "id": 254,
-        "name": "Heart Of Midlothian",
-        "logo": "https://media.api-sports.io/football/teams/254.png",
-        "winner": true
-      }
-    },
-    "goals": {
-      "home": 0,
-      "away": 2
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 0,
-        "away": 2
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
       "id": 1382781,
       "referee": "Calum Scott, Scotland",
       "timezone": "UTC",
@@ -9158,146 +6778,6 @@
       "fulltime": {
         "home": 2,
         "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382762,
-      "referee": "Ross Hardie, Scotland",
-      "timezone": "UTC",
-      "date": "2025-12-14T15:00:00+00:00",
-      "timestamp": 1765724400,
-      "periods": {
-        "first": 1765724400,
-        "second": 1765728000
-      },
-      "venue": {
-        "id": 1383,
-        "name": "Pittodrie Stadium",
-        "city": "Aberdeen"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 17",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 252,
-        "name": "Aberdeen",
-        "logo": "https://media.api-sports.io/football/teams/252.png",
-        "winner": true
-      },
-      "away": {
-        "id": 250,
-        "name": "Kilmarnock",
-        "logo": "https://media.api-sports.io/football/teams/250.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 2,
-      "away": 1
-    },
-    "score": {
-      "halftime": {
-        "home": 0,
-        "away": 1
-      },
-      "fulltime": {
-        "home": 2,
-        "away": 1
-      },
-      "extratime": {
-        "home": null,
-        "away": null
-      },
-      "penalty": {
-        "home": null,
-        "away": null
-      }
-    }
-  },
-  {
-    "fixture": {
-      "id": 1382767,
-      "referee": null,
-      "timezone": "UTC",
-      "date": "2025-12-15T19:45:00+00:00",
-      "timestamp": 1765827900,
-      "periods": {
-        "first": 1765827900,
-        "second": 1765831500
-      },
-      "venue": {
-        "id": 1401,
-        "name": "Ibrox Stadium",
-        "city": "Glasgow"
-      },
-      "status": {
-        "long": "Match Finished",
-        "short": "FT",
-        "elapsed": 90,
-        "extra": 5
-      }
-    },
-    "league": {
-      "id": 179,
-      "name": "Premiership",
-      "country": "Scotland",
-      "logo": "https://media.api-sports.io/football/leagues/179.png",
-      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
-      "season": 2025,
-      "round": "1st Phase - 17",
-      "standings": true
-    },
-    "teams": {
-      "home": {
-        "id": 257,
-        "name": "Rangers",
-        "logo": "https://media.api-sports.io/football/teams/257.png",
-        "winner": true
-      },
-      "away": {
-        "id": 249,
-        "name": "Hibernian",
-        "logo": "https://media.api-sports.io/football/teams/249.png",
-        "winner": false
-      }
-    },
-    "goals": {
-      "home": 1,
-      "away": 0
-    },
-    "score": {
-      "halftime": {
-        "home": 1,
-        "away": 0
-      },
-      "fulltime": {
-        "home": 1,
-        "away": 0
       },
       "extratime": {
         "home": null,
@@ -9452,7 +6932,7 @@
   {
     "fixture": {
       "id": 1382771,
-      "referee": null,
+      "referee": "Ryan Lee, Scotland",
       "timezone": "UTC",
       "date": "2025-12-20T15:00:00+00:00",
       "timestamp": 1766242800,
@@ -9522,7 +7002,7 @@
   {
     "fixture": {
       "id": 1382773,
-      "referee": null,
+      "referee": "Chris Graham, Scotland",
       "timezone": "UTC",
       "date": "2025-12-20T15:00:00+00:00",
       "timestamp": 1766242800,
@@ -9592,7 +7072,7 @@
   {
     "fixture": {
       "id": 1382772,
-      "referee": null,
+      "referee": "Matthew MacDermid, Scotland",
       "timezone": "UTC",
       "date": "2025-12-20T15:00:00+00:00",
       "timestamp": 1766242800,
@@ -9662,7 +7142,7 @@
   {
     "fixture": {
       "id": 1382769,
-      "referee": null,
+      "referee": "Steven McLean, Scotland",
       "timezone": "UTC",
       "date": "2025-12-20T15:00:00+00:00",
       "timestamp": 1766242800,
@@ -9732,7 +7212,7 @@
   {
     "fixture": {
       "id": 1382770,
-      "referee": null,
+      "referee": "Nick Walsh, Scotland",
       "timezone": "UTC",
       "date": "2025-12-21T13:30:00+00:00",
       "timestamp": 1766323800,
@@ -9802,7 +7282,7 @@
   {
     "fixture": {
       "id": 1382768,
-      "referee": null,
+      "referee": "David Dickinson, Scotland",
       "timezone": "UTC",
       "date": "2025-12-21T15:00:00+00:00",
       "timestamp": 1766329200,
@@ -9857,6 +7337,426 @@
       },
       "fulltime": {
         "home": 3,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382774,
+      "referee": "John Beaton, Scotland",
+      "timezone": "UTC",
+      "date": "2025-12-27T12:30:00+00:00",
+      "timestamp": 1766838600,
+      "periods": {
+        "first": 1766838600,
+        "second": 1766842200
+      },
+      "venue": {
+        "id": 1394,
+        "name": "Easter Road",
+        "city": "Edinburgh"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 7
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 249,
+        "name": "Hibernian",
+        "logo": "https://media.api-sports.io/football/teams/249.png",
+        "winner": true
+      },
+      "away": {
+        "id": 254,
+        "name": "Heart Of Midlothian",
+        "logo": "https://media.api-sports.io/football/teams/254.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 3,
+      "away": 2
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 3,
+        "away": 2
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382779,
+      "referee": "Donald Robertson, Scotland",
+      "timezone": "UTC",
+      "date": "2025-12-27T15:00:00+00:00",
+      "timestamp": 1766847600,
+      "periods": {
+        "first": 1766847600,
+        "second": 1766851200
+      },
+      "venue": {
+        "id": 11913,
+        "name": "The SMISA Stadium",
+        "city": "Paisley"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 251,
+        "name": "ST Mirren",
+        "logo": "https://media.api-sports.io/football/teams/251.png",
+        "winner": null
+      },
+      "away": {
+        "id": 250,
+        "name": "Kilmarnock",
+        "logo": "https://media.api-sports.io/football/teams/250.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382776,
+      "referee": "Steven McLean, Scotland",
+      "timezone": "UTC",
+      "date": "2025-12-27T15:00:00+00:00",
+      "timestamp": 1766847600,
+      "periods": {
+        "first": 1766847600,
+        "second": 1766851200
+      },
+      "venue": {
+        "id": null,
+        "name": "Dens Park",
+        "city": "Dundee"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 10
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 253,
+        "name": "Dundee",
+        "logo": "https://media.api-sports.io/football/teams/253.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1389,
+        "name": "Falkirk",
+        "logo": "https://media.api-sports.io/football/teams/1389.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382777,
+      "referee": "Matthew MacDermid, Scotland",
+      "timezone": "UTC",
+      "date": "2025-12-27T15:00:00+00:00",
+      "timestamp": 1766847600,
+      "periods": {
+        "first": 1766847600,
+        "second": 1766851200
+      },
+      "venue": {
+        "id": null,
+        "name": "The Home of the Set Fare Arena",
+        "city": "Livingston"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 255,
+        "name": "Livingston",
+        "logo": "https://media.api-sports.io/football/teams/255.png",
+        "winner": false
+      },
+      "away": {
+        "id": 247,
+        "name": "Celtic",
+        "logo": "https://media.api-sports.io/football/teams/247.png",
+        "winner": true
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 4
+    },
+    "score": {
+      "halftime": {
+        "home": 2,
+        "away": 4
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 4
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382778,
+      "referee": "David Dickinson, Scotland",
+      "timezone": "UTC",
+      "date": "2025-12-27T15:00:00+00:00",
+      "timestamp": 1766847600,
+      "periods": {
+        "first": 1766847600,
+        "second": 1766851200
+      },
+      "venue": {
+        "id": 1401,
+        "name": "Ibrox Stadium",
+        "city": "Glasgow"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 257,
+        "name": "Rangers",
+        "logo": "https://media.api-sports.io/football/teams/257.png",
+        "winner": true
+      },
+      "away": {
+        "id": 256,
+        "name": "Motherwell",
+        "logo": "https://media.api-sports.io/football/teams/256.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1382775,
+      "referee": null,
+      "timezone": "UTC",
+      "date": "2025-12-27T17:45:00+00:00",
+      "timestamp": 1766857500,
+      "periods": {
+        "first": 1766857500,
+        "second": 1766861100
+      },
+      "venue": {
+        "id": 1383,
+        "name": "Pittodrie Stadium",
+        "city": "Aberdeen"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 179,
+      "name": "Premiership",
+      "country": "Scotland",
+      "logo": "https://media.api-sports.io/football/leagues/179.png",
+      "flag": "https://media.api-sports.io/flags/gb-sct.svg",
+      "season": 2025,
+      "round": "1st Phase - 19",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 252,
+        "name": "Aberdeen",
+        "logo": "https://media.api-sports.io/football/teams/252.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1386,
+        "name": "Dundee Utd",
+        "logo": "https://media.api-sports.io/football/teams/1386.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 1
+      },
+      "fulltime": {
+        "home": 1,
         "away": 1
       },
       "extratime": {

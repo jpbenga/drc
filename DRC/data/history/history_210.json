@@ -5948,5 +5948,285 @@
         "away": null
       }
     }
+  },
+  {
+    "fixture": {
+      "id": 1384006,
+      "referee": "Duje Strukan, Croatia",
+      "timezone": "UTC",
+      "date": "2025-12-20T14:00:00+00:00",
+      "timestamp": 1766239200,
+      "periods": {
+        "first": 1766239200,
+        "second": 1766242800
+      },
+      "venue": {
+        "id": 0,
+        "name": "Opus Arena",
+        "city": "Osijek"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 210,
+      "name": "HNL",
+      "country": "Croatia",
+      "logo": "https://media.api-sports.io/football/leagues/210.png",
+      "flag": "https://media.api-sports.io/flags/hr.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 616,
+        "name": "NK Osijek",
+        "logo": "https://media.api-sports.io/football/teams/616.png",
+        "winner": null
+      },
+      "away": {
+        "id": 1018,
+        "name": "NK Slaven Belupo",
+        "logo": "https://media.api-sports.io/football/teams/1018.png",
+        "winner": null
+      }
+    },
+    "goals": {
+      "home": 0,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 0,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1384004,
+      "referee": "Ante Culina, Croatia",
+      "timezone": "UTC",
+      "date": "2025-12-20T16:45:00+00:00",
+      "timestamp": 1766249100,
+      "periods": {
+        "first": 1766249100,
+        "second": 1766252700
+      },
+      "venue": {
+        "id": 0,
+        "name": "Stadion Maksimir",
+        "city": "Zagreb"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 4
+      }
+    },
+    "league": {
+      "id": 210,
+      "name": "HNL",
+      "country": "Croatia",
+      "logo": "https://media.api-sports.io/football/leagues/210.png",
+      "flag": "https://media.api-sports.io/flags/hr.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 620,
+        "name": "Dinamo Zagreb",
+        "logo": "https://media.api-sports.io/football/teams/620.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1017,
+        "name": "NK Lokomotiva Zagreb",
+        "logo": "https://media.api-sports.io/football/teams/1017.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1384005,
+      "referee": "Zdenko Lovrić, Croatia",
+      "timezone": "UTC",
+      "date": "2025-12-21T14:00:00+00:00",
+      "timestamp": 1766325600,
+      "periods": {
+        "first": 1766325600,
+        "second": 1766329200
+      },
+      "venue": {
+        "id": 0,
+        "name": "Stadion Poljud",
+        "city": "Split"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 6
+      }
+    },
+    "league": {
+      "id": 210,
+      "name": "HNL",
+      "country": "Croatia",
+      "logo": "https://media.api-sports.io/football/leagues/210.png",
+      "flag": "https://media.api-sports.io/flags/hr.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 608,
+        "name": "HNK Hajduk Split",
+        "logo": "https://media.api-sports.io/football/teams/608.png",
+        "winner": true
+      },
+      "away": {
+        "id": 5730,
+        "name": "Vukovar",
+        "logo": "https://media.api-sports.io/football/teams/5730.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 2,
+      "away": 1
+    },
+    "score": {
+      "halftime": {
+        "home": 1,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 2,
+        "away": 1
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
+  },
+  {
+    "fixture": {
+      "id": 1384007,
+      "referee": "Dario Bel, Croatia",
+      "timezone": "UTC",
+      "date": "2025-12-21T16:45:00+00:00",
+      "timestamp": 1766335500,
+      "periods": {
+        "first": 1766335500,
+        "second": 1766339100
+      },
+      "venue": {
+        "id": 0,
+        "name": "Stadion HNK Rijeka",
+        "city": "Rijeka"
+      },
+      "status": {
+        "long": "Match Finished",
+        "short": "FT",
+        "elapsed": 90,
+        "extra": 5
+      }
+    },
+    "league": {
+      "id": 210,
+      "name": "HNL",
+      "country": "Croatia",
+      "logo": "https://media.api-sports.io/football/leagues/210.png",
+      "flag": "https://media.api-sports.io/flags/hr.svg",
+      "season": 2025,
+      "round": "Regular Season - 18",
+      "standings": true
+    },
+    "teams": {
+      "home": {
+        "id": 561,
+        "name": "HNK Rijeka",
+        "logo": "https://media.api-sports.io/football/teams/561.png",
+        "winner": true
+      },
+      "away": {
+        "id": 1068,
+        "name": "HNK Gorica",
+        "logo": "https://media.api-sports.io/football/teams/1068.png",
+        "winner": false
+      }
+    },
+    "goals": {
+      "home": 1,
+      "away": 0
+    },
+    "score": {
+      "halftime": {
+        "home": 0,
+        "away": 0
+      },
+      "fulltime": {
+        "home": 1,
+        "away": 0
+      },
+      "extratime": {
+        "home": null,
+        "away": null
+      },
+      "penalty": {
+        "home": null,
+        "away": null
+      }
+    }
   }
 ]
