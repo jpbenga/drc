@@ -42,10 +42,11 @@ tests/               # Smoke tests (pipeline mini), snapshot métriques, tests m
 4. **Prédiction** : modèle Poisson/DC + shrinkage + impact players, piloté par un module unique.
 5. **Calibration** : walk-forward par sous-marché (Platt/isotonic) avec snapshots et versioning.
 6. **Évaluation** : métriques (Brier, NLL score exact, ROI simulé), buckets de confiance, comparaison vs baseline.
-7. **Reporting/UI** : dashboards basés sur JSON normalisé ; export HTML/CSV ; hooks dumps debug.
+7. **Reporting/UI** : dashboards basés sur JSON normalisé ; export HTML/CSV ; hooks dumps debug ; persistance des dumps (local/S3) avec rotation.
 
-## Plan de migration (4 phases)
+## Plan de migration (5 phases)
 1. **Phase 1 (cette PR)** : extraire un module `core` pour le modèle (Poisson/DC + impact players + calibration) et brancher le backtest dessus. Ajouter un smoke test déterministe.
 2. **Phase 2** : créer un client API unifié avec cache/validation (fixtures, odds, meta) + gestion rate-limit/backoff. Centraliser le mapping des marchés (OU2.5/3.5, BTTS, TT Away >0.5, double chance) et les contrôles d’incohérences.
 3. **Phase 3** : isoler la génération UI (composants) et introduire une CLI (`src/cli`) enveloppant backtest/today/enrich. Ajouter des dumps debug standardisés et des logs structurés.
 4. **Phase 4** : formaliser la validation de schémas (zod/superstruct), ajouter des tests de non-régression (snapshot métriques, comparaison Brier/ROI), et aligner optimiser/backtest sur un contrat de paramètres commun. Préparer une migration progressive vers TS si souhaité.
+5. **Phase 5** : simulations ROI (flat/Kelly), hooks money management, stockage persistant des dumps/rapports (rotation), et monitoring des anomalies odds en temps réel.

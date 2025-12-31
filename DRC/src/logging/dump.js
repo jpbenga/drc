@@ -11,7 +11,13 @@ function writeDump(label, data, { dir = 'debug/dumps', meta } = {}) {
   return file;
 }
 
-function createDumpWriter(scope, { dir = 'debug/dumps', withManifest = true } = {}) {
+function pruneManifest(manifest, retention) {
+  if (!retention || manifest.length <= retention) return [];
+  const extra = manifest.length - retention;
+  return manifest.splice(0, extra);
+}
+
+function createDumpWriter(scope, { dir = 'debug/dumps', withManifest = true, retention, persist } = {}) {
   const baseDir = path.resolve(dir, scope);
   if (!fs.existsSync(baseDir)) fs.mkdirSync(baseDir, { recursive: true });
   const manifestPath = path.join(baseDir, 'manifest.json');
@@ -23,7 +29,12 @@ function createDumpWriter(scope, { dir = 'debug/dumps', withManifest = true } = 
     const file = writeDump(stampedLabel, data, { dir: baseDir, meta: { ...meta, scope, ts } });
     const entry = { label, file, ts, meta };
     manifest.push(entry);
+    const removed = pruneManifest(manifest, retention);
+    removed.forEach((r) => {
+      if (fs.existsSync(r.file)) fs.unlinkSync(r.file);
+    });
     if (withManifest) fs.writeFileSync(manifestPath, JSON.stringify(manifest, null, 2), 'utf8');
+    if (persist && typeof persist === 'function') persist(entry);
     return entry;
   }
 

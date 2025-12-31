@@ -103,6 +103,9 @@ async function run(range, argv = process.argv.slice(2)) {
   console.log(`Range: ${rangeDates.from} -> ${rangeDates.to}`);
   console.log(`Matches evaluated: ${summary.total}`);
   console.log(`Pick accuracy: ${(summary.pickAccuracy * 100).toFixed(2)}%`);
+  if (summary.roi) {
+    console.log(`ROI: ${(summary.roi.roi * 100).toFixed(2)}% on ${summary.roi.totalBets} bets (bankroll ${summary.roi.bankrollEnd.toFixed(2)})`);
+  }
   return summary;
 }
 

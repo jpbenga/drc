@@ -1,6 +1,6 @@
 const fs = require('fs');
 const path = require('path');
-const { calculatePoissonPro, PlattCalibrator, clamp } = require('../core');
+const { calculatePoissonPro, PlattCalibrator, clamp, createRoiTracker } = require('../core');
 const { mapFixtureOdds } = require('../data/oddsMapping');
 const { writeDump } = require('../logging/dump');
 const { createLogger } = require('../logging/logger');
@@ -45,6 +45,7 @@ function runBacktestHeadless({
     btts: new PlattCalibrator({ lr: 0.02, reg: 0.001 }),
     awayOver05: new PlattCalibrator({ lr: 0.02, reg: 0.001 }),
   };
+  const roiTracker = createRoiTracker({ initialBankroll: 100, strategy: 'kelly', kellyFraction: 0.3 });
   const global = {
     total: 0,
     correctPicks: 0,
@@ -130,6 +131,33 @@ function runBacktestHeadless({
       if (mapped.warnings.length) {
         global.warnings.push({ fixture: m.fixture.id, warnings: mapped.warnings });
       }
+      const dcMarket = mapped.markets.double_chance;
+      if (dcMarket) {
+        const prob = pick === '1X' ? res.H + res.D : res.D + res.A;
+        const outcome = pick === '1X' ? actualH >= actualA : actualA >= actualH;
+        const odd = dcMarket[pick]?.odd;
+        roiTracker.recordBet({ market: 'double_chance', selection: pick, probability: prob, odd, outcome, meta: { fixture: m.fixture.id } });
+      }
+      const ouMarket = mapped.markets.ou25;
+      if (ouMarket && ouMarket.over?.odd && ouMarket.under?.odd) {
+        const outcome = actualH + actualA > 2;
+        const odd = outcome ? ouMarket.over.odd : ouMarket.under.odd;
+        const prob = outcome ? pOver25 : 1 - pOver25;
+        roiTracker.recordBet({ market: 'ou25', selection: outcome ? 'over' : 'under', probability: prob, odd, outcome, meta: { fixture: m.fixture.id } });
+      }
+      const bttsMarket = mapped.markets.btts;
+      if (bttsMarket) {
+        const outcome = actualH > 0 && actualA > 0;
+        const odd = outcome ? bttsMarket.yes?.odd : bttsMarket.no?.odd;
+        const prob = outcome ? pBTTS : 1 - pBTTS;
+        roiTracker.recordBet({ market: 'btts', selection: outcome ? 'yes' : 'no', probability: prob, odd, outcome, meta: { fixture: m.fixture.id } });
+      }
+      const awayOverMarket = mapped.markets.away_over_05;
+      if (awayOverMarket?.over?.odd) {
+        const outcome = actualA > 0;
+        const prob = pAwayOver05;
+        roiTracker.recordBet({ market: 'away_over_05', selection: 'over', probability: prob, odd: awayOverMarket.over.odd, outcome, meta: { fixture: m.fixture.id } });
+      }
     }
 
     global.total += 1;
@@ -169,6 +197,7 @@ function runBacktestHeadless({
     ou25Accuracy: global.total ? global.ouCorrect / global.total : 0,
     bttsAccuracy: global.total ? global.bttsCorrect / global.total : 0,
     awayOver05Accuracy: global.total ? global.awayOver05Correct / global.total : 0,
+    roi: roiTracker.summary(),
     warnings: global.warnings,
     calibrators: {
       ou25: calibrators.ou25.snapshot(),

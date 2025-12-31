@@ -57,6 +57,9 @@ function run(argv = process.argv.slice(2)) {
   console.log(`OU2.5 accuracy: ${(summary.ou25Accuracy * 100).toFixed(2)}%`);
   console.log(`BTTS accuracy: ${(summary.bttsAccuracy * 100).toFixed(2)}%`);
   console.log(`Away>0.5 accuracy: ${(summary.awayOver05Accuracy * 100).toFixed(2)}%`);
+  if (summary.roi) {
+    console.log(`ROI: ${(summary.roi.roi * 100).toFixed(2)}% on ${summary.roi.totalBets} bets (bankroll ${summary.roi.bankrollEnd.toFixed(2)})`);
+  }
 }
 
 if (require.main === module) {
