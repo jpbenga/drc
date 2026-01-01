@@ -3,7 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node tests/run_all.js",
+    "smoke": "node tests/smoke_backtest.js",
+    "backtest": "node src/cli/backtest.js",
+    "cli": "node src/cli/index.js",
+    "enrich": "node src/cli/index.js enrich",
+    "today": "node src/cli/index.js today",
+    "last7days": "node src/cli/index.js last7days"
   },
   "keywords": [],
   "author": "",
@@ -12,6 +18,7 @@
   "dependencies": {
     "axios": "^1.13.2",
     "express": "^5.2.1",
-    "opn": "^5.5.0"
+    "opn": "^5.5.0",
+    "zod": "^3.23.8"
   }
 }

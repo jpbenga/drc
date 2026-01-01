@@ -1,0 +1,11 @@
+require('./smoke_backtest');
+require('./apiClient.test');
+require('./oddsMapping.test');
+require('./pipeline_backtest.test');
+require('./ui_backtest.test');
+require('./dump.test');
+require('./validation.test');
+require('./regression_backtest.test');
+require('./live_cli.test');
+require('./roi.test');
+console.log('✅ all tests executed');

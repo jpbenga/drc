@@ -1,0 +1,21 @@
+{
+  "total": 3,
+  "pickAccuracy": 0.6666666666666666,
+  "ou25Accuracy": 0,
+  "bttsAccuracy": 0,
+  "awayOver05Accuracy": 0.6666666666666666,
+  "warnings": [
+    {
+      "fixture": 4,
+      "warnings": [
+        "ou35: Implied probability sum looks inconsistent: 0.33",
+        "double_chance: Implied probability sum looks inconsistent: 2.29"
+      ]
+    }
+  ],
+  "calibrators": {
+    "ou25": { "a": 0.9935089144798798, "b": 0.012321343557001013, "n": 3 },
+    "btts": { "a": 0.9963357761103248, "b": 0.009914498735012071, "n": 3 },
+    "awayOver05": { "a": 0.9954363804740529, "b": -0.001079894109692843, "n": 3 }
+  }
+}
