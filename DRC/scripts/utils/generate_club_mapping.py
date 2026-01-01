@@ -12,11 +12,13 @@ import argparse
 import json
 import unicodedata
 from difflib import SequenceMatcher
+from pathlib import Path
 from typing import Dict, Iterable, List, Tuple
 
-DEFAULT_HISTORY = "data/history/history_40.json"
-DEFAULT_ELO = "data/elo/clubelo_rankings.json"
-DEFAULT_OUTPUT = "data/elo/championship_club_mapping.json"
+BASE_DIR = Path(__file__).resolve().parents[2]
+DEFAULT_HISTORY = BASE_DIR / "data" / "history" / "history_40.json"
+DEFAULT_ELO = BASE_DIR / "data" / "elo" / "clubelo_rankings.json"
+DEFAULT_OUTPUT = BASE_DIR / "data" / "elo" / "championship_club_mapping.json"
 
 
 STOP_WORDS = {"fc", "afc", "cf", "club"}
@@ -24,11 +26,11 @@ STOP_WORDS = {"fc", "afc", "cf", "club"}
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--history", default=DEFAULT_HISTORY, help="Path to history_<league>.json")
-    parser.add_argument("--elo", default=DEFAULT_ELO, help="Path to clubelo_rankings.json")
+    parser.add_argument("--history", default=str(DEFAULT_HISTORY), help="Path to history_<league>.json")
+    parser.add_argument("--elo", default=str(DEFAULT_ELO), help="Path to clubelo_rankings.json")
     parser.add_argument(
         "--output",
-        default=DEFAULT_OUTPUT,
+        default=str(DEFAULT_OUTPUT),
         help="Destination for the suggestion JSON report",
     )
     parser.add_argument(

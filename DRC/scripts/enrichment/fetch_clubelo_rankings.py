@@ -15,12 +15,14 @@ import io
 import json
 import os
 from datetime import date
+from pathlib import Path
 from typing import List, Dict
 
 import requests
 
 BASE_URL = "http://api.clubelo.com"
-DEFAULT_OUTPUT = os.path.join("data", "elo", "clubelo_rankings.json")
+BASE_DIR = Path(__file__).resolve().parents[2]
+DEFAULT_OUTPUT = BASE_DIR / "data" / "elo" / "clubelo_rankings.json"
 
 
 def parse_args() -> argparse.Namespace:
@@ -34,7 +36,7 @@ def parse_args() -> argparse.Namespace:
     parser.add_argument(
         "--output",
         type=str,
-        default=DEFAULT_OUTPUT,
+        default=str(DEFAULT_OUTPUT),
         help=f"Output JSON path (default: {DEFAULT_OUTPUT})",
     )
     return parser.parse_args()

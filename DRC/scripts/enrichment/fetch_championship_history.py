@@ -20,12 +20,14 @@ import json
 import os
 import time
 from datetime import datetime
+from pathlib import Path
 from typing import Dict, List, Optional
 
 import requests
 
 API_URL = "https://v3.football.api-sports.io/fixtures"
 DEFAULT_LEAGUE_ID = 40  # English Championship
+BASE_DIR = Path(__file__).resolve().parents[2]
 
 
 def parse_args() -> argparse.Namespace:
@@ -106,7 +108,7 @@ def collect_fixtures(api_key: str, league: int, season: int, date: Optional[str]
 def build_output_path(league: int, custom: Optional[str]) -> str:
     if custom:
         return custom
-    return os.path.join("data", "history", f"history_{league}.json")
+    return str(BASE_DIR / "data" / "history" / f"history_{league}.json")
 
 
 def save_history(fixtures: List[Dict], path: str) -> None:
