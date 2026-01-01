@@ -21,7 +21,7 @@ const LEAGUES = [
 const delay = ms => new Promise(resolve => setTimeout(resolve, ms));
 
 async function downloadAll() {
-    console.log(`📥 TÉLÉCHARGEMENT DES DONNÉES SAISON ${SEASON}...`);
+    console.log(`📥 TÉLÉCHARGEMENT DES DONNÉES SAISON ${SEASON}....`);
     
     for (const league of LEAGUES) {
         const fileName = `history_${league.id}.json`;
